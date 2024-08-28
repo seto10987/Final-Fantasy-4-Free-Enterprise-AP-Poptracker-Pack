@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Cecil",
+    "type": "progressive",
+    "allow_disabled": false,
+    "codes": "cecilcharacter",
+    "stages": [
+      {
+        "img": "images/characters/cecildisabled.png"
+      },
+      {
+        "img": "images/characters/cecil.png"
+      }
+    ]
+  },
+  {
+    "name": "Kain",
+    "type": "progressive",
+    "allow_disabled": false,
+    "codes": "kaincharacter",
+    "stages": [
+      {
+        "img": "images/characters/kaindisabled.png"
+      },
+      {
+        "img": "images/characters/kain.png"
+      }
+    ]
+  },
+  {
+    "name": "Rydia",
+    "type": "progressive",
+    "allow_disabled": false,
+    "codes": "rydiacharacter",
+    "stages": [
+      {
+        "img": "images/characters/rydiadisabled.png"
+      },
+      {
+        "img": "images/characters/rydia.png"
+      }
+    ]
+  },
+  {
+    "name": "Tellah",
+    "type": "progressive",
+    "allow_disabled": false,
+    "codes": "tellahcharacter",
+    "stages": [
+      {
+        "img": "images/characters/tellahdisabled.png"
+      },
+      {
+        "img": "images/characters/tellah.png"
+      }
+    ]
+  },
+  {
+    "name": "Edward",
+    "type": "progressive",
+    "allow_disabled": false,
+    "codes": "edwardcharacter",
+    "stages": [
+      {
+        "img": "images/characters/edwarddisabled.png"
+      },
+      {
+        "img": "images/characters/edward.png"
+      }
+    ]
+  },
+  {
+    "name": "Rosa",
+    "type": "progressive",
+    "allow_disabled": false,
+    "codes": "rosacharacter",
+    "stages": [
+      {
+        "img": "images/characters/rosadisabled.png"
+      },
+      {
+        "img": "images/characters/rosa.png"
+      }
+    ]
+  },
+  {
+    "name": "Yang",
+    "type": "progressive",
+    "allow_disabled": false,
+    "codes": "yangcharacter",
+    "stages": [
+      {
+        "img": "images/characters/yangdisabled.png"
+      },
+      {
+        "img": "images/characters/yang.png"
+      }
+    ]
+  },
+  {
+    "name": "Porom",
+    "type": "progressive",
+    "allow_disabled": false,
+    "codes": "poromcharacter",
+    "stages": [
+      {
+        "img": "images/characters/poromdisabled.png"
+      },
+      {
+        "img": "images/characters/porom.png"
+      }
+    ]
+  },
+  {
+    "name": "Palom",
+    "type": "progressive",
+    "allow_disabled": false,
+    "codes": "palomcharacter",
+    "stages": [
+      {
+        "img": "images/characters/palomdisabled.png"
+      },
+      {
+        "img": "images/characters/palom.png"
+      }
+    ]
+  },
+  {
+    "name": "Cid",
+    "type": "progressive",
+    "allow_disabled": false,
+    "codes": "cidcharacter",
+    "stages": [
+      {
+        "img": "images/characters/ciddisabled.png"
+      },
+      {
+        "img": "images/characters/cid.png"
+      }
+    ]
+  },
+  {
+    "name": "Edge",
+    "type": "progressive",
+    "allow_disabled": false,
+    "codes": "edgecharacter",
+    "stages": [
+      {
+        "img": "images/characters/edgedisabled.png"
+      },
+      {
+        "img": "images/characters/edge.png"
+      }
+    ]
+  },
+  {
+    "name": "FuSoYa",
+    "type": "progressive",
+    "allow_disabled": false,
+    "codes": "fusoyacharacter",
+    "stages": [
+      {
+        "img": "images/characters/fusoyadisabled.png"
+      },
+      {
+        "img": "images/characters/fusoya.png"
+      }
+    ]
+  }
+]

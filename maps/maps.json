@@ -1,0 +1,20 @@
+[
+    {
+        "name": "overworld",
+        "location_size": 96,
+        "location_border_thickness": 8,
+        "img": "images/maps/overworld.png"
+    },
+    {
+        "name": "underworld",
+        "location_size": 48,
+        "location_border_thickness": 4,
+        "img": "images/maps/underworld.png"
+    },
+    {
+        "name": "moon",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/moon.png"
+    }
+]

@@ -1,0 +1,68 @@
+﻿{
+    "tracker_broadcast": {
+            "type": "container",
+            "background": "#212121",
+        "orientation": "horizontal",
+            "content": {
+                "type": "dock",
+                "dropshadow": true,
+                "content": [
+                    {
+                        "type": "dock",
+                        "dock": "left",
+            "orientation": "horizontal",
+                        "content": [
+                            {
+                                "type": "dock",
+                                "dock": "top",
+                                "v_alignment": "stretch",
+                                "content": [
+                                    {
+                                        "type": "group",
+                                        "header": "Characters",
+                                        "dock": "top",
+                                        "content": {
+                                            "type": "layout",
+                                            "key": "character_grid"
+                                        }
+                                    },
+                                    {
+                                        "type": "group",
+                                        "header": "Key Items",
+                                        "dock": "top",
+                                        "content": {
+                                            "type": "layout",
+                                            "key": "item_grid"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+            {
+                        "type": "dock",
+                        "dock": "left",
+            "orientation": "horizontal",
+                        "content": [
+                {
+                                "type": "dock",
+                                "dock": "center",
+                                "v_alignment": "stretch",
+                                "content": [
+                    {
+                                        "type": "group",
+                                        "header": "Bosses",
+                                        "dock": "top",
+                                        "content": {
+                                            "type": "layout",
+                                            "key": "boss_grid"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+}

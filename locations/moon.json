@@ -1,0 +1,221 @@
+[
+    {
+        "name": "Moon",
+        "access_rules": ["darknesscrystal"],
+        "children": [
+            {
+                "name": "Lunar Path",
+                "chest_unopened_img": "images/icons/chest_blue_unopened.png",
+                "chest_opened_img": "images/icons/chest_blue_opened.png",
+                "sections": [
+                    {
+                        "name": "Lunar Path --  -- bottom right"
+                    },
+                    {
+                        "name": "Lunar Path --  -- northeast chamber, top"
+                    },
+                    {
+                        "name": "Lunar Path --  -- northeast chamber, right"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moon",
+                        "x": 200,
+                        "y": 423
+                    },
+                    {
+                        "map": "moon",
+                        "x": 200,
+                        "y": 514
+                    }
+                ]
+            },
+            {
+                "name": "Cave Bahamut",
+                "chest_unopened_img": "images/icons/chest_blue_unopened.png",
+                "chest_opened_img": "images/icons/chest_blue_opened.png",
+                "sections": [
+                    {
+                        "name": "Cave Bahamut -- B1F -- right, through secret path"
+                    },
+                    {
+                        "name": "Cave Bahamut -- B1F -- bottom left"
+                    },
+                    {
+                        "name": "Cave Bahamut -- B2F -- left"
+                    },
+                    {
+                        "name": "Cave Bahamut -- B2F -- right"
+                    },
+                    {
+                        "name": "Cave Bahamut -- B3F -- Baham item",
+                        "chest_unopened_img": "images/icons/boss_bahamut_unopened.png",
+                        "chest_opened_img": "images/icons/boss_bahamut_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moon",
+                        "x": 888,
+                        "y": 568
+                    }
+                ]
+            },
+            {
+                "name": "Lunar Subterrane",
+                "chest_unopened_img": "images/icons/chest_blue_unopened.png",
+                "chest_opened_img": "images/icons/chest_blue_opened.png",
+                "sections": [
+                    {
+                        "name": "Lunar Palace Character",
+                        "visibility_rules": ["noearnedcharactersoff"],
+                        "chest_unopened_img": "images/characters/fusoya.png",
+                        "chest_opened_img": "images/characters/fusoyadisabled.png"
+                    },
+                    {
+                        "name": "Lunar Subterrane -- B2 (route to altar) -- chest"
+                    },
+                    {
+                        "name": "Lunar Subterrane -- B2 (route to altar) -- Altar 1 (Murasame slot)",
+                        "chest_unopened_img": "images/icons/boss_pale_dim_unopened.png",
+                        "chest_opened_img": "images/icons/boss_pale_dim_opened.png"
+                    },
+                    {
+                        "name": "Lunar Subterrane -- B1 -- through secret path"
+                    },
+                    {
+                        "name": "Lunar Subterrane -- B2 (main route) -- secret path chest"
+                    },
+                    {
+                        "name": "Lunar Subterrane -- B2 (main route) -- top left"
+                    },
+                    {
+                        "name": "Lunar Subterrane -- B3 -- secret path first chamber"
+                    },
+                    {
+                        "name": "Lunar Subterrane -- B3 -- secret path second chamber, top"
+                    },
+                    {
+                        "name": "Lunar Subterrane -- B3 -- secret path second chamber, left"
+                    },
+                    {
+                        "name": "Lunar Subterrane -- B4 -- top right"
+                    },
+                    {
+                        "name": "Lunar Subterrane -- B4 (west room) -- chest"
+                    },
+                    {
+                        "name": "Lunar Subterrane -- B4 (interior passage) -- top right"
+                    },
+                    {
+                        "name": "Lunar Subterrane -- B4 (interior passage) -- bottom left"
+                    },
+                    {
+                        "name": "Lunar Subterrane -- B4 -- bottom left"
+                    },
+                    {
+                        "name": "Lunar Subterrane -- B5 (main route) -- top left"
+                    },
+                    {
+                        "name": "Lunar Subterrane -- B5 (first interior passage) -- chest"
+                    },
+                    {
+                        "name": "Lunar Subterrane -- B5 (through first interior passage south exit) -- chest"
+                    },
+                    {
+                        "name": "Lunar Subterrane -- B5 (main route) -- right"
+                    },
+                    {
+                        "name": "Lunar Subterrane -- B5 (second interior passage) -- chest"
+                    },
+                    {
+                        "name": "Lunar Subterrane -- B5 (main route) -- bottom left"
+                    },
+                    {
+                        "name": "Lunar Subterrane -- B5 (PinkPuff room) -- chest"
+                    },
+                    {
+                        "name": "Lunar Subterrane -- B6 -- left of entrance"
+                    },
+                    {
+                        "name": "Lunar Subterrane -- B6 -- right of entrance"
+                    },
+                    {
+                        "name": "Lunar Subterrane -- B6 -- by hidden bridge"
+                    },
+                    {
+                        "name": "Lunar Subterrane -- B6 -- en route to altar"
+                    },
+                    {
+                        "name": "Lunar Subterrane -- B5 -- on bridge to hidden altar"
+                    },
+                    {
+                        "name": "Lunar Subterrane -- B5 (hidden altar) -- Altar 2 (Crystal slot)",
+                        "chest_unopened_img": "images/icons/boss_wyvern_unopened.png",
+                        "chest_opened_img": "images/icons/boss_wyvern_opened.png"
+                    },
+                    {
+                        "name": "Lunar Subterrane -- B5 to B6 passage -- chest"
+                    },
+                    {
+                        "name": "Lunar Subterrane -- B7 (middle room) -- Altar 3 (White Spear slot)",
+                        "chest_unopened_img": "images/icons/boss_plague_unopened.png",
+                        "chest_opened_img": "images/icons/boss_plague_opened.png"
+                    },
+                    {
+                        "name": "Lunar Subterrane -- B7 (right room) -- Ribbon Left",
+                        "chest_unopened_img": "images/icons/boss_lunar_dragons_unopened.png",
+                        "chest_opened_img": "images/icons/boss_lunar_dragons_opened.png"
+                    },
+                    {
+                        "name": "Lunar Subterrane -- B7 (right room) -- Ribbon Right",
+                        "chest_unopened_img": "images/icons/boss_lunar_dragons_unopened.png",
+                        "chest_opened_img": "images/icons/boss_lunar_dragons_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moon",
+                        "x": 360,
+                        "y": 600
+                    }
+                ]
+            },
+            {
+                "name": "Lunar Subterrane Core",
+                "chest_unopened_img": "images/icons/chest_blue_unopened.png",
+                "chest_opened_img": "images/icons/chest_blue_opened.png",
+                "sections": [
+                    {
+                        "name": "Lunar Subterrane -- Core B1 -- chest"
+                    },
+                    {
+                        "name": "Lunar Subterrane -- B8 -- Altar 4 (Masamune slot)",
+                        "chest_unopened_img": "images/icons/boss_ogopogo_unopened.png",
+                        "chest_opened_img": "images/icons/boss_ogopogo_opened.png"
+                    },
+                    {
+                        "name": "Lunar Subterrane -- Core B2 -- top right"
+                    },
+                    {
+                        "name": "Lunar Subterrane -- Core B2 -- bottom"
+                    },
+                    {
+                        "name": "Lunar Subterrane -- Core B3 -- left"
+                    },
+                    {
+                        "name": "Lunar Subterrane -- Core B3 -- right"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moon",
+                        "x": 360,
+                        "y": 560
+                    }
+                ]
+            }                        
+        ]
+    }
+]

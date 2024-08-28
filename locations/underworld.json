@@ -1,0 +1,533 @@
+[
+    {
+        "name": "Underworld",
+        "chest_unopened_img": "images/icons/chest_brown_unopened.png",
+        "chest_opened_img": "images/icons/chest_brown_opened.png",
+        "access_rules": ["magmakey","hook"],
+        "children": [
+            {
+                "name": "Dwarf Castle",
+                "sections": [
+                    {
+                        "name": "Dwarf Castle -- B1F (Fat Chocobo) -- left pot",
+                        "chest_unopened_img": "images/icons/pot_unopened.png",
+                        "chest_opened_img": "images/icons/pot_opened.png"
+                    },
+                    {
+                        "name": "Dwarf Castle -- B1F (Fat Chocobo) -- top pot",
+                        "chest_unopened_img": "images/icons/pot_unopened.png",
+                        "chest_opened_img": "images/icons/pot_opened.png"
+                    },
+                    {
+                        "name": "Dwarf Castle -- B1F (Fat Chocobo) -- right pot",
+                        "chest_unopened_img": "images/icons/pot_unopened.png",
+                        "chest_opened_img": "images/icons/pot_opened.png"
+                    },
+                    {
+                        "name": "Dwarf Castle -- B2F (tunnel) -- left chest"
+                    },
+                    {
+                        "name": "Dwarf Castle -- B2F (tunnel) -- middle chest"
+                    },
+                    {
+                        "name": "Dwarf Castle -- B2F (tunnel) -- right chest"
+                    },
+                    {
+                        "name": "Dwarf Castle -- East tower 1F -- chest"
+                    },
+                    {
+                        "name": "Dwarf Castle -- Inn -- pot",
+                        "chest_unopened_img": "images/icons/pot_unopened.png",
+                        "chest_opened_img": "images/icons/pot_opened.png"
+                    },
+                    {
+                        "name": "Dwarf Castle -- East tower 3F -- top"
+                    },
+                    {
+                        "name": "Dwarf Castle -- East tower 3F -- left"
+                    },
+                    {
+                        "name": "Dwarf Castle -- East tower 3F -- right"
+                    },
+                    {
+                        "name": "Dwarf Castle -- East tower 3F -- bottom"
+                    },
+                    {
+                        "name": "Dwarf Castle -- West tower 3F -- top"
+                    },
+                    {
+                        "name": "Dwarf Castle -- West tower 3F -- left"
+                    },
+                    {
+                        "name": "Dwarf Castle -- West tower 3F -- right"
+                    },
+                    {
+                        "name": "Dwarf Castle -- West tower 3F -- bottom"
+                    },
+                    {
+                        "name": "Dwarf Castle -- West tower 2F -- pot",
+                        "chest_unopened_img": "images/icons/pot_unopened.png",
+                        "chest_opened_img": "images/icons/pot_opened.png"
+                    },
+                    {
+                        "name": "Dwarf Castle -- East tower 2F -- pot",
+                        "chest_unopened_img": "images/icons/pot_unopened.png",
+                        "chest_opened_img": "images/icons/pot_opened.png"
+                    },
+                    {
+                        "name": "Dwarf Castle -- Throne Room -- Luca item",
+                        "chest_unopened_img": "images/icons/key_luca_unopened.png",
+                        "chest_opened_img": "images/icons/key_luca_opened.png"
+                    },
+                    {
+                        "name": "Dwarf Castle Character",
+                        "visibility_rules": ["noearnedcharactersoff"],
+                        "chest_unopened_img": "images/characters/rydia.png",
+                        "chest_opened_img": "images/characters/rydiadisabled.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "underworld",
+                        "x": 1598,
+                        "y": 1308
+                    }
+                ]
+            },
+            {
+                "name": "Tower of Bab-il (lower)",
+                "chest_unopened_img": "images/icons/chest_brown_unopened.png",
+                "chest_opened_img": "images/icons/chest_brown_opened.png",
+                "sections": [
+                    {
+                        "name": "Tower of Bab-il (lower) -- 1F -- left top"
+                    },
+                    {
+                        "name": "Tower of Bab-il (lower) -- 1F -- left bottom"
+                    },
+                    {
+                        "name": "Tower of Bab-il (lower) -- 1F -- right"
+                    },
+                    {
+                        "name": "Tower of Bab-il (lower) -- 2F -- chest"
+                    },
+                    {
+                        "name": "Tower of Bab-il (lower) -- 3F -- top left"
+                    },
+                    {
+                        "name": "Tower of Bab-il (lower) -- 3F -- right"
+                    },
+                    {
+                        "name": "Tower of Bab-il (lower) -- 3F -- bottom"
+                    },
+                    {
+                        "name": "Tower of Bab-il (lower) -- 4F (through 3F southeast door) -- left"
+                    },
+                    {
+                        "name": "Tower of Bab-il (lower) -- 4F (through 3F southeast door) -- right"
+                    },
+                    {
+                        "name": "Tower of Bab-il (lower) -- 5F -- left"
+                    },
+                    {
+                        "name": "Tower of Bab-il (lower) -- 5F -- right"
+                    },
+                    {
+                        "name": "Tower of Bab-il (lower) -- 7F -- chest"
+                    },
+                    {
+                        "name": "Tower of Bab-il (lower) -- 8F -- item (Tower Key slot)",
+                        "chest_unopened_img": "images/icons/key_tower_unopened.png",
+                        "chest_opened_img": "images/icons/key_tower_opened.png"
+                    },
+                    {
+                        "name": "Tower of Bab-il (lower) -- 5F -- item (Super Cannon destruction)",
+                        "chest_unopened_img": "images/icons/boss_dark_imps_unopened.png",
+                        "chest_opened_img": "images/icons/boss_dark_imps_opened.png",
+                        "access_rules": ["towerkey"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "underworld",
+                        "x": 780,
+                        "y": 236
+                    }
+                ]
+            },
+            {
+                "name": "Tomra",
+                "chest_unopened_img": "images/icons/chest_dwarves_unopened.png",
+                "chest_opened_img": "images/icons/chest_dwarves_opened.png",
+                "sections": [
+                    {
+                        "name": "Tomra -- Treasury -- leftmost chest"
+                    },
+                    {
+                        "name": "Tomra -- Treasury -- left pot",
+                        "chest_unopened_img": "images/icons/pot_unopened.png",
+                        "chest_opened_img": "images/icons/pot_opened.png"
+                    },
+                    {
+                        "name": "Tomra -- Treasury -- bottom left chest"
+                    },
+                    {
+                        "name": "Tomra -- Treasury -- right pot",
+                        "chest_unopened_img": "images/icons/pot_unopened.png",
+                        "chest_opened_img": "images/icons/pot_opened.png"
+                    },
+                    {
+                        "name": "Tomra -- Treasury -- right top chest"
+                    },
+                    {
+                        "name": "Tomra -- Treasury -- right bottom chest"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "underworld",
+                        "x": 1010,
+                        "y": 1950
+                    }
+                ]
+            },
+            {
+                "name": "Kokkol's House",
+                "chest_unopened_img": "images/icons/chest_dwarves_unopened.png",
+                "chest_opened_img": "images/icons/chest_dwarves_opened.png",
+                "sections": [
+                    {
+                        "name": "Kokkol's House -- 1F -- top pot",
+                        "chest_unopened_img": "images/icons/pot_unopened.png",
+                        "chest_opened_img": "images/icons/pot_opened.png"
+                    },
+                    {
+                        "name": "Kokkol's House -- 1F -- left pot",
+                        "chest_unopened_img": "images/icons/pot_unopened.png",
+                        "chest_opened_img": "images/icons/pot_opened.png"
+                    },
+                    {
+                        "name": "Kokkol's House -- 1F -- hidden chest"
+                    },
+                    {
+                        "name": "Kokkol's House -- 2F -- shelf",
+                        "chest_unopened_img": "images/icons/shelf_unopened.png",
+                        "chest_opened_img": "images/icons/shelf_opened.png"
+                    },
+                    {
+                        "name": "Kokkol's House 2F -- Kokkol -- forge item",
+                        "access_rules": ["legendsword,adamant"],
+                        "chest_unopened_img": "images/icons/key_legend_unopened.png",
+                        "chest_opened_img": "images/icons/key_legend_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "underworld",
+                        "x": 1665,
+                        "y": 1973
+                    }
+                ]
+            },
+            {
+                "name": "Sealed Cave",
+                "chest_unopened_img": "images/icons/chest_red_unopened.png",
+                "chest_opened_img": "images/icons/chest_red_opened.png",
+                "access_rules": ["lucakey"],
+                "sections": [
+                    {
+                        "name": "Sealed Cave -- B1F -- chest"
+                    },
+                    {
+                        "name": "Sealed Cave -- B1F (southeast room) -- left"
+                    },
+                    {
+                        "name": "Sealed Cave -- B1F (southeast room) -- right"
+                    },
+                    {
+                        "name": "Sealed Cave -- B1F to B2F passage -- left"
+                    },
+                    {
+                        "name": "Sealed Cave -- B1F to B2F passage -- right"
+                    },
+                    {
+                        "name": "Sealed Cave -- B2F -- center right"
+                    },
+                    {
+                        "name": "Sealed Cave -- B2F -- bottom right"
+                    },
+                    {
+                        "name": "Sealed Cave -- B2F (north side, leftmost door) -- left"
+                    },
+                    {
+                        "name": "Sealed Cave -- B2F (north side, leftmost door) -- right"
+                    },
+                    {
+                        "name": "Sealed Cave -- B2F (north side, third door from right) -- left, top"
+                    },
+                    {
+                        "name": "Sealed Cave -- B2F (north side, third door from right) -- left, bottom"
+                    },
+                    {
+                        "name": "Sealed Cave -- B2F (north side, third door from right) -- right"
+                    },
+                    {
+                        "name": "Sealed Cave -- B2F (north side, second door from right) -- chest"
+                    },
+                    {
+                        "name": "Sealed Cave -- B2F to B3F passage -- chest"
+                    },
+                    {
+                        "name": "Sealed Cave -- B3F -- chest"
+                    },
+                    {
+                        "name": "Sealed Cave -- B3F to B4F passage -- right"
+                    },
+                    {
+                        "name": "Sealed Cave -- B3F to B4F passage -- bottom"
+                    },
+                    {
+                        "name": "Sealed Cave -- Box room -- top right"
+                    },
+                    {
+                        "name": "Sealed Cave -- Box room -- bottom left"
+                    },
+                    {
+                        "name": "Sealed Cave -- Crystal Room -- item",
+                        "chest_unopened_img": "images/icons/key_darkness_unopened.png",
+                        "chest_opened_img": "images/icons/key_darkness_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "underworld",
+                        "x": 745,
+                        "y": 1756
+                    }
+                ]
+            },
+            {
+                "name": "Sylvan Cave",
+                "chest_unopened_img": "images/icons/chest_orange_unopened.png",
+                "chest_opened_img": "images/icons/chest_orange_opened.png",
+                "sections": [
+                    {
+                        "name": "Sylvan Cave -- B1F (northwest area) -- top row, left"
+                    },
+                    {
+                        "name": "Sylvan Cave -- B1F (northwest area) -- top row, middle"
+                    },
+                    {
+                        "name": "Sylvan Cave -- B1F (northwest area) -- top row, right"
+                    },
+                    {
+                        "name": "Sylvan Cave -- B1F (northwest area) -- right side, top"
+                    },
+                    {
+                        "name": "Sylvan Cave -- B1F (northwest area) -- right side, bottom"
+                    },
+                    {
+                        "name": "Sylvan Cave -- B1F (save area) -- west end, left"
+                    },
+                    {
+                        "name": "Sylvan Cave -- B1F (save area) -- west end, right"
+                    },
+                    {
+                        "name": "Sylvan Cave -- B1F (entry area) -- east side, top"
+                    },
+                    {
+                        "name": "Sylvan Cave -- B1F (entry area) -- east side, bottom"
+                    },
+                    {
+                        "name": "Sylvan Cave -- B1F (save area) -- through northeast secret path"
+                    },
+                    {
+                        "name": "Sylvan Cave -- B2F (east half) -- pit chamber, bottom right"
+                    },
+                    {
+                        "name": "Sylvan Cave -- B2F (east half) -- pit chamber, bottom left"
+                    },
+                    {
+                        "name": "Sylvan Cave -- B2F (east half) -- pit chamber, right"
+                    },
+                    {
+                        "name": "Sylvan Cave -- B2F (east half) -- pit chamber, middle"
+                    },
+                    {
+                        "name": "Sylvan Cave -- B2F (east half) -- pit chamber, top left"
+                    },
+                    {
+                        "name": "Sylvan Cave -- B2F (east half) -- square chamber, top left"
+                    },
+                    {
+                        "name": "Sylvan Cave -- B2F (east half) -- square chamber, top right"
+                    },
+                    {
+                        "name": "Sylvan Cave -- B2F (east half) -- square chamber, bottom left"
+                    },
+                    {
+                        "name": "Sylvan Cave -- B2F (east half) -- square chamber, bottom right"
+                    },
+                    {
+                        "name": "Sylvan Cave -- B2F (west half) -- north room, through secret path"
+                    },
+                    {
+                        "name": "Sylvan Cave -- B3F (northeast area) -- top left"
+                    },
+                    {
+                        "name": "Sylvan Cave -- B3F (northeast area) -- top right"
+                    },
+                    {
+                        "name": "Sylvan Cave -- B3F (northeast area) -- bottom right"
+                    },
+                    {
+                        "name": "Sylvan Cave -- B3F (path to house) -- left of entrance"
+                    },
+                    {
+                        "name": "Sylvan Cave -- Poison treasury -- top left"
+                    },
+                    {
+                        "name": "Sylvan Cave -- Poison treasury -- top middle"
+                    },
+                    {
+                        "name": "Sylvan Cave -- Poison treasury -- top right"
+                    },
+                    {
+                        "name": "Sylvan Cave -- Poison treasury -- bottom left"
+                    },
+                    {
+                        "name": "Sylvan Cave -- Poison treasury -- bottom middle"
+                    },
+                    {
+                        "name": "Sylvan Cave -- Poison treasury -- bottom right"
+                    },
+                    {
+                        "name": "Sylvan Cave -- House -- top"
+                    },
+                    {
+                        "name": "Sylvan Cave -- House -- bottom"
+                    },
+                    {
+                        "name": "Sylvan Cave -- B3F -- Sylph item",
+                        "chest_unopened_img": "images/icons/key_pan_unopened.png",
+                        "chest_opened_img": "images/icons/key_pan_opened.png",
+                        "access_rules": ["pan"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "underworld",
+                        "x": 215,
+                        "y": 233
+                    }
+                ]
+            },
+            {
+                "name": "Land of Monsters", 
+                "chest_unopened_img": "images/icons/chest_orange_unopened.png",
+                "chest_opened_img": "images/icons/chest_orange_opened.png",
+                "sections": [
+                    {
+                        "name": "Land of Monsters -- B1F -- top left, through secret path"
+                    },
+                    {
+                        "name": "Land of Monsters -- B1F -- top right"
+                    },
+                    {
+                        "name": "Land of Monsters -- B1F -- bottom right"
+                    },
+                    {
+                        "name": "Land of Monsters -- B2F -- top left"
+                    },
+                    {
+                        "name": "Land of Monsters -- B2F -- bottom right"
+                    },
+                    {
+                        "name": "Land of Monsters -- B3F -- top"
+                    },
+                    {
+                        "name": "Land of Monsters -- B3F -- southwest room, through secret path, left"
+                    },
+                    {
+                        "name": "Land of Monsters -- B3F -- southwest room, through secret path, middle"
+                    },
+                    {
+                        "name": "Land of Monsters -- B3F -- southwest room, through secret path, right"
+                    },
+                    {
+                        "name": "Land of Monsters -- B3F -- bottom middle"
+                    },
+                    {
+                        "name": "Land of Monsters -- B3F -- bottom right"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "underworld",
+                        "x": 442,
+                        "y": 1383
+                    }
+                ]
+            },
+            {
+                "name": "Town of Monsters",
+                "chest_unopened_img": "images/icons/chest_red_unopened.png",
+                "chest_opened_img": "images/icons/chest_red_opened.png",
+                "sections": [
+                    {
+                        "name": "Town of Monsters -- B4F (first area) -- top left"
+                    },
+                    {
+                        "name": "Town of Monsters -- B4F (first area) -- middle left"
+                    },
+                    {
+                        "name": "Town of Monsters -- B4F (first area) -- Rat Tail", 
+                        "chest_unopened_img": "images/icons/key_rat_tail_unopened.png",
+                        "chest_opened_img": "images/icons/key_rat_tail_opened.png"
+                    },
+                    {
+                        "name": "Town of Monsters -- B4F (first area) -- right"
+                    },
+                    {
+                        "name": "Town of Monsters -- B4F (first area) -- bottom"
+                    },
+                    {
+                        "name": "Town of Monsters -- Treasure platform -- top left"
+                    },
+                    {
+                        "name": "Town of Monsters -- Treasure platform -- top right"
+                    },
+                    {
+                        "name": "Town of Monsters -- Treasure platform -- bottom left"
+                    },
+                    {
+                        "name": "Town of Monsters -- Treasure platform -- bottom right"
+                    },
+                    {
+                        "name": "Town of Monsters -- Save Room -- left"
+                    },
+                    {
+                        "name": "Town of Monsters -- Save Room -- right"
+                    },
+                    {
+                        "name": "Town of Monsters -- Throne Room -- Asura item", 
+                        "chest_unopened_img": "images/icons/boss_asura_unopened.png",
+                        "chest_opened_img": "images/icons/boss_asura_opened.png"
+                    },
+                    {
+                        "name": "Town of Monsters -- Throne Room -- Levia item", 
+                        "chest_unopened_img": "images/icons/boss_leviathan_unopened.png",
+                        "chest_opened_img": "images/icons/boss_leviathan_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "underworld",
+                        "x": 442,
+                        "y": 1453
+                    }
+                ]
+            }  
+        ]
+    }
+]

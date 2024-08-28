@@ -1,0 +1,457 @@
+[
+  {
+    "name": "Mist Dragon",
+    "type": "toggle",
+    "img": "images/bosses/mistdragon.png",
+    "codes": "mistdragon"
+  },
+  {
+    "name": "Mist Dragon x",
+    "type": "toggle_badged",
+    "base_item": "mistdragon",
+    "img": "images/bosses/check.png",
+    "codes": "mistdragonx"
+  },
+  {
+    "name": "Baron Soldiers",
+    "type": "toggle",
+    "img": "images/bosses/baronsoldiers.png",
+    "codes": "baronsoldiers"
+  },
+  {
+    "name": "Baron Soldiers x",
+    "type": "toggle_badged",
+    "base_item": "baronsoldiers",
+    "img": "images/bosses/check.png",
+    "codes": "baronsoldiersx"
+  },
+  {
+    "name": "Octomamm",
+    "type": "toggle",
+    "img": "images/bosses/octomamm.png",
+    "codes": "octomamm"
+  },
+  {
+    "name": "Octomamm x",
+    "type": "toggle_badged",
+    "base_item": "octomamm",
+    "img": "images/bosses/check.png",
+    "codes": "octomammx"
+  },
+  {
+    "name": "Antlion",
+    "type": "toggle",
+    "img": "images/bosses/antlion.png",
+    "codes": "antlion"
+  },
+  {
+    "name": "Antlion x",
+    "type": "toggle_badged",
+    "base_item": "antlion",
+    "img": "images/bosses/check.png",
+    "codes": "antlionx"
+  },
+  {
+    "name": "Waterhag",
+    "type": "toggle",
+    "img": "images/bosses/waterhag.png",
+    "codes": "waterhag"
+  },
+  {
+    "name": "Waterhag x",
+    "type": "toggle_badged",
+    "base_item": "waterhag",
+    "img": "images/bosses/check.png",
+    "codes": "waterhagx"
+  },
+  {
+    "name": "MomBomb",
+    "type": "toggle",
+    "img": "images/bosses/mombomb.png",
+    "codes": "mombomb"
+  },
+  {
+    "name": "MomBomb x",
+    "type": "toggle_badged",
+    "base_item": "mombomb",
+    "img": "images/bosses/check.png",
+    "codes": "mombombx"
+  },
+  {
+    "name": "Fabul Gauntlet",
+    "type": "toggle",
+    "img": "images/bosses/fabulgauntlet.png",
+    "codes": "fabulgauntlet"
+  },
+  {
+    "name": "Fabul Gauntlet x",
+    "type": "toggle_badged",
+    "base_item": "fabulgauntlet",
+    "img": "images/bosses/check.png",
+    "codes": "fabulgauntletx"
+  },
+  {
+    "name": "Milon",
+    "type": "toggle",
+    "img": "images/bosses/milon.png",
+    "codes": "milon"
+  },
+  {
+    "name": "Milon x",
+    "type": "toggle_badged",
+    "base_item": "milon",
+    "img": "images/bosses/check.png",
+    "codes": "milonx"
+  },
+  {
+    "name": "MilonZ",
+    "type": "toggle",
+    "img": "images/bosses/milonz.png",
+    "codes": "milonz"
+  },
+  {
+    "name": "MilonZ x",
+    "type": "toggle_badged",
+    "base_item": "milonz",
+    "img": "images/bosses/check.png",
+    "codes": "milonzx"
+  },
+  {
+    "name": "Dark Knight Cecil",
+    "type": "toggle",
+    "img": "images/bosses/darkcecil.png",
+    "codes": "darkcecil"
+  },
+  {
+    "name": "Dark Knight Cecil x",
+    "type": "toggle_badged",
+    "base_item": "darkcecil",
+    "img": "images/bosses/check.png",
+    "codes": "darkcecilx"
+  },
+  {
+    "name": "Baron Guards",
+    "type": "toggle",
+    "img": "images/bosses/baronguards.png",
+    "codes": "baronguards"
+  },
+  {
+    "name": "Baron Guards x",
+    "type": "toggle_badged",
+    "base_item": "baronguards",
+    "img": "images/bosses/check.png",
+    "codes": "baronguardsx"
+  },
+  {
+    "name": "Yang",
+    "type": "toggle",
+    "img": "images/bosses/yang.png",
+    "codes": "yang"
+  },
+  {
+    "name": "Yang x",
+    "type": "toggle_badged",
+    "base_item": "yang",
+    "img": "images/bosses/check.png",
+    "codes": "yangx"
+  },
+  {
+    "name": "Baigan",
+    "type": "toggle",
+    "img": "images/bosses/baigan.png",
+    "codes": "baigan"
+  },
+  {
+    "name": "Baigan x",
+    "type": "toggle_badged",
+    "base_item": "baigan",
+    "img": "images/bosses/check.png",
+    "codes": "baiganx"
+  },
+  {
+    "name": "Kainazzo",
+    "type": "toggle",
+    "img": "images/bosses/kainazzo.png",
+    "codes": "kainazzo"
+  },
+  {
+    "name": "Kainazzo x",
+    "type": "toggle_badged",
+    "base_item": "kainazzo",
+    "img": "images/bosses/check.png",
+    "codes": "kainazzox"
+  },
+  {
+    "name": "Dark Elf",
+    "type": "toggle",
+    "img": "images/bosses/darkelf.png",
+    "codes": "darkelf"
+  },
+  {
+    "name": "Dark Elf x",
+    "type": "toggle_badged",
+    "base_item": "darkelf",
+    "img": "images/bosses/check.png",
+    "codes": "darkelfx"
+  },
+  {
+    "name": "Magus Sisters",
+    "type": "toggle",
+    "img": "images/bosses/magussisters.png",
+    "codes": "magussisters"
+  },
+  {
+    "name": "Magus Sisters x",
+    "type": "toggle_badged",
+    "base_item": "magussisters",
+    "img": "images/bosses/check.png",
+    "codes": "magussistersx"
+  },
+  {
+    "name": "Valvalis",
+    "type": "toggle",
+    "img": "images/bosses/valvalis.png",
+    "codes": "valvalis"
+  },
+  {
+    "name": "Valvalis x",
+    "type": "toggle_badged",
+    "base_item": "valvalis",
+    "img": "images/bosses/check.png",
+    "codes": "valvalisx"
+  },
+  {
+    "name": "Calcabrina",
+    "type": "toggle",
+    "img": "images/bosses/calcabrina.png",
+    "codes": "calcabrina"
+  },
+  {
+    "name": "Calcabrina x",
+    "type": "toggle_badged",
+    "base_item": "calcabrina",
+    "img": "images/bosses/check.png",
+    "codes": "calcabrinax"
+  },
+  {
+    "name": "Golbez",
+    "type": "toggle",
+    "img": "images/bosses/golbez.png",
+    "codes": "golbez"
+  },
+  {
+    "name": "Golbez x",
+    "type": "toggle_badged",
+    "base_item": "golbez",
+    "img": "images/bosses/check.png",
+    "codes": "golbezx"
+  },
+  {
+    "name": "Dark Imps",
+    "type": "toggle",
+    "img": "images/bosses/darkimps.png",
+    "codes": "darkimps"
+  },
+  {
+    "name": "Dark Imps x",
+    "type": "toggle_badged",
+    "base_item": "darkimps",
+    "img": "images/bosses/check.png",
+    "codes": "darkimpsx"
+  },
+  {
+    "name": "Dr. Lugae",
+    "type": "toggle",
+    "img": "images/bosses/lugae.png",
+    "codes": "lugae"
+  },
+  {
+    "name": "Dr. Lugae x",
+    "type": "toggle_badged",
+    "base_item": "lugae",
+    "img": "images/bosses/check.png",
+    "codes": "lugaex"
+  },
+  {
+    "name": "Eblan King and Queen",
+    "type": "toggle",
+    "img": "images/bosses/eblankingqueen.png",
+    "codes": "eblankingqueen"
+  },
+  {
+    "name": "Eblan King and Queen x",
+    "type": "toggle_badged",
+    "base_item": "eblankingqueen",
+    "img": "images/bosses/check.png",
+    "codes": "eblankingqueenx"
+  },
+  {
+    "name": "Rubicante",
+    "type": "toggle",
+    "img": "images/bosses/rubicante.png",
+    "codes": "rubicante"
+  },
+  {
+    "name": "Rubicante x",
+    "type": "toggle_badged",
+    "base_item": "rubicante",
+    "img": "images/bosses/check.png",
+    "codes": "rubicantex"
+  },
+  {
+    "name": "Evil Wall",
+    "type": "toggle",
+    "img": "images/bosses/evilwall.png",
+    "codes": "evilwall"
+  },
+  {
+    "name": "Evil Wall x",
+    "type": "toggle_badged",
+    "base_item": "evilwall",
+    "img": "images/bosses/check.png",
+    "codes": "evilwallx"
+  },
+  {
+    "name": "Elements",
+    "type": "toggle",
+    "img": "images/bosses/elements.png",
+    "codes": "elements"
+  },
+  {
+    "name": "Elements x",
+    "type": "toggle_badged",
+    "base_item": "elements",
+    "img": "images/bosses/check.png",
+    "codes": "elementsx"
+  },
+  {
+    "name": "CPU",
+    "type": "toggle",
+    "img": "images/bosses/cpu.png",
+    "codes": "cpu"
+  },
+  {
+    "name": "CPU x",
+    "type": "toggle_badged",
+    "base_item": "cpu",
+    "img": "images/bosses/check.png",
+    "codes": "cpux"
+  },
+  {
+    "name": "Odin",
+    "type": "toggle",
+    "img": "images/bosses/odin.png",
+    "codes": "odin"
+  },
+  {
+    "name": "Odin x",
+    "type": "toggle_badged",
+    "base_item": "odin",
+    "img": "images/bosses/check.png",
+    "codes": "odinx"
+  },
+  {
+    "name": "Asura",
+    "type": "toggle",
+    "img": "images/bosses/asura.png",
+    "codes": "asura"
+  },
+  {
+    "name": "Asura x",
+    "type": "toggle_badged",
+    "base_item": "asura",
+    "img": "images/bosses/check.png",
+    "codes": "asurax"
+  },
+  {
+    "name": "Leviathan",
+    "type": "toggle",
+    "img": "images/bosses/leviathan.png",
+    "codes": "leviathan"
+  },
+  {
+    "name": "Leviathan x",
+    "type": "toggle_badged",
+    "base_item": "leviathan",
+    "img": "images/bosses/check.png",
+    "codes": "leviathanx"
+  },
+  {
+    "name": "Bahamut",
+    "type": "toggle",
+    "img": "images/bosses/bahamut.png",
+    "codes": "bahamut"
+  },
+  {
+    "name": "Bahamut x",
+    "type": "toggle_badged",
+    "base_item": "bahamut",
+    "img": "images/bosses/check.png",
+    "codes": "bahamutx"
+  },
+  {
+    "name": "Paledim",
+    "type": "toggle",
+    "img": "images/bosses/paledim.png",
+    "codes": "paledim"
+  },
+  {
+    "name": "Paledim x",
+    "type": "toggle_badged",
+    "base_item": "paledim",
+    "img": "images/bosses/check.png",
+    "codes": "paledimx"
+  },
+  {
+    "name": "Plague",
+    "type": "toggle",
+    "img": "images/bosses/plague.png",
+    "codes": "plague"
+  },
+  {
+    "name": "Plague x",
+    "type": "toggle_badged",
+    "base_item": "plague",
+    "img": "images/bosses/check.png",
+    "codes": "plaguex"
+  },
+  {
+    "name": "wyvern",
+    "type": "toggle",
+    "img": "images/bosses/wyvern.png",
+    "codes": "wyvern"
+  },
+  {
+    "name": "Wyvern x",
+    "type": "toggle_badged",
+    "base_item": "wyvern",
+    "img": "images/bosses/check.png",
+    "codes": "wyvernx"
+  },
+  {
+    "name": "Lunar Dragons",
+    "type": "toggle",
+    "img": "images/bosses/lunardragons.png",
+    "codes": "lunardragons"
+  },
+  {
+    "name": "Lunar Dragons x",
+    "type": "toggle_badged",
+    "base_item": "lunardragons",
+    "img": "images/bosses/check.png",
+    "codes": "lunardragonsx"
+  },
+  {
+    "name": "Ogopogo",
+    "type": "toggle",
+    "img": "images/bosses/ogopogo.png",
+    "codes": "ogopogo"
+  },
+  {
+    "name": "Ogopogo x",
+    "type": "toggle_badged",
+    "base_item": "ogopogo",
+    "img": "images/bosses/check.png",
+    "codes": "ogopogox"
+  }
+]

@@ -1,0 +1,1490 @@
+[
+    {
+        "name": "Overworld",
+        "access_rules": [""],
+        "children": [
+            {
+                "name": "Baron Town",
+                "chest_unopened_img": "images/icons/chest_baron_unopened.png",
+                "chest_opened_img": "images/icons/chest_baron_opened.png",
+                "sections": [
+                    {
+                        "name": "Baron Town -- Exterior -- pot outside inn",
+                        "chest_unopened_img": "images/icons/pot_unopened.png",
+                        "chest_opened_img": "images/icons/pot_opened.png"
+                    },
+                    {
+                        "name": "Baron Town -- Inn -- pot",
+                        "chest_unopened_img": "images/icons/pot_unopened.png",
+                        "chest_opened_img": "images/icons/pot_opened.png"
+                    },
+                    {
+                        "name": "Baron Town -- Inn -- treasury, left"
+                    },
+                    {
+                        "name": "Baron Town -- Inn -- treasury, middle"
+                    },
+                    {
+                        "name": "Baron Town -- Inn -- treasury, right"
+                    },
+                    {
+                        "name": "Baron Town -- Rosa's house -- pot",
+                        "chest_unopened_img": "images/icons/pot_unopened.png",
+                        "chest_opened_img": "images/icons/pot_opened.png"
+                    },
+                    {
+                        "name": "Baron Town -- Rosa's house -- shelf",
+                        "chest_unopened_img": "images/icons/shelf_unopened.png",
+                        "chest_opened_img": "images/icons/shelf_opened.png"
+                    },
+                    {
+                        "name": "Baron Town -- Exterior -- pot outside Rosa's",
+                        "chest_unopened_img": "images/icons/pot_unopened.png",
+                        "chest_opened_img": "images/icons/pot_opened.png"
+                    },
+                    {
+                        "name": "Baron Town -- Exterior -- water, top",
+                        "chest_unopened_img": "images/icons/water_unopened.png",
+                        "chest_opened_img": "images/icons/water_opened.png"
+                    },
+                    {
+                        "name": "Baron Town -- Exterior -- water, bottom",
+                        "chest_unopened_img": "images/icons/water_unopened.png",
+                        "chest_opened_img": "images/icons/water_opened.png"
+                    },
+                    {
+                        "name": "Baron Town -- Exterior -- grass, left",
+                        "chest_unopened_img": "images/icons/grass_unopened.png",
+                        "chest_opened_img": "images/icons/grass_opened.png"
+                    },
+                    {
+                        "name": "Baron Town -- Exterior -- grass, top",
+                        "chest_unopened_img": "images/icons/grass_unopened.png",
+                        "chest_opened_img": "images/icons/grass_opened.png"
+                    },
+                    {
+                        "name": "Baron Town -- Exterior -- grass, bottom",
+                        "chest_unopened_img": "images/icons/grass_unopened.png",
+                        "chest_opened_img": "images/icons/grass_opened.png"
+                    },
+                    {
+                        "name": "Baron Town -- Weapon-armor shop -- weapon",
+                        "access_rules": ["baronkey"]
+                    },
+                    {
+                        "name": "Baron Town -- Weapon-armor shop -- armor",
+                        "access_rules": ["baronkey"]
+                    },
+                    {
+                        "name": "Baron Town -- Access to Old Water-way -- hidden chest",
+                        "access_rules": ["baronkey"]
+                    },
+                    {
+                        "name": "Baron Town -- Inn -- item",
+                        "chest_unopened_img": "images/icons/key_baron_unopened.png",
+                        "chest_opened_img": "images/icons/key_baron_opened.png"
+                    },
+                    {
+                        "name": "Baron Inn Character",
+                        "chest_unopened_img": "images/characters/yang.png",
+                        "chest_opened_img": "images/characters/yangdisabled.png",
+                        "visibility_rules": ["noearnedcharactersoff"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "overworld",
+                        "x": 1630,
+                        "y": 2566
+                    }
+                ]
+            },
+            {
+                "name": "Baron Chocobo Forest",
+                "chest_unopened_img": "images/icons/grass_unopened.png",
+                "chest_opened_img": "images/icons/grass_opened.png",
+                "sections": [
+                    {
+                        "name": "Baron Chocobo Forest --  -- grass"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "overworld",
+                        "x": 1432,
+                        "y": 2616
+                    }
+                ]
+            },
+            {
+                "name": "Mist Cave",
+                "chest_unopened_img": "images/icons/chest_red_unopened.png",
+                "chest_opened_img": "images/icons/chest_red_opened.png",
+                "sections": [
+                    {
+                        "name": "Mist Cave -- top left"
+                    },
+                    {
+                        "name": "Mist Cave -- top right"
+                    },
+                    {
+                        "name": "Mist Cave -- center"
+                    },
+                    {
+                        "name": "Mist Cave -- bottom right"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "overworld",
+                        "x": 1350,
+                        "y": 1915
+                    },
+                    {
+                        "map": "overworld",
+                        "x": 1222,
+                        "y": 2122
+                    }
+                ]
+            },
+            {
+                "name": "Mist Village",
+                "chest_unopened_img": "images/icons/chest_baron_unopened.png",
+                "chest_opened_img": "images/icons/chest_baron_opened.png",
+                "sections": [
+                    {
+                        "name": "Mist Village -- Exterior -- north grass",
+                        "chest_unopened_img": "images/icons/grass_unopened.png",
+                        "chest_opened_img": "images/icons/grass_opened.png"
+                    },
+                    {
+                        "name": "Mist Village -- Exterior -- south grass, left",
+                        "chest_unopened_img": "images/icons/grass_unopened.png",
+                        "chest_opened_img": "images/icons/grass_opened.png"
+                    },
+                    {
+                        "name": "Mist Village -- Exterior -- south grass, right",
+                        "chest_unopened_img": "images/icons/grass_unopened.png",
+                        "chest_opened_img": "images/icons/grass_opened.png"
+                    },
+                    {
+                        "name": "Mist Village -- Rydia's house -- crawlspace, top left"
+                    },
+                    {
+                        "name": "Mist Village -- Rydia's house -- crawlspace, top right"
+                    },
+                    {
+                        "name": "Mist Village -- Rydia's house -- crawlspace, bottom right"
+                    },
+                    {
+                        "name": "Mist Village -- Rydia's house -- tiara room"
+                    },
+                    {
+                        "name": "Mist -- Exterior -- Rydia's Mom item",
+                        "access_rules": ["mistdragonx"],
+                        "chest_unopened_img": "images/icons/rydias_mom_unopened.png",
+                        "chest_opened_img": "images/icons/rydias_mom_opened.png"
+                    },
+                    {
+                        "name": "Mist Character",
+                        "access_rules": ["package"],
+                        "visibility_rules": ["noearnedcharactersoff"],
+                        "chest_unopened_img": "images/characters/rydia.png",
+                        "chest_opened_img": "images/characters/rydiadisabled.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "overworld",
+                        "x": 1551,
+                        "y": 1912
+                    }
+                ]
+            },
+            {
+                "name": "Kaipo",
+                "sections": [
+                    {
+                        "name": "Kaipo -- Exterior -- pot",
+                        "chest_unopened_img": "images/icons/pot_unopened.png",
+                        "chest_opened_img": "images/icons/pot_opened.png"
+                    },
+                    {
+                        "name": "Kaipo Character",
+                        "access_rules": ["sandruby"],
+                        "visibility_rules": ["noearnedcharactersoff"],
+                        "chest_unopened_img": "images/characters/rosa.png",
+                        "chest_opened_img": "images/characters/rosadisabled.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "overworld",
+                        "x": 2007,
+                        "y": 1672
+                    }
+                ]
+            },
+            {
+                "name": "Watery Pass",
+                "chest_unopened_img": "images/icons/chest_red_unopened.png",
+                "chest_opened_img": "images/icons/chest_red_opened.png",
+                "sections": [
+                    {
+                        "name": "Watery Pass -- Entrance (South) -- rightmost"
+                    },
+                    {
+                        "name": "Watery Pass -- Entrance (South) -- center-right"
+                    },
+                    {
+                        "name": "Watery Pass -- Entrance (South) -- bottom left"
+                    },
+                    {
+                        "name": "Watery Pass Character",
+                        "visibility_rules": ["nofreecharactersoff,noearnedcharactersoff"],
+                        "chest_unopened_img": "images/characters/tellah.png",
+                        "chest_opened_img": "images/characters/tellahdisabled.png"
+                    },
+                    {
+                        "name": "Watery Pass -- Entrance (South) -- center"
+                    },
+                    {
+                        "name": "Watery Pass -- Entrance (South) -- top right"
+                    },
+                    {
+                        "name": "Watery Pass -- Behind waterfall -- left"
+                    },
+                    {
+                        "name": "Watery Pass -- Behind waterfall -- middle"
+                    },
+                    {
+                        "name": "Watery Pass -- Behind waterfall -- right"
+                    },
+                    {
+                        "name": "Watery Pass -- Camp level (B2F) -- top right"
+                    },
+                    {
+                        "name": "Watery Pass -- Camp level (B2F) -- bottom left"
+                    },
+                    {
+                        "name": "Watery Pass -- Camp level (B2F) -- top left"
+                    },
+                    {
+                        "name": "Watery Pass -- B3F -- right"
+                    },
+                    {
+                        "name": "Watery Pass -- B3F -- left"
+                    },
+                    {
+                        "name": "Watery Pass -- Passage to exit (B2F) -- left"
+                    },
+                    {
+                        "name": "Watery Pass -- Passage to exit (B2F) -- right"
+                    },
+                    {
+                        "name": "Watery Pass -- Exit (North) -- leftmost"
+                    },
+                    {
+                        "name": "Watery Pass -- Exit (North) -- top left"
+                    },
+                    {
+                        "name": "Watery Pass -- Exit (North) -- bridge chest"
+                    },
+                    {
+                        "name": "Watery Pass -- Exit (North) -- bottom right"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "overworld",
+                        "x": 2215,
+                        "y": 1337
+                    }
+                ]
+            },
+            {
+                "name": "Waterfall",
+                "chest_unopened_img": "images/icons/chest_red_unopened.png",
+                "chest_opened_img": "images/icons/chest_red_opened.png",
+                "sections": [
+                    {
+                        "name": "Waterfall -- B2F -- left"
+                    },
+                    {
+                        "name": "Waterfall -- B2F -- right"
+                    },
+                    {
+                        "name": "Waterfall -- Lake -- right"
+                    },
+                    {
+                        "name": "Waterfall -- Lake -- bottom"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "overworld",
+                        "x": 2006,
+                        "y": 1066
+                    }
+                ]
+            },
+            {
+                "name": "Damcyan",
+                "chest_unopened_img": "images/icons/chest_brown_unopened.png",
+                "chest_opened_img": "images/icons/chest_brown_opened.png",
+                "sections": [
+                    {
+                        "name": "Damcyan -- 2F -- chest"
+                    },
+                    {
+                        "name": "Damcyan -- Treasury entrance -- west cell"
+                    },
+                    {
+                        "name": "Damcyan -- Treasury entrance -- middle cell, left"
+                    },
+                    {
+                        "name": "Damcyan -- Treasury entrance -- middle cell, right"
+                    },
+                    {
+                        "name": "Damcyan -- Treasury -- top left chest"
+                    },
+                    {
+                        "name": "Damcyan -- Treasury -- top middle chest"
+                    },
+                    {
+                        "name": "Damcyan -- Treasury -- top right chest"
+                    },
+                    {
+                        "name": "Damcyan -- Treasury -- top right pot",
+                        "chest_unopened_img": "images/icons/pot_unopened.png",
+                        "chest_opened_img": "images/icons/pot_opened.png"
+                    },
+                    {
+                        "name": "Damcyan -- Treasury -- bottom left pot",
+                        "chest_unopened_img": "images/icons/pot_unopened.png",
+                        "chest_opened_img": "images/icons/pot_opened.png"
+                    },
+                    {
+                        "name": "Damcyan -- Treasury -- bottom left chest"
+                    },
+                    {
+                        "name": "Damcyan -- Treasury -- bottom middle chest"
+                    },
+                    {
+                        "name": "Damcyan -- Treasury -- bottom right chest"
+                    },
+                    {
+                        "name": "Damcyan -- Treasury -- bottom right pot",
+                        "chest_unopened_img": "images/icons/pot_unopened.png",
+                        "chest_opened_img": "images/icons/pot_opened.png"
+                    },
+                    {
+                        "name": "Damcyan Character",
+                        "visibility_rules": ["nofreecharactersoff,noearnedcharactersoff"],
+                        "chest_unopened_img": "images/characters/edward.png",
+                        "chest_opened_img": "images/characters/edwarddisabled.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "overworld",
+                        "x": 1902,
+                        "y": 928
+                    }
+                ]
+            },
+            {
+                "name": "Antlion Cave",
+                "chest_unopened_img": "images/icons/chest_aqua_unopened.png",
+                "chest_opened_img": "images/icons/chest_aqua_opened.png",
+                "sections": [
+                    {
+                        "name": "Antlion Cave -- B1F -- top left"
+                    },
+                    {
+                        "name": "Antlion Cave -- B1F -- top center-left"
+                    },
+                    {
+                        "name": "Antlion Cave -- B1F -- bottom left"
+                    },
+                    {
+                        "name": "Antlion Cave -- B1F -- middle left"
+                    },
+                    {
+                        "name": "Antlion Cave -- B1F -- top right"
+                    },
+                    {
+                        "name": "Antlion Cave -- B1F -- middle right"
+                    },
+                    {
+                        "name": "Antlion Cave -- B2F -- top right"
+                    },
+                    {
+                        "name": "Antlion Cave -- B2F -- bottom right"
+                    },
+                    {
+                        "name": "Antlion Cave -- B2F -- top left"
+                    },
+                    {
+                        "name": "Antlion Cave -- Save room -- right"
+                    },
+                    {
+                        "name": "Antlion Cave -- Save room -- top"
+                    },
+                    {
+                        "name": "Antlion Cave -- Save room -- left"
+                    },
+                    {
+                        "name": "Antlion Cave -- Treasure room -- chest"
+                    },
+                    {
+                        "name": "Antlion Cave -- B3F -- Antlion Nest item",
+                        "chest_unopened_img": "images/icons/key_antlion_unopened.png",
+                        "chest_opened_img": "images/icons/key_antlion_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "overworld",
+                        "x": 2182,
+                        "y": 906
+                    }
+                ]
+            },
+            {
+                "name": "Mt. Hobs",
+                "chest_unopened_img": "images/icons/chest_red_unopened.png",
+                "chest_opened_img": "images/icons/chest_red_opened.png",
+                "sections": [
+                    {
+                        "name": "Mt. Hobs Character",
+                        "visibility_rules": ["noearnedcharactersoff"],
+                        "chest_unopened_img": "images/characters/yang.png",
+                        "chest_opened_img": "images/characters/yangdisabled.png"
+                    },
+                    {
+                        "name": "Mt. Hobs -- Summit -- chest"
+                    },
+                    {
+                        "name": "Mt. Hobs -- Save area -- leftmost"
+                    },
+                    {
+                        "name": "Mt. Hobs -- Save area -- center-left"
+                    },
+                    {
+                        "name": "Mt. Hobs -- Save area -- center-right"
+                    },
+                    {
+                        "name": "Mt. Hobs -- Save area -- rightmost"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "overworld",
+                        "x": 2566,
+                        "y": 790
+                    }
+                ]
+            },
+            {
+                "name": "Fabul",
+                "chest_unopened_img": "images/icons/chest_brown_unopened.png",
+                "chest_opened_img": "images/icons/chest_brown_opened.png",
+                "sections": [
+                    {
+                        "name": "Fabul -- Throne room -- west pot",
+                        "chest_unopened_img": "images/icons/pot_unopened.png",
+                        "chest_opened_img": "images/icons/pot_opened.png"
+                    },
+                    {
+                        "name": "Fabul -- Throne room -- top chest"
+                    },
+                    {
+                        "name": "Fabul -- Throne room -- middle chest"
+                    },
+                    {
+                        "name": "Fabul -- Throne room -- bottom chest"
+                    },
+                    {
+                        "name": "Fabul -- East tower 2F -- pot",
+                        "chest_unopened_img": "images/icons/pot_unopened.png",
+                        "chest_opened_img": "images/icons/pot_opened.png"
+                    },
+                    {
+                        "name": "Fabul -- East tower 3F (king's bedroom) -- chest"
+                    },
+                    {
+                        "name": "Fabul -- West tower 1F -- top chest"
+                    },
+                    {
+                        "name": "Fabul -- West tower 1F -- pot",
+                        "chest_unopened_img": "images/icons/pot_unopened.png",
+                        "chest_opened_img": "images/icons/pot_opened.png"
+                    },
+                    {
+                        "name": "Fabul -- West tower 1F -- middle chest"
+                    },
+                    {
+                        "name": "Fabul -- West tower 1F -- bottom chest"
+                    },
+                    {
+                        "name": "Fabul -- East tower 3F (king's bedroom) -- Defend Fabul reward item",
+                        "chest_unopened_img": "images/icons/key_gauntlet_unopened.png",
+                        "chest_opened_img": "images/icons/key_gauntlet_opened.png"
+                    },
+                    {
+                        "name": "Fabul -- West tower 3F (Yang's room) -- Found Yang item",
+                        "access_rules": ["magmakey","hook"],
+                        "chest_unopened_img": "images/icons/key_pan_unopened.png",
+                        "chest_opened_img": "images/icons/key_pan_opened.png"
+                    },
+                    {
+                        "name": "Fabul -- West tower 3F (Yang's room) -- Pan Trade item",
+                        "access_rules": ["magmakey,pan","hook,pan"],
+                        "chest_unopened_img": "images/icons/key_spoon_unopened.png",
+                        "chest_opened_img": "images/icons/key_spoon_opened.png"
+
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "overworld",
+                        "x": 3438,
+                        "y": 927
+                    }
+                ]
+            },
+            {
+                "name": "Fabul Chocobo Forest",
+                "sections": [
+                    {
+                        "name": "Fabul Chocobo Forest --  -- grass",
+                        "chest_unopened_img": "images/icons/grass_unopened.png",
+                        "chest_opened_img": "images/icons/grass_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "overworld",
+                        "x": 3655,
+                        "y": 757
+                    }
+                ]
+            },
+            {
+                "name": "Silvera",
+                "chest_unopened_img": "images/icons/grass_unopened.png",
+                "chest_opened_img": "images/icons/grass_opened.png",
+                "sections": [
+                    {
+                        "name": "Silvera -- Exterior -- north grass"
+                    },
+                    {
+                        "name": "Silvera -- Exterior -- northeast grass"
+                    },
+                    {
+                        "name": "Silvera -- Exterior -- east grass"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "overworld",
+                        "x": 3367,
+                        "y": 2088
+                    }
+                ]
+            },
+            {
+                "name": "Adamant Cave",
+                "access_rules": ["hook"],
+                "sections": [
+                    {
+                        "name": "Adamant -- Cave -- Rat Tail Trade item",
+                        "access_rules": ["rattail"],
+                        "chest_unopened_img": "images/icons/key_adamant_unopened.png",
+                        "chest_opened_img": "images/icons/key_adamant_opened.png"
+                    },
+                    {
+                        "name": "Adamant -- Cave -- Pink Tail Trade item",
+                        "access_rules": ["pinktail"],
+                        "chest_unopened_img": "images/icons/key_pink_tail_unopened.png",
+                        "chest_opened_img": "images/icons/key_pink_tail_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "overworld",
+                        "x": 3511,
+                        "y": 2186
+                    }
+                ]
+            },
+            {
+                "name": "Mysidia",
+                "sections": [
+                    {
+                        "name": "Mysidia Character 1",
+                        "visibility_rules": ["nofreecharactersoff,noearnedcharactersoff"],
+                        "chest_unopened_img": "images/characters/porom.png",
+                        "chest_opened_img": "images/characters/poromdisabled.png"
+                    },
+                    {
+                        "name": "Mysidia Character 2",
+                        "visibility_rules": ["nofreecharactersoff,noearnedcharactersoff"],
+                        "chest_unopened_img": "images/characters/palom.png",
+                        "chest_opened_img": "images/characters/palomdisabled.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "overworld",
+                        "x": 2487,
+                        "y": 3191
+                    }
+                ]
+            },
+            {
+                "name": "Mt. Ordeals",
+                "chest_unopened_img": "images/icons/chest_red_unopened.png",
+                "chest_opened_img": "images/icons/chest_red_opened.png",
+                "sections": [
+                    {
+                        "name": "Mt. Ordeals -- 1F -- bottom"
+                    },
+                    {
+                        "name": "Mt. Ordeals -- 1F -- top"
+                    },
+                    {
+                        "name": "Mt. Ordeals Character",
+                        "visibility_rules": ["nofreecharactersoff,noearnedcharactersoff"],
+                        "chest_unopened_img": "images/characters/tellah.png",
+                        "chest_opened_img": "images/characters/tellahdisabled.png"
+                    },
+                    {
+                        "name": "Mt. Ordeals -- 3F (7th Station) -- left"
+                    },
+                    {
+                        "name": "Mt. Ordeals -- 3F (7th Station) -- center"
+                    },
+                    {
+                        "name": "Mt. Ordeals -- Mirror Room -- item",
+                        "chest_unopened_img": "images/characters/cecil.png",
+                        "chest_opened_img": "images/characters/cecildisabled.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "overworld",
+                        "x": 3494,
+                        "y": 3190
+                    }
+                ]
+            },
+            {
+                "name": "Mt. Ordeals Chocobo Forest",
+                "chest_unopened_img": "images/icons/grass_unopened.png",
+                "chest_opened_img": "images/icons/grass_opened.png",
+                "sections": [
+                    {
+                        "name": "Mt. Ordeals Chocobo Forest --  -- grass"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "overworld",
+                        "x": 3415,
+                        "y": 3350
+                    }
+                ]
+            },
+            {
+                "name": "Old Water-way",
+                "access_rules": ["baronkey"],
+                "chest_unopened_img": "images/icons/chest_red_unopened.png",
+                "chest_opened_img": "images/icons/chest_red_opened.png",
+                "sections": [
+                    {
+                        "name": "Old Water-way -- B1F -- left"
+                    },
+                    {
+                        "name": "Old Water-way -- B1F -- middle"
+                    },
+                    {
+                        "name": "Old Water-way -- B1F -- right"
+                    },
+                    {
+                        "name": "Old Water-way -- B3F -- west"
+                    },
+                    {
+                        "name": "Old Water-way -- B3F -- southwest"
+                    },
+                    {
+                        "name": "Old Water-way -- B3F -- center"
+                    },
+                    {
+                        "name": "Old Water-way -- Save room -- hidden chest"
+                    },
+                    {
+                        "name": "Old Water-way -- B2F -- chest"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "overworld",
+                        "x": 1532,
+                        "y": 2510
+                    }
+                ]
+            },
+            {
+                "name": "Baron Castle",
+                "sections": [
+                    {
+                        "name": "Starting Character 1",
+                        "chest_unopened_img": "images/characters/cecil.png",
+                        "chest_opened_img": "images/characters/cecildisabled.png"
+                    },
+                    {
+                        "name": "Starting Character 2",
+                        "chest_unopened_img": "images/characters/kain.png",
+                        "chest_opened_img": "images/characters/kaindisabled.png"
+                    },
+                    {
+                        "name": "Baron Castle -- 1F --  Starting item",
+                        "chest_unopened_img": "images/icons/key_package_unopened.png",
+                        "chest_opened_img": "images/icons/key_package_opened.png"
+                    },
+                    {
+                        "name": "Baron Castle -- 1F -- left",
+                        "access_rules": ["baronkey"],
+                        "chest_unopened_img": "images/icons/chest_brown_unopened.png",
+                        "chest_opened_img": "images/icons/chest_brown_opened.png"
+                    },
+                    {
+                        "name": "Baron Castle -- 1F -- middle",
+                        "access_rules": ["baronkey"],
+                        "chest_unopened_img": "images/icons/chest_brown_unopened.png",
+                        "chest_opened_img": "images/icons/chest_brown_opened.png"
+                    },
+                    {
+                        "name": "Baron Castle -- 1F -- right",
+                        "access_rules": ["baronkey"],
+                        "chest_unopened_img": "images/icons/chest_brown_unopened.png",
+                        "chest_opened_img": "images/icons/chest_brown_opened.png"
+                    },
+                    {
+                        "name": "Baron Castle -- East hall treasury -- top left",
+                        "access_rules": ["baronkey"],
+                        "chest_unopened_img": "images/icons/chest_brown_unopened.png",
+                        "chest_opened_img": "images/icons/chest_brown_opened.png"
+                    },
+                    {
+                        "name": "Baron Castle -- East hall treasury -- top middle",
+                        "access_rules": ["baronkey"],
+                        "chest_unopened_img": "images/icons/chest_brown_unopened.png",
+                        "chest_opened_img": "images/icons/chest_brown_opened.png"
+                    },
+                    {
+                        "name": "Baron Castle -- East hall treasury -- top right",
+                        "access_rules": ["baronkey"],
+                        "chest_unopened_img": "images/icons/chest_brown_unopened.png",
+                        "chest_opened_img": "images/icons/chest_brown_opened.png"
+                    },
+                    {
+                        "name": "Baron Castle -- East hall treasury -- bottom left",
+                        "access_rules": ["baronkey"],
+                        "chest_unopened_img": "images/icons/chest_brown_unopened.png",
+                        "chest_opened_img": "images/icons/chest_brown_opened.png"
+                    },
+                    {
+                        "name": "Baron Castle -- East hall treasury -- bottom middle",
+                        "access_rules": ["baronkey"],
+                        "chest_unopened_img": "images/icons/chest_brown_unopened.png",
+                        "chest_opened_img": "images/icons/chest_brown_opened.png"
+                    },
+                    {
+                        "name": "Baron Castle -- East hall treasury -- bottom right",
+                        "access_rules": ["baronkey"],
+                        "chest_unopened_img": "images/icons/chest_brown_unopened.png",
+                        "chest_opened_img": "images/icons/chest_brown_opened.png"
+                    },
+                    {
+                        "name": "Baron Castle -- East tower 1F -- top",
+                        "access_rules": ["baronkey"],
+                        "chest_unopened_img": "images/icons/chest_brown_unopened.png",
+                        "chest_opened_img": "images/icons/chest_brown_opened.png"
+                    },
+                    {
+                        "name": "Baron Castle -- East tower 1F -- leftmost",
+                        "access_rules": ["baronkey"],
+                        "chest_unopened_img": "images/icons/chest_brown_unopened.png",
+                        "chest_opened_img": "images/icons/chest_brown_opened.png"
+                    },
+                    {
+                        "name": "Baron Castle -- East tower 1F -- middle left",
+                        "access_rules": ["baronkey"],
+                        "chest_unopened_img": "images/icons/chest_brown_unopened.png",
+                        "chest_opened_img": "images/icons/chest_brown_opened.png"
+                    },
+                    {
+                        "name": "Baron Castle -- East tower 1F -- right",
+                        "access_rules": ["baronkey"],
+                        "chest_unopened_img": "images/icons/chest_brown_unopened.png",
+                        "chest_opened_img": "images/icons/chest_brown_opened.png"
+                    },
+                    {
+                        "name": "Baron Castle -- East tower 2F -- left, top",
+                        "access_rules": ["baronkey"],
+                        "chest_unopened_img": "images/icons/chest_brown_unopened.png",
+                        "chest_opened_img": "images/icons/chest_brown_opened.png"
+                    },
+                    {
+                        "name": "Baron Castle -- East tower 2F -- left, bottom",
+                        "access_rules": ["baronkey"],
+                        "chest_unopened_img": "images/icons/chest_brown_unopened.png",
+                        "chest_opened_img": "images/icons/chest_brown_opened.png"
+                    },
+                    {
+                        "name": "Baron Castle -- East tower 3F -- pot",
+                        "access_rules": ["baronkey"],
+                        "chest_unopened_img": "images/icons/pot_unopened.png",
+                        "chest_opened_img": "images/icons/pot_opened.png"
+                    },
+                    {
+                        "name": "Baron Castle -- East tower 3F -- left chest",
+                        "access_rules": ["baronkey"],
+                        "chest_unopened_img": "images/icons/chest_brown_unopened.png",
+                        "chest_opened_img": "images/icons/chest_brown_opened.png"
+                    },
+                    {
+                        "name": "Baron Castle -- East tower 3F -- middle chest",
+                        "access_rules": ["baronkey"],
+                        "chest_unopened_img": "images/icons/chest_brown_unopened.png",
+                        "chest_opened_img": "images/icons/chest_brown_opened.png"
+                    },
+                    {
+                        "name": "Baron Castle -- East tower 3F -- right chest",
+                        "access_rules": ["baronkey"],
+                        "chest_unopened_img": "images/icons/chest_brown_unopened.png",
+                        "chest_opened_img": "images/icons/chest_brown_opened.png"
+                    },
+                    {
+                        "name": "Baron Castle -- East tower B1 -- pot",
+                        "access_rules": ["baronkey"],
+                        "chest_unopened_img": "images/icons/pot_unopened.png",
+                        "chest_opened_img": "images/icons/pot_opened.png"
+                    },
+                    {
+                        "name": "Baron Castle -- Throne Room -- item",
+                        "access_rules": ["baronkey"],
+                        "chest_unopened_img": "images/icons/boss_kainazzo_unopened.png",
+                        "chest_opened_img": "images/icons/boss_kainazzo_opened.png"
+                    },
+                    {
+                        "name": "Baron Castle -- Basement -- Odin item",
+                        "access_rules": ["baronkey"],
+                        "chest_unopened_img": "images/icons/boss_odin_unopened.png",
+                        "chest_opened_img": "images/icons/boss_odin_opened.png"
+                    },
+                    {
+                        "name": "Baron Castle Character",
+                        "access_rules": ["baronkey"],
+                        "visibility_rules": ["noearnedcharactersoff"],
+                        "chest_unopened_img": "images/characters/cid.png",
+                        "chest_opened_img": "images/characters/ciddisabled.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "overworld",
+                        "x": 1630,
+                        "y": 2470
+                    }
+                ]
+            },
+            {
+                "name": "Island Chocobo Forest",
+                "chest_unopened_img": "images/icons/grass_unopened.png",
+                "chest_opened_img": "images/icons/grass_opened.png",
+                "sections": [
+                    {
+                        "name": "Island Chocobo Forest --  -- grass"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "overworld",
+                        "x": 1390,
+                        "y": 1267
+                    }
+                ]
+            },
+            {
+                "name": "Toroia South Chocobo Forest",
+                "chest_unopened_img": "images/icons/grass_unopened.png",
+                "chest_opened_img": "images/icons/grass_opened.png",
+                "sections": [
+                    {
+                        "name": "Toroia South Chocobo Forest --  -- grass"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "overworld",
+                        "x": 558,
+                        "y": 1619
+                    }
+                ]
+            },
+            {
+                "name": "Toroia Town",
+                "chest_unopened_img": "images/icons/grass_unopened.png",
+                "chest_opened_img": "images/icons/grass_opened.png",
+                "sections": [
+                    {
+                        "name": "Toroia Town -- Exterior -- grass, top right"
+                    },
+                    {
+                        "name": "Toroia Town -- Exterior -- grass, left"
+                    },
+                    {
+                        "name": "Toroia Town -- Exterior -- grass, bottom left"
+                    },
+                    {
+                        "name": "Toroia Town -- Exterior -- grass, bottom right"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "overworld",
+                        "x": 571,
+                        "y": 1352
+                    }
+                ]
+            },
+            {
+                "name": "Black Chocobo Forest",
+                "chest_unopened_img": "images/icons/grass_unopened.png",
+                "chest_opened_img": "images/icons/grass_opened.png",
+                "sections": [
+                    {
+                        "name": "Black Chocobo Forest -- northeast, top"
+                    },
+                    {
+                        "name": "Black Chocobo Forest -- northeast, bottom"
+                    },
+                    {
+                        "name": "Black Chocobo Forest -- south grass"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "overworld",
+                        "x": 660,
+                        "y": 855
+                    }
+                ]
+            },
+            {
+                "name": "Cave Magnes",
+                "chest_unopened_img": "images/icons/chest_red_unopened.png",
+                "chest_opened_img": "images/icons/chest_red_opened.png",
+                "sections": [
+                    {
+                        "name": "Cave Magnes -- B1F -- top right"
+                    },
+                    {
+                        "name": "Cave Magnes -- B1F -- bottom left"
+                    },
+                    {
+                        "name": "Cave Magnes -- B2F -- chest"
+                    },
+                    {
+                        "name": "Cave Magnes -- Pit room -- left"
+                    },
+                    {
+                        "name": "Cave Magnes -- Pit room -- right"
+                    },
+                    {
+                        "name": "Cave Magnes -- Torch room -- left"
+                    },
+                    {
+                        "name": "Cave Magnes -- Torch room -- center"
+                    },
+                    {
+                        "name": "Cave Magnes -- Torch room -- right"
+                    },
+                    {
+                        "name": "Cave Magnes -- B3F to B4F passage -- chest"
+                    },
+                    {
+                        "name": "Cave Magnes -- B4F -- chest (left of crystal room entrance)"
+                    },
+                    {
+                        "name": "Cave Magnes -- Crystal Room -- item",
+                        "access_rules": ["twinharp"],
+                        "chest_unopened_img": "images/icons/key_earth_crystal_unopened.png",
+                        "chest_opened_img": "images/icons/key_earth_crystal_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "overworld",
+                        "x": 1191,
+                        "y": 857
+                    }
+                ]
+            },
+            {
+                "name": "Toroia Castle",
+                "chest_unopened_img": "images/icons/chest_brown_unopened.png",
+                "chest_opened_img": "images/icons/chest_brown_opened.png",
+                "sections": [
+                    {
+                        "name": "Toroia Castle -- East wing pot room -- pot",
+                        "chest_unopened_img": "images/icons/pot_unopened.png",
+                        "chest_opened_img": "images/icons/pot_opened.png"
+                    },
+                    {
+                        "name": "Toroia Castle -- East wing chest room -- left cell, left"
+                    },
+                    {
+                        "name": "Toroia Castle -- East wing chest room -- left cell, right"
+                    },
+                    {
+                        "name": "Toroia Castle -- East wing chest room -- middle-left cell, left"
+                    },
+                    {
+                        "name": "Toroia Castle -- East wing chest room -- middle-left cell, right"
+                    },
+                    {
+                        "name": "Toroia Castle -- East wing chest room -- middle-right cell, left"
+                    },
+                    {
+                        "name": "Toroia Castle -- East wing chest room -- middle-right cell, right"
+                    },
+                    {
+                        "name": "Toroia Castle -- East wing chest room -- right cell, left"
+                    },
+                    {
+                        "name": "Toroia Castle -- East wing chest room -- right cell, right"
+                    },
+                    {
+                        "name": "Toroia Castle -- Treasury -- top row, 1",
+                        "access_rules": ["earthcrystal"]
+                    },
+                    {
+                        "name": "Toroia Castle -- Treasury -- top row, 2",
+                        "access_rules": ["earthcrystal"]
+                    },
+                    {
+                        "name": "Toroia Castle -- Treasury -- top row, 3",
+                        "access_rules": ["earthcrystal"]
+                    },
+                    {
+                        "name": "Toroia Castle -- Treasury -- top row, 4",
+                        "access_rules": ["earthcrystal"]
+                    },
+                    {
+                        "name": "Toroia Castle -- Treasury -- top row, 5",
+                        "access_rules": ["earthcrystal"]
+                    },
+                    {
+                        "name": "Toroia Castle -- Treasury -- top row, 6",
+                        "access_rules": ["earthcrystal"]
+                    },
+                    {
+                        "name": "Toroia Castle -- Treasury -- top row, 7",
+                        "access_rules": ["earthcrystal"]
+                    },
+                    {
+                        "name": "Toroia Castle -- Treasury -- top row, 8",
+                        "access_rules": ["earthcrystal"]
+                    },
+                    {
+                        "name": "Toroia Castle -- Treasury -- top row, 9",
+                        "access_rules": ["earthcrystal"]
+                    },
+                    {
+                        "name": "Toroia Castle -- Treasury -- bottom row, 1",
+                        "access_rules": ["earthcrystal"]
+                    },
+                    {
+                        "name": "Toroia Castle -- Treasury -- bottom row, 2",
+                        "access_rules": ["earthcrystal"]
+                    },
+                    {
+                        "name": "Toroia Castle -- Treasury -- bottom row, 3",
+                        "access_rules": ["earthcrystal"]
+                    },
+                    {
+                        "name": "Toroia Castle -- Treasury -- bottom row, 4",
+                        "access_rules": ["earthcrystal"]
+                    },
+                    {
+                        "name": "Toroia Castle -- Treasury -- bottom row, 5",
+                        "access_rules": ["earthcrystal"]
+                    },
+                    {
+                        "name": "Toroia Castle -- Treasury -- bottom row, 6",
+                        "access_rules": ["earthcrystal"]
+                    },
+                    {
+                        "name": "Toroia Castle -- Treasury -- bottom row, 7",
+                        "access_rules": ["earthcrystal"]
+                    },
+                    {
+                        "name": "Toroia Castle -- Treasury -- bottom row, 8",
+                        "access_rules": ["earthcrystal"]
+                    },
+                    {
+                        "name": "Toroia Castle -- Treasury -- bottom row, 9",
+                        "access_rules": ["earthcrystal"]
+                    },
+                    {
+                        "name": "Toroia Castle -- Hospital -- Edward-Toroia item",
+                        "chest_unopened_img": "images/icons/key_twinharp_unopened.png",
+                        "chest_opened_img": "images/icons/key_twinharp_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "overworld",
+                        "x": 570,
+                        "y": 1251
+                    }
+                ]
+            },
+            {
+                "name": "Tower of Zot",
+                "chest_unopened_img": "images/icons/chest_red_unopened.png",
+                "chest_opened_img": "images/icons/chest_red_opened.png",
+                "sections": [
+                    {
+                        "name": "Tower of Zot -- 1F -- chest"
+                    },
+                    {
+                        "name": "Tower of Zot -- 2F -- chest"
+                    },
+                    {
+                        "name": "Tower of Zot -- 5F (through 4F center-left door) -- top"
+                    },
+                    {
+                        "name": "Tower of Zot -- 5F (through 4F center door) -- chest"
+                    },
+                    {
+                        "name": "Tower of Zot -- 5F (through 4F center-left door) -- bottom"
+                    },
+                    {
+                        "name": "Tower of Zot -- 5F (through 4F center-right door) -- chest"
+                    },
+                    {
+                        "name": "Tower of Zot -- 6F -- item",
+                        "access_rules": ["earthcrystal"],
+                        "chest_unopened_img": "images/icons/key_magma_unopened.png",
+                        "chest_opened_img": "images/icons/key_magma_opened.png"
+                    },
+                    {
+                        "name": "Tower of Zot Character 1",
+                        "access_rules": ["earthcrystal"],
+                        "visibility_rules": ["noearnedcharactersoff"],
+                        "chest_unopened_img": "images/characters/rosa.png",
+                        "chest_opened_img": "images/characters/rosadisabled.png"
+                    },
+                    {
+                        "name": "Tower of Zot Character 2",
+                        "access_rules": ["earthcrystal"],
+                        "visibility_rules": ["noearnedcharactersoff"],
+                        "chest_unopened_img": "images/characters/kain.png",
+                        "chest_opened_img": "images/characters/kaindisabled.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "overworld",
+                        "x": 470,
+                        "y": 1310
+                    }
+                ]
+            },
+            {
+                "name": "Agart",
+                "chest_unopened_img": "images/icons/grass_unopened.png",
+                "chest_opened_img": "images/icons/grass_opened.png",
+                "sections": [
+                    {
+                        "name": "Agart -- Exterior -- grass"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "overworld",
+                        "x": 1670,
+                        "y": 3448
+                    }
+                ]
+            },
+            {
+                "name": "Eblan Castle",
+                "chest_unopened_img": "images/icons/chest_brown_unopened.png",
+                "chest_opened_img": "images/icons/chest_brown_opened.png",
+                "sections": [
+                    {
+                        "name": "Eblan Castle -- 1F -- chest"
+                    },
+                    {
+                        "name": "Eblan Castle -- 2F -- west room, top"
+                    },
+                    {
+                        "name": "Eblan Castle -- 2F -- west room, bottom"
+                    },
+                    {
+                        "name": "Eblan Castle -- 2F -- east room, top"
+                    },
+                    {
+                        "name": "Eblan Castle -- 2F -- east room, bottom-left"
+                    },
+                    {
+                        "name": "Eblan Castle -- 2F -- east room, bottom-right"
+                    },
+                    {
+                        "name": "Eblan Castle -- West tower 1F -- left"
+                    },
+                    {
+                        "name": "Eblan Castle -- West tower 1F -- right"
+                    },
+                    {
+                        "name": "Eblan Castle -- West tower 2F -- top-left pot",
+                        "chest_unopened_img": "images/icons/pot_unopened.png",
+                        "chest_opened_img": "images/icons/pot_opened.png"
+                    },
+                    {
+                        "name": "Eblan Castle -- West tower 2F -- bottom-right pot",
+                        "chest_unopened_img": "images/icons/pot_unopened.png",
+                        "chest_opened_img": "images/icons/pot_opened.png"
+                    },
+                    {
+                        "name": "Eblan Castle -- West tower 2F -- left chest"
+                    },
+                    {
+                        "name": "Eblan Castle -- West tower 2F -- right chest"
+                    },
+                    {
+                        "name": "Eblan Castle -- East tower 1F -- left"
+                    },
+                    {
+                        "name": "Eblan Castle -- East tower 1F -- right"
+                    },
+                    {
+                        "name": "Eblan Castle -- East tower 2F -- left side, top chest"
+                    },
+                    {
+                        "name": "Eblan Castle -- East tower 2F -- left side, bottom chest"
+                    },
+                    {
+                        "name": "Eblan Castle -- East tower 2F -- pot",
+                        "chest_unopened_img": "images/icons/pot_unopened.png",
+                        "chest_opened_img": "images/icons/pot_opened.png"
+                    },
+                    {
+                        "name": "Eblan Castle -- East tower 2F -- right side, top chest"
+                    },
+                    {
+                        "name": "Eblan Castle -- East tower 2F -- right side, bottom chest"
+                    },
+                    {
+                        "name": "Eblan Castle -- Basement -- left"
+                    },
+                    {
+                        "name": "Eblan Castle -- Basement -- middle"
+                    },
+                    {
+                        "name": "Eblan Castle -- Basement -- right"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "overworld",
+                        "x": 735,
+                        "y": 3777
+                    }
+                ]
+            },
+            {
+                "name": "Cave Eblana",
+                "chest_unopened_img": "images/icons/chest_orange_unopened.png",
+                "chest_opened_img": "images/icons/chest_orange_opened.png",
+                "access_rules": ["hook"],
+                "sections": [
+                    {
+                        "name": "Cave Eblana -- B1F -- top middle"
+                    },
+                    {
+                        "name": "Cave Eblana -- B1F -- top right"
+                    },
+                    {
+                        "name": "Cave Eblana -- B1F -- bottom right"
+                    },
+                    {
+                        "name": "Cave Eblana -- Hospital -- left pot",
+                        "chest_unopened_img": "images/icons/pot_unopened.png",
+                        "chest_opened_img": "images/icons/pot_opened.png"
+                    },
+                    {
+                        "name": "Cave Eblana -- Hospital -- right pot",
+                        "chest_unopened_img": "images/icons/pot_unopened.png",
+                        "chest_opened_img": "images/icons/pot_opened.png"
+                    },
+                    {
+                        "name": "Cave Eblana -- Pass to Bab-il (west half) -- southwest entrance"
+                    },
+                    {
+                        "name": "Cave Eblana -- Pass to Bab-il (west half) -- northwest exit"
+                    },
+                    {
+                        "name": "Cave Eblana -- Pass to Bab-il (east half) -- north entrance, left"
+                    },
+                    {
+                        "name": "Cave Eblana -- Pass to Bab-il (east half) -- north entrance, right top"
+                    },
+                    {
+                        "name": "Cave Eblana -- Pass to Bab-il (east half) -- north entrance, right bottom"
+                    },
+                    {
+                        "name": "Cave Eblana -- Pass to Bab-il (east half) -- north entrance, secret path, top"
+                    },
+                    {
+                        "name": "Cave Eblana -- Pass to Bab-il (east half) -- north entrance, secret path, bottom"
+                    },
+                    {
+                        "name": "Cave Eblana -- Pass to Bab-il (west half) -- bottom, through secret path"
+                    },
+                    {
+                        "name": "Cave Eblana -- Pass to Bab-il (east half) -- bottom"
+                    },
+                    {
+                        "name": "Cave Eblana -- Pass to Bab-il (east half) -- southeast corner, left"
+                    },
+                    {
+                        "name": "Cave Eblana -- Pass to Bab-il (east half) -- southeast corner, middle"
+                    },
+                    {
+                        "name": "Cave Eblana -- Pass to Bab-il (east half) -- southeast corner, right"
+                    },
+                    {
+                        "name": "Cave Eblana -- Pass to Bab-il (north connection) -- top right"
+                    },
+                    {
+                        "name": "Cave Eblana -- Exit -- top left, through secret path"
+                    },
+                    {
+                        "name": "Cave Eblana -- Exit -- middle left"
+                    },
+                    {
+                        "name": "Cave Eblana -- Exit -- bottom left"
+                    },
+                    {
+                        "name": "Cave Eblana -- Save Room -- hidden chest"
+                    },
+                    {
+                        "name": "Cave Eblana Character",
+                        "visibility_rules": ["noearnedcharactersoff"],
+                        "chest_unopened_img": "images/characters/edge.png",
+                        "chest_opened_img": "images/characters/edgedisabled.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "overworld",
+                        "x": 391,
+                        "y": 3705
+                    }
+                ]
+            },
+            {
+                "name": "Tower of Bab-il (upper)",
+                "chest_unopened_img": "images/icons/chest_red_unopened.png",
+                "chest_opened_img": "images/icons/chest_red_opened.png",
+                "access_rules": ["hook"],
+                "sections": [
+                    {
+                        "name": "Tower of Bab-il (upper) -- 1F -- top"
+                    },
+                    {
+                        "name": "Tower of Bab-il (upper) -- 1F -- right"
+                    },
+                    {
+                        "name": "Tower of Bab-il (upper) -- B2F -- chest (long bridge)"
+                    },
+                    {
+                        "name": "Tower of Bab-il (upper) -- B3F -- chest (ring bridge)"
+                    },
+                    {
+                        "name": "Tower of Bab-il (upper) -- B4F -- chest (U bridge)"
+                    },
+                    {
+                        "name": "Tower of Bab-il (upper) -- B5F -- chest (left of crystal room entrance)"
+                    },
+                    {
+                        "name": "Tower of Bab-il (lower) -- Trapdoor landing -- chest"
+                    },
+                    {
+                        "name": "Tower of Bab-il (lower) -- Falcon level -- chest"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "overworld",
+                        "x": 543,
+                        "y": 3479
+                    }
+                ]
+            },
+            {
+                "name": "Giant of Bab-il",
+                "chest_unopened_img": "images/icons/chest_red_unopened.png",
+                "chest_opened_img": "images/icons/chest_red_opened.png",
+                "access_rules": ["darknesscrystal"],
+                "sections": [
+                    {
+                        "name": "Giant of Bab-il -- Chest -- top left"
+                    },
+                    {
+                        "name": "Giant of Bab-il -- Chest -- bottom left"
+                    },
+                    {
+                        "name": "Giant of Bab-il -- Chest -- middle"
+                    },
+                    {
+                        "name": "Giant of Bab-il -- Chest -- top right"
+                    },
+                    {
+                        "name": "Giant of Bab-il -- Chest -- bottom right"
+                    },
+                    {
+                        "name": "Giant of Bab-il -- Stomach -- center"
+                    },
+                    {
+                        "name": "Giant of Bab-il -- Stomach -- top right"
+                    },
+                    {
+                        "name": "Giant of Bab-il -- Passage -- chest"
+                    },
+                    {
+                        "name": "Giant of Bab-il Character",
+                        "visibility_rules": ["noearnedcharactersoff"],
+                        "chest_unopened_img": "images/characters/kain.png",
+                        "chest_opened_img": "images/characters/kaindisabled.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "overworld",
+                        "x": 603,
+                        "y": 3694
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "name": "No Free Characters",
+    "codes": "nofreecharacters",
+    "type": "progressive",
+    "allow_disabled":false,
+    "loop":true,
+    "stages": [
+      {
+        "img": "images/settings/off.png",
+        "codes": "nofreecharactersoff",
+        "inherit_codes":false
+      },
+      
+      {
+        "img": "images/settings/on.png",
+        "codes": "nofreecharacterson",
+        "inherit_codes":false
+      }
+    ]
+  },
+  {
+    "name": "No Earned Characters",
+    "codes": "noearnedcharacters",
+    "type": "progressive",
+    "allow_disabled":false,
+    "loop":true,
+    "stages": [
+      {
+        "img": "images/settings/off.png",
+        "codes": "noearnedcharactersoff",
+        "inherit_codes":false
+      },
+      
+      {
+        "img": "images/settings/on.png",
+        "codes": "noearnedcharacterson",
+        "inherit_codes":false
+      }
+    ]
+  },
+  {
+    "name": "Pass Enabled",
+    "codes": "passenabled",
+    "type": "progressive",
+    "allow_disabled":false,
+    "loop":true,
+    "stages": [
+      {
+        "img": "images/settings/off.png",
+        "codes": "passenabledoff",
+        "inherit_codes":false
+      },
+      
+      {
+        "img": "images/settings/on.png",
+        "codes": "passenabledon",
+        "inherit_codes":false
+      }
+    ]
+  },
+  {
+    "type": "static",
+    "img": "images/settings/nofreecharacterslabel.png",
+    "codes": "nofreecharacterslabel"
+  },
+  {
+    "type": "static",
+    "img": "images/settings/noearnedcharacterslabel.png",
+    "codes": "noearnedcharacterslabel"
+  },
+  {
+    "type": "static",
+    "img": "images/settings/passenabledlabel.png",
+    "codes": "passenabledlabel"
+  }
+]

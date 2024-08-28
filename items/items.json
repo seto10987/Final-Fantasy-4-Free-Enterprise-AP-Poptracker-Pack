@@ -1,0 +1,120 @@
+[
+  {
+    "name": "Adamant",
+    "type": "toggle",
+    "img": "images/items/adamant.png",
+    "codes": "adamant"
+  },
+  {
+    "name": "Baron Key",
+    "type": "toggle",
+    "img": "images/items/baronkey.png",
+    "codes": "baronkey"
+  },
+  {
+    "name": "Crystal",
+    "type": "toggle",
+    "img": "images/items/crystal.png",
+    "codes": "crystal"
+  },
+  {
+    "name": "Darkness Crystal",
+    "type": "toggle",
+    "img": "images/items/darknesscrystal.png",
+    "codes": "darknesscrystal"
+  },
+  {
+    "name": "Earth Crystal",
+    "type": "toggle",
+    "img": "images/items/earthcrystal.png",
+    "codes": "earthcrystal"
+  },
+  {
+    "name": "Twin Harp",
+    "type": "toggle",
+    "img": "images/items/twinharp.png",
+    "codes": "twinharp"
+  },
+  {
+    "name": "Hook",
+    "type": "toggle",
+    "img": "images/items/hook.png",
+    "codes": "hook"
+  },
+  {
+    "name": "Legend Sword",
+    "type": "toggle",
+    "img": "images/items/legendsword.png",
+    "codes": "legendsword"
+  },
+  {
+    "name": "Luca Key",
+    "type": "toggle",
+    "img": "images/items/lucakey.png",
+    "codes": "lucakey"
+  },
+  {
+    "name": "Magma Key",
+    "type": "toggle",
+    "img": "images/items/magmakey.png",
+    "codes": "magmakey"
+  },
+  {
+    "name": "Package",
+    "type": "toggle",
+    "img": "images/items/package.png",
+    "codes": "package"
+  },
+  {
+    "name": "Pan",
+    "type": "toggle",
+    "img": "images/items/pan.png",
+    "codes": "pan"
+  },
+  {
+    "name": "Pass",
+    "type": "toggle",
+    "img": "images/items/pass.png",
+    "codes": "pass"
+  },
+  {
+    "name": "Pink Tail",
+    "type": "toggle",
+    "img": "images/items/pinktail.png",
+    "codes": "pinktail"
+  },
+  {
+    "name": "Rat Tail",
+    "type": "toggle",
+    "img": "images/items/rattail.png",
+    "codes": "rattail"
+  },
+  {
+    "name": "Sand Ruby",
+    "type": "toggle",
+    "img": "images/items/sandruby.png",
+    "codes": "sandruby"
+  },
+  {
+    "name": "Spoon",
+    "type": "toggle",
+    "img": "images/items/spoon.png",
+    "codes": "spoon"
+  },
+  {
+    "name": "Tower Key",
+    "type": "toggle",
+    "img": "images/items/towerkey.png",
+    "codes": "towerkey"
+  },
+  {
+    "name": "Dark Matter",
+    "type": "consumable",
+    "img": "images/items/darkmatter.png",
+    "max_quantity": 30,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "codes": "darkmatter"
+  }
+]

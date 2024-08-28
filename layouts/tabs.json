@@ -1,0 +1,48 @@
+{
+    "map_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+                {
+                    "type": "array",
+                    "v_alignment": "stretch",
+                    "content": [
+                    {
+                        "type": "tabbed",
+                        "dock": "left",
+                        "tabs": [
+                            {
+                                "title": "Overworld",
+                                "content": {
+                                    "type": "map",
+                                    "maps": [
+                                        "overworld"
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "Underworld",
+                                "content": {
+                                    "type": "map",
+                                    "maps": [
+                                        "underworld"
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "Moon",
+                                "content": {
+                                    "type": "map",
+                                    "maps": [
+                                        "moon"
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
