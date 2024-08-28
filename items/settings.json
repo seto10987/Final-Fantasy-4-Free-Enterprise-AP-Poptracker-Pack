@@ -40,11 +40,32 @@
     ]
   },
   {
+    "name": "Dark Matter Hunt",
+    "codes": "darkmatterhunt",
+    "type": "progressive",
+    "allow_disabled":false,
+    "loop":true,
+    "stages": [
+      {
+        "img": "images/settings/off.png",
+        "codes": "darkmatterhuntoff",
+        "inherit_codes":false
+      },
+      
+      {
+        "img": "images/settings/on.png",
+        "codes": "darkmatterhunton",
+        "inherit_codes":false
+      }
+    ]
+  },
+  {
     "name": "Pass Enabled",
     "codes": "passenabled",
     "type": "progressive",
     "allow_disabled":false,
     "loop":true,
+    "initial_stage_idx": 1,
     "stages": [
       {
         "img": "images/settings/off.png",
@@ -68,6 +89,11 @@
     "type": "static",
     "img": "images/settings/noearnedcharacterslabel.png",
     "codes": "noearnedcharacterslabel"
+  },
+  {
+    "type": "static",
+    "img": "images/settings/darkmatterhuntlabel.png",
+    "codes": "darkmatterhuntlabel"
   },
   {
     "type": "static",

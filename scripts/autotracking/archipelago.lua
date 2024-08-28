@@ -69,18 +69,18 @@ function onClear(slot_data)
 	PLAYER_NUMBER = Archipelago.PlayerNumber or -1
 	TEAM_NUMBER = Archipelago.TeamNumber or 0
 
-    if slot_data["nofreecharacters"] then
-        Tracker:FindObjectForCode("nofreecharacters").CurrentStage = tonumber(slot_data["nofreecharacters"])
+    if slot_data["NoFreeCharacters"] then
+        Tracker:FindObjectForCode("nofreecharacters").CurrentStage = tonumber(slot_data["NoFreeCharacters"])
     end
-    if slot_data["noearnedcharacters"] then
-        Tracker:FindObjectForCode("noearnedcharacters").CurrentStage = tonumber(slot_data["noearnedcharacters"])
+    if slot_data["NoEarnedCharacters"] then
+        Tracker:FindObjectForCode("noearnedcharacters").CurrentStage = tonumber(slot_data["NoEarnedCharacters"])
     end
-    if slot_data["passenabled"] then
-        Tracker:FindObjectForCode("passenabled").CurrentStage = tonumber(slot_data["passenabled"])
+    if slot_data["DarkMatterHunt"] then
+        Tracker:FindObjectForCode("darkmatterhunt").CurrentStage = tonumber(slot_data["DarkMatterHunt"])
     end
-
-
-
+    if slot_data["PassEnabled"] then
+        Tracker:FindObjectForCode("passenabled").CurrentStage = tonumber(slot_data["PassEnabled"])
+    end
 end
 
 -- called when an item gets collected

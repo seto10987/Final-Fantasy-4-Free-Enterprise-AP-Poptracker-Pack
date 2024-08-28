@@ -116,5 +116,11 @@
     "decrement": 1,
     "initial_quantity": 0,
     "codes": "darkmatter"
+  },
+  {
+    "name": "Go Mode",
+    "type": "toggle",
+    "img": "images/icons/gomode.png",
+    "codes": "go_mode"
   }
 ]

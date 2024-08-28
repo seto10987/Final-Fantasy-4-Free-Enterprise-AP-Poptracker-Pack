@@ -28,7 +28,7 @@
                     ["crystal","pass","hook","darknesscrystal","earthcrystal","twinharp"],
                     ["package","sandruby","baronkey","magmakey","towerkey","lucakey"],
                     ["adamant","legendsword","pan","spoon","rattail","pinktail"],
-                    ["darkmatter"]
+                    ["darkmatter","","","go_mode"]
                 ]
             }
         ]
@@ -65,6 +65,7 @@
                     [""],
                     ["nofreecharacterslabel","nofreecharacters"],
                     ["noearnedcharacterslabel","noearnedcharacters"],
+                    ["darkmatterhuntlabel","darkmatterhunt"],
                     ["passenabledlabel","passenabled"]
                 ]
             }
