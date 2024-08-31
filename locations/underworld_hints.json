@@ -1,0 +1,650 @@
+[
+    {
+        "name": "Underworld Hints",
+        "chest_unopened_img": "images/icons/chest_brown_unopened.png",
+        "chest_opened_img": "images/icons/chest_brown_opened.png",
+        "access_rules": ["{}"],
+        "children": [
+            {
+                "name": "Dwarf Castle Hints",
+                "sections": [
+                    {
+                        "name": "Dwarf Castle -- B1F (Fat Chocobo) -- left pot (Hint)",
+                        "chest_unopened_img": "images/icons/pot_unopened.png",
+                        "chest_opened_img": "images/icons/pot_opened.png",
+                        "visibility_rules": ["dwarf_castle_b1f_fat_chocobo_left_pot"]
+                    },
+                    {
+                        "name": "Dwarf Castle -- B1F (Fat Chocobo) -- top pot (Hint)",
+                        "chest_unopened_img": "images/icons/pot_unopened.png",
+                        "chest_opened_img": "images/icons/pot_opened.png",
+                        "visibility_rules": ["dwarf_castle_b1f_fat_chocobo_top_pot"]
+                    },
+                    {
+                        "name": "Dwarf Castle -- B1F (Fat Chocobo) -- right pot (Hint)",
+                        "chest_unopened_img": "images/icons/pot_unopened.png",
+                        "chest_opened_img": "images/icons/pot_opened.png",
+                        "visibility_rules": ["dwarf_castle_b1f_fat_chocobo_right_pot"]
+                    },
+                    {
+                        "name": "Dwarf Castle -- B2F (tunnel) -- left chest (Hint)",
+                        "visibility_rules": ["dwarf_castle_b2f_tunnel_left_chest"]
+                    },
+                    {
+                        "name": "Dwarf Castle -- B2F (tunnel) -- middle chest (Hint)",
+                        "visibility_rules": ["dwarf_castle_b2f_tunnel_middle_chest"]
+                    },
+                    {
+                        "name": "Dwarf Castle -- B2F (tunnel) -- right chest (Hint)",
+                        "visibility_rules": ["dwarf_castle_b2f_tunnel_right_chest"]
+                    },
+                    {
+                        "name": "Dwarf Castle -- East tower 1F -- chest (Hint)",
+                        "visibility_rules": ["dwarf_castle_east_tower_1f_chest"]
+                    },
+                    {
+                        "name": "Dwarf Castle -- Inn -- pot (Hint)",
+                        "chest_unopened_img": "images/icons/pot_unopened.png",
+                        "chest_opened_img": "images/icons/pot_opened.png",
+                        "visibility_rules": ["dwarf_castle_inn_pot"]
+                    },
+                    {
+                        "name": "Dwarf Castle -- East tower 3F -- top (Hint)",
+                        "visibility_rules": ["dwarf_castle_east_tower_3f_top"]
+                    },
+                    {
+                        "name": "Dwarf Castle -- East tower 3F -- left (Hint)",
+                        "visibility_rules": ["dwarf_castle_east_tower_3f_left"]
+                    },
+                    {
+                        "name": "Dwarf Castle -- East tower 3F -- right (Hint)",
+                        "visibility_rules": ["dwarf_castle_east_tower_3f_right"]
+                    },
+                    {
+                        "name": "Dwarf Castle -- East tower 3F -- bottom (Hint)",
+                        "visibility_rules": ["dwarf_castle_east_tower_3f_bottom"]
+                    },
+                    {
+                        "name": "Dwarf Castle -- West tower 3F -- top (Hint)",
+                        "visibility_rules": ["dwarf_castle_west_tower_3f_top"]
+                    },
+                    {
+                        "name": "Dwarf Castle -- West tower 3F -- left (Hint)",
+                        "visibility_rules": ["dwarf_castle_west_tower_3f_left"]
+                    },
+                    {
+                        "name": "Dwarf Castle -- West tower 3F -- right (Hint)",
+                        "visibility_rules": ["dwarf_castle_west_tower_3f_right"]
+                    },
+                    {
+                        "name": "Dwarf Castle -- West tower 3F -- bottom (Hint)",
+                        "visibility_rules": ["dwarf_castle_west_tower_3f_bottom"]
+                    },
+                    {
+                        "name": "Dwarf Castle -- West tower 2F -- pot (Hint)",
+                        "chest_unopened_img": "images/icons/pot_unopened.png",
+                        "chest_opened_img": "images/icons/pot_opened.png",
+                        "visibility_rules": ["dwarf_castle_west_tower_2f_pot"]
+                    },
+                    {
+                        "name": "Dwarf Castle -- East tower 2F -- pot (Hint)",
+                        "chest_unopened_img": "images/icons/pot_unopened.png",
+                        "chest_opened_img": "images/icons/pot_opened.png",
+                        "visibility_rules": ["dwarf_castle_east_tower_2f_pot"]
+                    },
+                    {
+                        "name": "Dwarf Castle -- Throne Room -- Luca item (Hint)",
+                        "chest_unopened_img": "images/icons/key_luca_unopened.png",
+                        "chest_opened_img": "images/icons/key_luca_opened.png",
+                        "visibility_rules": ["dwarf_castle_throne_room_luca_item"]
+                    },
+                    {
+                        "name": "Dwarf Castle Character (Hint)",
+                        "visibility_rules": ["dwarf_castle_character"],
+                        "chest_unopened_img": "images/characters/rydia.png",
+                        "chest_opened_img": "images/characters/rydiadisabled.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "underworld",
+                        "x": 1618,
+                        "y": 1308
+                    }
+                ]
+            },
+            {
+                "name": "Tower of Bab-il (lower) Hints",
+                "chest_unopened_img": "images/icons/chest_brown_unopened.png",
+                "chest_opened_img": "images/icons/chest_brown_opened.png",
+                "sections": [
+                    {
+                        "name": "Tower of Bab-il (lower) -- 1F -- left top (Hint)",
+                        "visibility_rules": ["tower_of_babil_lower_1f_left_top"]
+                    },
+                    {
+                        "name": "Tower of Bab-il (lower) -- 1F -- left bottom (Hint)",
+                        "visibility_rules": ["tower_of_babil_lower_1f_left_bottom"]
+                    },
+                    {
+                        "name": "Tower of Bab-il (lower) -- 1F -- right (Hint)",
+                        "visibility_rules": ["tower_of_babil_lower_1f_right"]
+                    },
+                    {
+                        "name": "Tower of Bab-il (lower) -- 2F -- chest (Hint)",
+                        "visibility_rules": ["tower_of_babil_lower_2f_chest"]
+                    },
+                    {
+                        "name": "Tower of Bab-il (lower) -- 3F -- top left (Hint)",
+                        "visibility_rules": ["tower_of_babil_lower_3f_top_left"]
+                    },
+                    {
+                        "name": "Tower of Bab-il (lower) -- 3F -- right (Hint)",
+                        "visibility_rules": ["tower_of_babil_lower_3f_right"]
+                    },
+                    {
+                        "name": "Tower of Bab-il (lower) -- 3F -- bottom (Hint)",
+                        "visibility_rules": ["tower_of_babil_lower_3f_bottom"]
+                    },
+                    {
+                        "name": "Tower of Bab-il (lower) -- 4F (through 3F southeast door) -- left (Hint)",
+                        "visibility_rules": ["tower_of_babil_lower_4f_left"]
+                    },
+                    {
+                        "name": "Tower of Bab-il (lower) -- 4F (through 3F southeast door) -- right (Hint)",
+                        "visibility_rules": ["tower_of_babil_lower_4f_right"]
+                    },
+                    {
+                        "name": "Tower of Bab-il (lower) -- 5F -- left (Hint)",
+                        "visibility_rules": ["tower_of_babil_lower_5f_left"]
+                    },
+                    {
+                        "name": "Tower of Bab-il (lower) -- 5F -- right (Hint)",
+                        "visibility_rules": ["tower_of_babil_lower_5f_right"]
+                    },
+                    {
+                        "name": "Tower of Bab-il (lower) -- 7F -- chest (Hint)",
+                        "visibility_rules": ["tower_of_babil_lower_7f_chest"]
+                    },
+                    {
+                        "name": "Tower of Bab-il (lower) -- 8F -- item (Tower Key slot) (Hint)",
+                        "chest_unopened_img": "images/icons/key_tower_unopened.png",
+                        "chest_opened_img": "images/icons/key_tower_opened.png",
+                        "visibility_rules": ["tower_of_babil_lower_8f_item_tower_key_slot"]
+                    },
+                    {
+                        "name": "Tower of Bab-il (lower) -- 5F -- item (Super Cannon destruction) (Hint)",
+                        "chest_unopened_img": "images/icons/boss_dark_imps_unopened.png",
+                        "chest_opened_img": "images/icons/boss_dark_imps_opened.png",
+                        "visibility_rules": ["tower_of_babil_lower_5f_item_super_cannon_destruction"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "underworld",
+                        "x": 800,
+                        "y": 236
+                    }
+                ]
+            },
+            {
+                "name": "Tomra Hints",
+                "chest_unopened_img": "images/icons/chest_dwarves_unopened.png",
+                "chest_opened_img": "images/icons/chest_dwarves_opened.png",
+                "sections": [
+                    {
+                        "name": "Tomra -- Treasury -- leftmost chest (Hint)",
+                        "visibility_rules": ["tomra_treasury_leftmost_chest"]
+                    },
+                    {
+                        "name": "Tomra -- Treasury -- left pot (Hint)",
+                        "chest_unopened_img": "images/icons/pot_unopened.png",
+                        "chest_opened_img": "images/icons/pot_opened.png",
+                        "visibility_rules": ["tomra_treasury_left_pot"]
+                    },
+                    {
+                        "name": "Tomra -- Treasury -- bottom left chest (Hint)",
+                        "visibility_rules": ["tomra_treasury_bottom_left_chest"]
+                    },
+                    {
+                        "name": "Tomra -- Treasury -- right pot (Hint)",
+                        "chest_unopened_img": "images/icons/pot_unopened.png",
+                        "chest_opened_img": "images/icons/pot_opened.png",
+                        "visibility_rules": ["tomra_treasury_right_pot"]
+                    },
+                    {
+                        "name": "Tomra -- Treasury -- right top chest (Hint)",
+                        "visibility_rules": ["tomra_treasury_right_top_chest"]
+                    },
+                    {
+                        "name": "Tomra -- Treasury -- right bottom chest (Hint)",
+                        "visibility_rules": ["tomra_treasury_right_bottom_chest"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "underworld",
+                        "x": 1030,
+                        "y": 1950
+                    }
+                ]
+            },
+            {
+                "name": "Kokkol's House Hints",
+                "chest_unopened_img": "images/icons/chest_dwarves_unopened.png",
+                "chest_opened_img": "images/icons/chest_dwarves_opened.png",
+                "sections": [
+                    {
+                        "name": "Kokkol's House -- 1F -- top pot (Hint)",
+                        "chest_unopened_img": "images/icons/pot_unopened.png",
+                        "chest_opened_img": "images/icons/pot_opened.png",
+                        "visibility_rules": ["kokkols_house_1f_top_pot"]
+                    },
+                    {
+                        "name": "Kokkol's House -- 1F -- left pot (Hint)",
+                        "chest_unopened_img": "images/icons/pot_unopened.png",
+                        "chest_opened_img": "images/icons/pot_opened.png",
+                        "visibility_rules": ["kokkols_house_1f_left_pot"]
+                    },
+                    {
+                        "name": "Kokkol's House -- 1F -- hidden chest (Hint)",
+                        "visibility_rules": ["kokkols_house_1f_hidden_chest"]
+                    },
+                    {
+                        "name": "Kokkol's House -- 2F -- shelf (Hint)",
+                        "chest_unopened_img": "images/icons/shelf_unopened.png",
+                        "chest_opened_img": "images/icons/shelf_opened.png",
+                        "visibility_rules": ["kokkols_house_2f_shelf"]
+                    },
+                    {
+                        "name": "Kokkol's House 2F -- Kokkol -- forge item (Hint)",
+                        "chest_unopened_img": "images/icons/key_legend_unopened.png",
+                        "chest_opened_img": "images/icons/key_legend_opened.png",
+                        "visibility_rules": ["kokkols_house_2f_kokkol_forge_item"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "underworld",
+                        "x": 1685,
+                        "y": 1973
+                    }
+                ]
+            },
+            {
+                "name": "Sealed Cave Hints",
+                "chest_unopened_img": "images/icons/chest_red_unopened.png",
+                "chest_opened_img": "images/icons/chest_red_opened.png",
+                "sections": [
+                    {
+                        "name": "Sealed Cave -- B1F -- chest (Hint)",
+                        "visibility_rules": ["sealed_cave_b1f_chest"]
+                    },
+                    {
+                        "name": "Sealed Cave -- B1F (southeast room) -- left (Hint)",
+                        "visibility_rules": ["sealed_cave_b1f_southeast_room_left"]
+                    },
+                    {
+                        "name": "Sealed Cave -- B1F (southeast room) -- right (Hint)",
+                        "visibility_rules": ["sealed_cave_b1f_southeast_room_right"]
+                    },
+                    {
+                        "name": "Sealed Cave -- B1F to B2F passage -- left (Hint)",
+                        "visibility_rules": ["sealed_cave_b1f_to_b2f_passage_left"]
+                    },
+                    {
+                        "name": "Sealed Cave -- B1F to B2F passage -- right (Hint)",
+                        "visibility_rules": ["sealed_cave_b1f_to_b2f_passage_right"]
+                    },
+                    {
+                        "name": "Sealed Cave -- B2F -- center right (Hint)",
+                        "visibility_rules": ["sealed_cave_b2f_center_right"]
+                    },
+                    {
+                        "name": "Sealed Cave -- B2F -- bottom right (Hint)",
+                        "visibility_rules": ["sealed_cave_b2f_bottom_right"]
+                    },
+                    {
+                        "name": "Sealed Cave -- B2F (north side, leftmost door) -- left (Hint)",
+                        "visibility_rules": ["sealed_cave_b2f_north_side_leftmost_door_left"]
+                    },
+                    {
+                        "name": "Sealed Cave -- B2F (north side, leftmost door) -- right (Hint)",
+                        "visibility_rules": ["sealed_cave_b2f_north_side_leftmost_door_right"]
+                    },
+                    {
+                        "name": "Sealed Cave -- B2F (north side, third door from right) -- left, top (Hint)",
+                        "visibility_rules": ["sealed_cave_b2f_north_side_third_door_left_top"]
+                    },
+                    {
+                        "name": "Sealed Cave -- B2F (north side, third door from right) -- left, bottom (Hint)",
+                        "visibility_rules": ["sealed_cave_b2f_north_side_third_door_left_bottom"]
+                    },
+                    {
+                        "name": "Sealed Cave -- B2F (north side, third door from right) -- right (Hint)",
+                        "visibility_rules": ["sealed_cave_b2f_north_side_third_door_right"]
+                    },
+                    {
+                        "name": "Sealed Cave -- B2F (north side, second door from right) -- chest (Hint)",
+                        "visibility_rules": ["sealed_cave_b2f_north_side_second_door_chest"]
+                    },
+                    {
+                        "name": "Sealed Cave -- B2F to B3F passage -- chest (Hint)",
+                        "visibility_rules": ["sealed_cave_b2f_to_b3f_passage_chest"]
+                    },
+                    {
+                        "name": "Sealed Cave -- B3F -- chest (Hint)",
+                        "visibility_rules": ["sealed_cave_b3f_chest"]
+                    },
+                    {
+                        "name": "Sealed Cave -- B3F to B4F passage -- right (Hint)",
+                        "visibility_rules": ["sealed_cave_b3f_to_b4f_passage_right"]
+                    },
+                    {
+                        "name": "Sealed Cave -- B3F to B4F passage -- bottom (Hint)",
+                        "visibility_rules": ["sealed_cave_b3f_to_b4f_passage_bottom"]
+                    },
+                    {
+                        "name": "Sealed Cave -- Box room -- top right (Hint)",
+                        "visibility_rules": ["sealed_cave_box_room_top_right"]
+                    },
+                    {
+                        "name": "Sealed Cave -- Box room -- bottom left (Hint)",
+                        "visibility_rules": ["sealed_cave_box_room_bottom_left"]
+                    },
+                    {
+                        "name": "Sealed Cave -- Crystal Room -- item (Hint)",
+                        "chest_unopened_img": "images/icons/key_darkness_unopened.png",
+                        "chest_opened_img": "images/icons/key_darkness_opened.png",
+                        "visibility_rules": ["sealed_cave_crystal_room_item"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "underworld",
+                        "x": 765,
+                        "y": 1756
+                    }
+                ]
+            },
+            {
+                "name": "Sylvan Cave Hints",
+                "chest_unopened_img": "images/icons/chest_orange_unopened.png",
+                "chest_opened_img": "images/icons/chest_orange_opened.png",
+                "sections": [
+                    {
+                        "name": "Sylvan Cave -- B1F (northwest area) -- top row, left (Hint)",
+                        "visibility_rules": ["sylvan_cave_b1f_northwest_area_top_row_left"]
+                    },
+                    {
+                        "name": "Sylvan Cave -- B1F (northwest area) -- top row, middle (Hint)",
+                        "visibility_rules": ["sylvan_cave_b1f_northwest_area_top_row_middle"]
+                    },
+                    {
+                        "name": "Sylvan Cave -- B1F (northwest area) -- top row, right (Hint)",
+                        "visibility_rules": ["sylvan_cave_b1f_northwest_area_top_row_right"]
+                    },
+                    {
+                        "name": "Sylvan Cave -- B1F (northwest area) -- right side, top (Hint)",
+                        "visibility_rules": ["sylvan_cave_b1f_northwest_area_right_side_top"]
+                    },
+                    {
+                        "name": "Sylvan Cave -- B1F (northwest area) -- right side, bottom (Hint)",
+                        "visibility_rules": ["sylvan_cave_b1f_northwest_area_right_side_bottom"]
+                    },
+                    {
+                        "name": "Sylvan Cave -- B1F (save area) -- west end, left (Hint)",
+                        "visibility_rules": ["sylvan_cave_b1f_save_area_west_end_left"]
+                    },
+                    {
+                        "name": "Sylvan Cave -- B1F (save area) -- west end, right (Hint)",
+                        "visibility_rules": ["sylvan_cave_b1f_save_area_west_end_right"]
+                    },
+                    {
+                        "name": "Sylvan Cave -- B1F (entry area) -- east side, top (Hint)",
+                        "visibility_rules": ["sylvan_cave_b1f_entry_area_east_side_top"]
+                    },
+                    {
+                        "name": "Sylvan Cave -- B1F (entry area) -- east side, bottom (Hint)",
+                        "visibility_rules": ["sylvan_cave_b1f_entry_area_east_side_bottom"]
+                    },
+                    {
+                        "name": "Sylvan Cave -- B1F (save area) -- through northeast secret path (Hint)",
+                        "visibility_rules": ["sylvan_cave_b1f_save_area_through_northeast_secret_path"]
+                    },
+                    {
+                        "name": "Sylvan Cave -- B2F (east half) -- pit chamber, bottom right (Hint)",
+                        "visibility_rules": ["sylvan_cave_b2f_east_half_pit_chamber_bottom_right"]
+                    },
+                    {
+                        "name": "Sylvan Cave -- B2F (east half) -- pit chamber, bottom left (Hint)",
+                        "visibility_rules": ["sylvan_cave_b2f_east_half_pit_chamber_bottom_left"]
+                    },
+                    {
+                        "name": "Sylvan Cave -- B2F (east half) -- pit chamber, right (Hint)",
+                        "visibility_rules": ["sylvan_cave_b2f_east_half_pit_chamber_right"]
+                    },
+                    {
+                        "name": "Sylvan Cave -- B2F (east half) -- pit chamber, middle (Hint)",
+                        "visibility_rules": ["sylvan_cave_b2f_east_half_pit_chamber_middle"]
+                    },
+                    {
+                        "name": "Sylvan Cave -- B2F (east half) -- pit chamber, top left (Hint)",
+                        "visibility_rules": ["sylvan_cave_b2f_east_half_pit_chamber_top_left"]
+                    },
+                    {
+                        "name": "Sylvan Cave -- B2F (east half) -- square chamber, top left (Hint)",
+                        "visibility_rules": ["sylvan_cave_b2f_east_half_square_chamber_top_left"]
+                    },
+                    {
+                        "name": "Sylvan Cave -- B2F (east half) -- square chamber, top right (Hint)",
+                        "visibility_rules": ["sylvan_cave_b2f_east_half_square_chamber_top_right"]
+                    },
+                    {
+                        "name": "Sylvan Cave -- B2F (east half) -- square chamber, bottom left (Hint)",
+                        "visibility_rules": ["sylvan_cave_b2f_east_half_square_chamber_bottom_left"]
+                    },
+                    {
+                        "name": "Sylvan Cave -- B2F (east half) -- square chamber, bottom right (Hint)",
+                        "visibility_rules": ["sylvan_cave_b2f_east_half_square_chamber_bottom_right"]
+                    },
+                    {
+                        "name": "Sylvan Cave -- B2F (west half) -- north room, through secret path (Hint)",
+                        "visibility_rules": ["sylvan_cave_b2f_west_half_north_room_through_secret_path"]
+                    },
+                    {
+                        "name": "Sylvan Cave -- B3F (northeast area) -- top left (Hint)",
+                        "visibility_rules": ["sylvan_cave_b3f_northeast_area_top_left"]
+                    },
+                    {
+                        "name": "Sylvan Cave -- B3F (northeast area) -- top right (Hint)",
+                        "visibility_rules": ["sylvan_cave_b3f_northeast_area_top_right"]
+                    },
+                    {
+                        "name": "Sylvan Cave -- B3F (northeast area) -- bottom right (Hint)",
+                        "visibility_rules": ["sylvan_cave_b3f_northeast_area_bottom_right"]
+                    },
+                    {
+                        "name": "Sylvan Cave -- B3F (path to house) -- left of entrance (Hint)",
+                        "visibility_rules": ["sylvan_cave_b3f_path_to_house_left_of_entrance"]
+                    },
+                    {
+                        "name": "Sylvan Cave -- Poison treasury -- top left (Hint)",
+                        "visibility_rules": ["sylvan_cave_poison_treasury_top_left"]
+                    },
+                    {
+                        "name": "Sylvan Cave -- Poison treasury -- top middle (Hint)",
+                        "visibility_rules": ["sylvan_cave_poison_treasury_top_middle"]
+                    },
+                    {
+                        "name": "Sylvan Cave -- Poison treasury -- top right (Hint)",
+                        "visibility_rules": ["sylvan_cave_poison_treasury_top_right"]
+                    },
+                    {
+                        "name": "Sylvan Cave -- Poison treasury -- bottom left (Hint)",
+                        "visibility_rules": ["sylvan_cave_poison_treasury_bottom_left"]
+                    },
+                    {
+                        "name": "Sylvan Cave -- Poison treasury -- bottom middle (Hint)",
+                        "visibility_rules": ["sylvan_cave_poison_treasury_bottom_middle"]
+                    },
+                    {
+                        "name": "Sylvan Cave -- Poison treasury -- bottom right (Hint)",
+                        "visibility_rules": ["sylvan_cave_poison_treasury_bottom_right"]
+                    },
+                    {
+                        "name": "Sylvan Cave -- House -- top (Hint)",
+                        "visibility_rules": ["sylvan_cave_house_top"]
+                    },
+                    {
+                        "name": "Sylvan Cave -- House -- bottom (Hint)",
+                        "visibility_rules": ["sylvan_cave_house_bottom"]
+                    },
+                    {
+                        "name": "Sylvan Cave -- B3F -- Sylph item (Hint)",
+                        "chest_unopened_img": "images/icons/key_pan_unopened.png",
+                        "chest_opened_img": "images/icons/key_pan_opened.png",
+                        "visibility_rules": ["sylvan_cave_b3f_sylph_item"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "underworld",
+                        "x": 235,
+                        "y": 233
+                    }
+                ]
+            },
+            {
+                "name": "Land of Monsters Hints",
+                "chest_unopened_img": "images/icons/chest_orange_unopened.png",
+                "chest_opened_img": "images/icons/chest_orange_opened.png",
+                "sections": [
+                    {
+                        "name": "Land of Monsters -- B1F -- top left, through secret path (Hint)",
+                        "visibility_rules": ["land_of_monsters_b1f_top_left_through_secret_path"]
+                    },
+                    {
+                        "name": "Land of Monsters -- B1F -- top right (Hint)",
+                        "visibility_rules": ["land_of_monsters_b1f_top_right"]
+                    },
+                    {
+                        "name": "Land of Monsters -- B1F -- bottom right (Hint)",
+                        "visibility_rules": ["land_of_monsters_b1f_bottom_right"]
+                    },
+                    {
+                        "name": "Land of Monsters -- B2F -- top left (Hint)",
+                        "visibility_rules": ["land_of_monsters_b2f_top_left"]
+                    },
+                    {
+                        "name": "Land of Monsters -- B2F -- bottom right (Hint)",
+                        "visibility_rules": ["land_of_monsters_b2f_bottom_right"]
+                    },
+                    {
+                        "name": "Land of Monsters -- B3F -- top (Hint)",
+                        "visibility_rules": ["land_of_monsters_b3f_top"]
+                    },
+                    {
+                        "name": "Land of Monsters -- B3F -- southwest room, through secret path, left (Hint)",
+                        "visibility_rules": ["land_of_monsters_b3f_southwest_room_through_secret_path_left"]
+                    },
+                    {
+                        "name": "Land of Monsters -- B3F -- southwest room, through secret path, middle (Hint)",
+                        "visibility_rules": ["land_of_monsters_b3f_southwest_room_through_secret_path_middle"]
+                    },
+                    {
+                        "name": "Land of Monsters -- B3F -- southwest room, through secret path, right (Hint)",
+                        "visibility_rules": ["land_of_monsters_b3f_southwest_room_through_secret_path_right"]
+                    },
+                    {
+                        "name": "Land of Monsters -- B3F -- bottom middle (Hint)",
+                        "visibility_rules": ["land_of_monsters_b3f_bottom_middle"]
+                    },
+                    {
+                        "name": "Land of Monsters -- B3F -- bottom right (Hint)",
+                        "visibility_rules": ["land_of_monsters_b3f_bottom_right"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "underworld",
+                        "x": 462,
+                        "y": 1383
+                    }
+                ]
+            },
+            {
+                "name": "Town of Monsters Hints",
+                "chest_unopened_img": "images/icons/chest_red_unopened.png",
+                "chest_opened_img": "images/icons/chest_red_opened.png",
+                "sections": [
+                    {
+                        "name": "Town of Monsters -- B4F (first area) -- top left (Hint)",
+                        "visibility_rules": ["town_of_monsters_b4f_first_area_top_left"]
+                    },
+                    {
+                        "name": "Town of Monsters -- B4F (first area) -- middle left (Hint)",
+                        "visibility_rules": ["town_of_monsters_b4f_first_area_middle_left"]
+                    },
+                    {
+                        "name": "Town of Monsters -- B4F (first area) -- Rat Tail (Hint)",
+                        "chest_unopened_img": "images/icons/key_rat_tail_unopened.png",
+                        "chest_opened_img": "images/icons/key_rat_tail_opened.png",
+                        "visibility_rules": ["town_of_monsters_b4f_first_area_rat_tail"]
+                    },
+                    {
+                        "name": "Town of Monsters -- B4F (first area) -- right (Hint)",
+                        "visibility_rules": ["town_of_monsters_b4f_first_area_right"]
+                    },
+                    {
+                        "name": "Town of Monsters -- B4F (first area) -- bottom (Hint)",
+                        "visibility_rules": ["town_of_monsters_b4f_first_area_bottom"]
+                    },
+                    {
+                        "name": "Town of Monsters -- Treasure platform -- top left (Hint)",
+                        "visibility_rules": ["town_of_monsters_treasure_platform_top_left"]
+                    },
+                    {
+                        "name": "Town of Monsters -- Treasure platform -- top right (Hint)",
+                        "visibility_rules": ["town_of_monsters_treasure_platform_top_right"]
+                    },
+                    {
+                        "name": "Town of Monsters -- Treasure platform -- bottom left (Hint)",
+                        "visibility_rules": ["town_of_monsters_treasure_platform_bottom_left"]
+                    },
+                    {
+                        "name": "Town of Monsters -- Treasure platform -- bottom right (Hint)",
+                        "visibility_rules": ["town_of_monsters_treasure_platform_bottom_right"]
+                    },
+                    {
+                        "name": "Town of Monsters -- Save Room -- left (Hint)",
+                        "visibility_rules": ["town_of_monsters_save_room_left"]
+                    },
+                    {
+                        "name": "Town of Monsters -- Save Room -- right (Hint)",
+                        "visibility_rules": ["town_of_monsters_save_room_right"]
+                    },
+                    {
+                        "name": "Town of Monsters -- Throne Room -- Asura item (Hint)",
+                        "chest_unopened_img": "images/icons/boss_asura_unopened.png",
+                        "chest_opened_img": "images/icons/boss_asura_opened.png",
+                        "visibility_rules": ["town_of_monsters_throne_room_asura_item"]
+                    },
+                    {
+                        "name": "Town of Monsters -- Throne Room -- Levia item (Hint)",
+                        "chest_unopened_img": "images/icons/boss_leviathan_unopened.png",
+                        "chest_opened_img": "images/icons/boss_leviathan_opened.png",
+                        "visibility_rules": ["town_of_monsters_throne_room_levia_item"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "underworld",
+                        "x": 462,
+                        "y": 1453
+                    }
+                ]
+            }  
+        ]
+    }
+]

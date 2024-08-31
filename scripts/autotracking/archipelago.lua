@@ -1,5 +1,6 @@
 ScriptHost:LoadScript("scripts/autotracking/item_mapping.lua")
 ScriptHost:LoadScript("scripts/autotracking/location_mapping.lua")
+ScriptHost:LoadScript("scripts/autotracking/hints_mapping.lua")
 
 CUR_INDEX = -1
 SLOT_DATA = nil
@@ -7,26 +8,21 @@ LOCAL_ITEMS = {}
 GLOBAL_ITEMS = {}
 
 function onClear(slot_data)
-    if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
-        print(string.format("called onClear, slot_data:\n%s", dump_table(slot_data)))
-    end
+
     SLOT_DATA = slot_data
     CUR_INDEX = -1
     -- reset locations
-    for _, v in pairs(LOCATION_MAPPING) do
-        if v[1] then
-            if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
-                print(string.format("onClear: clearing location %s", v[1]))
-            end
-            local obj = Tracker:FindObjectForCode(v[1])
-            if obj then
-                if v[1]:sub(1, 1) == "@" then
-                    obj.AvailableChestCount = obj.ChestCount
-                else
-                    obj.Active = false
+    for _, location_array in pairs(LOCATION_MAPPING) do
+        for _, location in pairs(location_array) do
+            if location then
+                local obj = Tracker:FindObjectForCode(location)
+                if obj then
+                    if location:sub(1, 1) == "@" then
+                        obj.AvailableChestCount = obj.ChestCount
+                    else
+                        obj.Active = false
+                    end
                 end
-            elseif AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
-                print(string.format("onClear: could not find object for code %s", v[1]))
             end
         end
     end
@@ -60,7 +56,6 @@ function onClear(slot_data)
         -- add snes interface functions here
     end
 
-
     print(dump_table(SLOT_DATA))
     if SLOT_DATA == nil then
         return
@@ -69,17 +64,28 @@ function onClear(slot_data)
 	PLAYER_NUMBER = Archipelago.PlayerNumber or -1
 	TEAM_NUMBER = Archipelago.TeamNumber or 0
 
-    if slot_data["NoFreeCharacters"] then
-        Tracker:FindObjectForCode("nofreecharacters").CurrentStage = tonumber(slot_data["NoFreeCharacters"])
+    if slot_data["NoFreeCharacters"] ~= nil then
+        Tracker:FindObjectForCode("nofreecharacters").CurrentStage = slot_data["NoFreeCharacters"] and 1 or 0
     end
-    if slot_data["NoEarnedCharacters"] then
-        Tracker:FindObjectForCode("noearnedcharacters").CurrentStage = tonumber(slot_data["NoEarnedCharacters"])
+    
+    if slot_data["NoEarnedCharacters"] ~= nil then
+        Tracker:FindObjectForCode("noearnedcharacters").CurrentStage = slot_data["NoEarnedCharacters"] and 1 or 0
     end
-    if slot_data["DarkMatterHunt"] then
-        Tracker:FindObjectForCode("darkmatterhunt").CurrentStage = tonumber(slot_data["DarkMatterHunt"])
+    
+    if slot_data["DarkMatterHunt"] ~= nil then
+        Tracker:FindObjectForCode("darkmatterhunt").CurrentStage = slot_data["DarkMatterHunt"] and 1 or 0
     end
-    if slot_data["PassEnabled"] then
-        Tracker:FindObjectForCode("passenabled").CurrentStage = tonumber(slot_data["PassEnabled"])
+    
+    if slot_data["PassEnabled"] ~= nil then
+        Tracker:FindObjectForCode("passenabled").CurrentStage = slot_data["PassEnabled"] and 1 or 0
+    end
+    
+
+    if Archipelago.PlayerNumber > -1 then
+    
+        HINTS_ID = "_read_hints_"..TEAM_NUMBER.."_"..PLAYER_NUMBER
+        Archipelago:SetNotify({HINTS_ID})
+        Archipelago:Get({HINTS_ID})
     end
 end
 
@@ -152,30 +158,65 @@ end
 
 -- called when a location gets cleared
 function onLocation(location_id, location_name)
-    if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
-        print(string.format("called onLocation: %s, %s", location_id, location_name))
-    end
-    if not AUTOTRACKER_ENABLE_LOCATION_TRACKING then
-        return
-    end
-    local v = LOCATION_MAPPING[location_id]
-    if not v and AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
+    local location_array = LOCATION_MAPPING[location_id]
+    if not location_array or not location_array[1] then
         print(string.format("onLocation: could not find location mapping for id %s", location_id))
-    end
-    if not v[1] then
         return
     end
-    local obj = Tracker:FindObjectForCode(v[1])
-    if obj then
-        if v[1]:sub(1, 1) == "@" then
-            obj.AvailableChestCount = obj.AvailableChestCount - 1
+
+    for _, location in pairs(location_array) do
+        local obj = Tracker:FindObjectForCode(location)
+        -- print(location, obj)
+        if obj then
+            if location:sub(1, 1) == "@" then
+                obj.AvailableChestCount = obj.AvailableChestCount - 1
+            else
+                obj.Active = true
+            end
         else
-            obj.Active = true
+            print(string.format("onLocation: could not find object for code %s", location))
         end
-    elseif AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
-        print(string.format("onLocation: could not find object for code %s", v[1]))
     end
 end
+
+
+
+function onNotify(key, value, old_value)
+
+    if value ~= old_value and key == HINTS_ID then
+        for _, hint in ipairs(value) do
+            if not hint.found and hint.finding_player == Archipelago.PlayerNumber then
+                updateHints(hint.location)
+            end
+        end
+    end
+end
+
+function onNotifyLaunch(key, value)
+    if key == HINTS_ID then
+        for _, hint in ipairs(value) do
+            if not hint.found and hint.finding_player == Archipelago.PlayerNumber then
+                updateHints(hint.location)
+            end
+        end
+    end
+end
+
+ 
+function updateHints(locationID)
+    local item_codes = HINTS_MAPPING[locationID]
+
+    for _, item_code in ipairs(item_codes) do
+        local obj = Tracker:FindObjectForCode(item_code)
+        if obj then
+            obj.Active = true
+        else
+            print(string.format("No object found for code: %s", item_code))
+        end
+    end
+end
+
+
 
 -- called when a locations is scouted
 function onScout(location_id, location_name, item_id, item_name, item_player)
@@ -194,14 +235,8 @@ function onBounce(json)
     -- your code goes here
 end
 
--- add AP callbacks
--- un-/comment as needed
 Archipelago:AddClearHandler("clear handler", onClear)
-if AUTOTRACKER_ENABLE_ITEM_TRACKING then
-    Archipelago:AddItemHandler("item handler", onItem)
-end
-if AUTOTRACKER_ENABLE_LOCATION_TRACKING then
-    Archipelago:AddLocationHandler("location handler", onLocation)
-end
--- Archipelago:AddScoutHandler("scout handler", onScout)
--- Archipelago:AddBouncedHandler("bounce handler", onBounce)
+Archipelago:AddItemHandler("item handler", onItem)
+Archipelago:AddLocationHandler("location handler", onLocation)
+Archipelago:AddSetReplyHandler("notify handler", onNotify)
+Archipelago:AddRetrievedHandler("notify launch handler", onNotifyLaunch)

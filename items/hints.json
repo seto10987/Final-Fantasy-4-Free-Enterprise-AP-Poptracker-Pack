@@ -1,0 +1,2228 @@
+[
+    {
+        "name": "baron_town_exterior_grass_top",
+        "type": "toggle",
+        "codes": "baron_town_exterior_grass_top"
+    },
+    {
+        "name": "baron_town_exterior_grass_left",
+        "type": "toggle",
+        "codes": "baron_town_exterior_grass_left"
+    },
+    {
+        "name": "baron_town_exterior_grass_bottom",
+        "type": "toggle",
+        "codes": "baron_town_exterior_grass_bottom"
+    },
+    {
+        "name": "baron_town_exterior_pot_outside_rosas",
+        "type": "toggle",
+        "codes": "baron_town_exterior_pot_outside_rosas"
+    },
+    {
+        "name": "baron_town_exterior_pot_outside_inn",
+        "type": "toggle",
+        "codes": "baron_town_exterior_pot_outside_inn"
+    },
+    {
+        "name": "baron_town_exterior_water_top",
+        "type": "toggle",
+        "codes": "baron_town_exterior_water_top"
+    },
+    {
+        "name": "baron_town_exterior_water_bottom",
+        "type": "toggle",
+        "codes": "baron_town_exterior_water_bottom"
+    },
+    {
+        "name": "mist_village_exterior_north_grass",
+        "type": "toggle",
+        "codes": "mist_village_exterior_north_grass"
+    },
+    {
+        "name": "mist_village_exterior_south_grass_left",
+        "type": "toggle",
+        "codes": "mist_village_exterior_south_grass_left"
+    },
+    {
+        "name": "mist_village_exterior_south_grass_right",
+        "type": "toggle",
+        "codes": "mist_village_exterior_south_grass_right"
+    },
+    {
+        "name": "kaipo_exterior_pot",
+        "type": "toggle",
+        "codes": "kaipo_exterior_pot"
+    },
+    {
+        "name": "silvera_exterior_north_grass",
+        "type": "toggle",
+        "codes": "silvera_exterior_north_grass"
+    },
+    {
+        "name": "silvera_exterior_northeast_grass",
+        "type": "toggle",
+        "codes": "silvera_exterior_northeast_grass"
+    },
+    {
+        "name": "silvera_exterior_east_grass",
+        "type": "toggle",
+        "codes": "silvera_exterior_east_grass"
+    },
+    {
+        "name": "toroia_town_exterior_grass_top_right",
+        "type": "toggle",
+        "codes": "toroia_town_exterior_grass_top_right"
+    },
+    {
+        "name": "toroia_town_exterior_grass_left",
+        "type": "toggle",
+        "codes": "toroia_town_exterior_grass_left"
+    },
+    {
+        "name": "toroia_town_exterior_grass_bottom_left",
+        "type": "toggle",
+        "codes": "toroia_town_exterior_grass_bottom_left"
+    },
+    {
+        "name": "toroia_town_exterior_grass_bottom_right",
+        "type": "toggle",
+        "codes": "toroia_town_exterior_grass_bottom_right"
+    },
+    {
+        "name": "agart_exterior_grass",
+        "type": "toggle",
+        "codes": "agart_exterior_grass"
+    },
+    {
+        "name": "baron_town_inn_treasury_left",
+        "type": "toggle",
+        "codes": "baron_town_inn_treasury_left"
+    },
+    {
+        "name": "baron_town_inn_treasury_middle",
+        "type": "toggle",
+        "codes": "baron_town_inn_treasury_middle"
+    },
+    {
+        "name": "baron_town_inn_treasury_right",
+        "type": "toggle",
+        "codes": "baron_town_inn_treasury_right"
+    },
+    {
+        "name": "baron_town_inn_pot",
+        "type": "toggle",
+        "codes": "baron_town_inn_pot"
+    },
+    {
+        "name": "baron_town_weapon_armor_shop_weapon",
+        "type": "toggle",
+        "codes": "baron_town_weapon_armor_shop_weapon"
+    },
+    {
+        "name": "baron_town_weapon_armor_shop_armor",
+        "type": "toggle",
+        "codes": "baron_town_weapon_armor_shop_armor"
+    },
+    {
+        "name": "baron_town_rosas_house_pot",
+        "type": "toggle",
+        "codes": "baron_town_rosas_house_pot"
+    },
+    {
+        "name": "baron_town_rosas_house_shelf",
+        "type": "toggle",
+        "codes": "baron_town_rosas_house_shelf"
+    },
+    {
+        "name": "mist_village_rydias_house_crawlspace_top_left",
+        "type": "toggle",
+        "codes": "mist_village_rydias_house_crawlspace_top_left"
+    },
+    {
+        "name": "mist_village_rydias_house_crawlspace_top_right",
+        "type": "toggle",
+        "codes": "mist_village_rydias_house_crawlspace_top_right"
+    },
+    {
+        "name": "mist_village_rydias_house_crawlspace_bottom_right",
+        "type": "toggle",
+        "codes": "mist_village_rydias_house_crawlspace_bottom_right"
+    },
+    {
+        "name": "mist_village_rydias_house_tiara_room",
+        "type": "toggle",
+        "codes": "mist_village_rydias_house_tiara_room"
+    },
+    {
+        "name": "black_chocobo_forest_northeast_top",
+        "type": "toggle",
+        "codes": "black_chocobo_forest_northeast_top"
+    },
+    {
+        "name": "black_chocobo_forest_northeast_bottom",
+        "type": "toggle",
+        "codes": "black_chocobo_forest_northeast_bottom"
+    },
+    {
+        "name": "black_chocobo_forest_south_grass",
+        "type": "toggle",
+        "codes": "black_chocobo_forest_south_grass"
+    },
+    {
+        "name": "baron_castle_1f_left",
+        "type": "toggle",
+        "codes": "baron_castle_1f_left"
+    },
+    {
+        "name": "baron_castle_1f_middle",
+        "type": "toggle",
+        "codes": "baron_castle_1f_middle"
+    },
+    {
+        "name": "baron_castle_1f_right",
+        "type": "toggle",
+        "codes": "baron_castle_1f_right"
+    },
+    {
+        "name": "baron_castle_east_hall_treasury_top_left",
+        "type": "toggle",
+        "codes": "baron_castle_east_hall_treasury_top_left"
+    },
+    {
+        "name": "baron_castle_east_hall_treasury_top_middle",
+        "type": "toggle",
+        "codes": "baron_castle_east_hall_treasury_top_middle"
+    },
+    {
+        "name": "baron_castle_east_hall_treasury_top_right",
+        "type": "toggle",
+        "codes": "baron_castle_east_hall_treasury_top_right"
+    },
+    {
+        "name": "baron_castle_east_hall_treasury_bottom_left",
+        "type": "toggle",
+        "codes": "baron_castle_east_hall_treasury_bottom_left"
+    },
+    {
+        "name": "baron_castle_east_hall_treasury_bottom_middle",
+        "type": "toggle",
+        "codes": "baron_castle_east_hall_treasury_bottom_middle"
+    },
+    {
+        "name": "baron_castle_east_hall_treasury_bottom_right",
+        "type": "toggle",
+        "codes": "baron_castle_east_hall_treasury_bottom_right"
+    },
+    {
+        "name": "baron_castle_east_tower_1f_top",
+        "type": "toggle",
+        "codes": "baron_castle_east_tower_1f_top"
+    },
+    {
+        "name": "baron_castle_east_tower_1f_leftmost",
+        "type": "toggle",
+        "codes": "baron_castle_east_tower_1f_leftmost"
+    },
+    {
+        "name": "baron_castle_east_tower_1f_middle_left",
+        "type": "toggle",
+        "codes": "baron_castle_east_tower_1f_middle_left"
+    },
+    {
+        "name": "baron_castle_east_tower_1f_right",
+        "type": "toggle",
+        "codes": "baron_castle_east_tower_1f_right"
+    },
+    {
+        "name": "baron_castle_east_tower_2f_left_top",
+        "type": "toggle",
+        "codes": "baron_castle_east_tower_2f_left_top"
+    },
+    {
+        "name": "baron_castle_east_tower_2f_left_bottom",
+        "type": "toggle",
+        "codes": "baron_castle_east_tower_2f_left_bottom"
+    },
+    {
+        "name": "baron_castle_east_tower_3f_pot",
+        "type": "toggle",
+        "codes": "baron_castle_east_tower_3f_pot"
+    },
+    {
+        "name": "baron_castle_east_tower_3f_left_chest",
+        "type": "toggle",
+        "codes": "baron_castle_east_tower_3f_left_chest"
+    },
+    {
+        "name": "baron_castle_east_tower_3f_middle_chest",
+        "type": "toggle",
+        "codes": "baron_castle_east_tower_3f_middle_chest"
+    },
+    {
+        "name": "baron_castle_east_tower_3f_right_chest",
+        "type": "toggle",
+        "codes": "baron_castle_east_tower_3f_right_chest"
+    },
+    {
+        "name": "baron_castle_east_tower_b1_pot",
+        "type": "toggle",
+        "codes": "baron_castle_east_tower_b1_pot"
+    },
+    {
+        "name": "old_water_way_b1f_left",
+        "type": "toggle",
+        "codes": "old_water_way_b1f_left"
+    },
+    {
+        "name": "old_water_way_b1f_middle",
+        "type": "toggle",
+        "codes": "old_water_way_b1f_middle"
+    },
+    {
+        "name": "old_water_way_b1f_right",
+        "type": "toggle",
+        "codes": "old_water_way_b1f_right"
+    },
+    {
+        "name": "old_water_way_b3f_west",
+        "type": "toggle",
+        "codes": "old_water_way_b3f_west"
+    },
+    {
+        "name": "old_water_way_b3f_southwest",
+        "type": "toggle",
+        "codes": "old_water_way_b3f_southwest"
+    },
+    {
+        "name": "old_water_way_b3f_center",
+        "type": "toggle",
+        "codes": "old_water_way_b3f_center"
+    },
+    {
+        "name": "old_water_way_save_room_hidden_chest",
+        "type": "toggle",
+        "codes": "old_water_way_save_room_hidden_chest"
+    },
+    {
+        "name": "old_water_way_b2f_chest",
+        "type": "toggle",
+        "codes": "old_water_way_b2f_chest"
+    },
+    {
+        "name": "damcyan_2f_chest",
+        "type": "toggle",
+        "codes": "damcyan_2f_chest"
+    },
+    {
+        "name": "damcyan_treasury_entrance_west_cell",
+        "type": "toggle",
+        "codes": "damcyan_treasury_entrance_west_cell"
+    },
+    {
+        "name": "damcyan_treasury_entrance_middle_cell_left",
+        "type": "toggle",
+        "codes": "damcyan_treasury_entrance_middle_cell_left"
+    },
+    {
+        "name": "damcyan_treasury_entrance_middle_cell_right",
+        "type": "toggle",
+        "codes": "damcyan_treasury_entrance_middle_cell_right"
+    },
+    {
+        "name": "damcyan_treasury_top_left_chest",
+        "type": "toggle",
+        "codes": "damcyan_treasury_top_left_chest"
+    },
+    {
+        "name": "damcyan_treasury_top_middle_chest",
+        "type": "toggle",
+        "codes": "damcyan_treasury_top_middle_chest"
+    },
+    {
+        "name": "damcyan_treasury_top_right_chest",
+        "type": "toggle",
+        "codes": "damcyan_treasury_top_right_chest"
+    },
+    {
+        "name": "damcyan_treasury_top_right_pot",
+        "type": "toggle",
+        "codes": "damcyan_treasury_top_right_pot"
+    },
+    {
+        "name": "damcyan_treasury_bottom_left_pot",
+        "type": "toggle",
+        "codes": "damcyan_treasury_bottom_left_pot"
+    },
+    {
+        "name": "damcyan_treasury_bottom_left_chest",
+        "type": "toggle",
+        "codes": "damcyan_treasury_bottom_left_chest"
+    },
+    {
+        "name": "damcyan_treasury_bottom_middle_chest",
+        "type": "toggle",
+        "codes": "damcyan_treasury_bottom_middle_chest"
+    },
+    {
+        "name": "damcyan_treasury_bottom_right_chest",
+        "type": "toggle",
+        "codes": "damcyan_treasury_bottom_right_chest"
+    },
+    {
+        "name": "damcyan_treasury_bottom_right_pot",
+        "type": "toggle",
+        "codes": "damcyan_treasury_bottom_right_pot"
+    },
+    {
+        "name": "baron_town_access_to_old_water_way_hidden_chest",
+        "type": "toggle",
+        "codes": "baron_town_access_to_old_water_way_hidden_chest"
+    },
+    {
+        "name": "fabul_throne_room_west_pot",
+        "type": "toggle",
+        "codes": "fabul_throne_room_west_pot"
+    },
+    {
+        "name": "fabul_throne_room_top_chest",
+        "type": "toggle",
+        "codes": "fabul_throne_room_top_chest"
+    },
+    {
+        "name": "fabul_throne_room_middle_chest",
+        "type": "toggle",
+        "codes": "fabul_throne_room_middle_chest"
+    },
+    {
+        "name": "fabul_throne_room_bottom_chest",
+        "type": "toggle",
+        "codes": "fabul_throne_room_bottom_chest"
+    },
+    {
+        "name": "fabul_east_tower_2f_pot",
+        "type": "toggle",
+        "codes": "fabul_east_tower_2f_pot"
+    },
+    {
+        "name": "fabul_east_tower_3f_kings_bedroom_chest",
+        "type": "toggle",
+        "codes": "fabul_east_tower_3f_kings_bedroom_chest"
+    },
+    {
+        "name": "fabul_west_tower_1f_top_chest",
+        "type": "toggle",
+        "codes": "fabul_west_tower_1f_top_chest"
+    },
+    {
+        "name": "fabul_west_tower_1f_pot",
+        "type": "toggle",
+        "codes": "fabul_west_tower_1f_pot"
+    },
+    {
+        "name": "fabul_west_tower_1f_middle_chest",
+        "type": "toggle",
+        "codes": "fabul_west_tower_1f_middle_chest"
+    },
+    {
+        "name": "fabul_west_tower_1f_bottom_chest",
+        "type": "toggle",
+        "codes": "fabul_west_tower_1f_bottom_chest"
+    },
+    {
+        "name": "toroia_castle_east_wing_pot_room_pot",
+        "type": "toggle",
+        "codes": "toroia_castle_east_wing_pot_room_pot"
+    },
+    {
+        "name": "toroia_castle_east_wing_chest_room_left_cell_left",
+        "type": "toggle",
+        "codes": "toroia_castle_east_wing_chest_room_left_cell_left"
+    },
+    {
+        "name": "toroia_castle_east_wing_chest_room_left_cell_right",
+        "type": "toggle",
+        "codes": "toroia_castle_east_wing_chest_room_left_cell_right"
+    },
+    {
+        "name": "toroia_castle_east_wing_chest_room_middle_left_cell_left",
+        "type": "toggle",
+        "codes": "toroia_castle_east_wing_chest_room_middle_left_cell_left"
+    },
+    {
+        "name": "toroia_castle_east_wing_chest_room_middle_left_cell_right",
+        "type": "toggle",
+        "codes": "toroia_castle_east_wing_chest_room_middle_left_cell_right"
+    },
+    {
+        "name": "toroia_castle_east_wing_chest_room_middle_right_cell_left",
+        "type": "toggle",
+        "codes": "toroia_castle_east_wing_chest_room_middle_right_cell_left"
+    },
+    {
+        "name": "toroia_castle_east_wing_chest_room_middle_right_cell_right",
+        "type": "toggle",
+        "codes": "toroia_castle_east_wing_chest_room_middle_right_cell_right"
+    },
+    {
+        "name": "toroia_castle_east_wing_chest_room_right_cell_left",
+        "type": "toggle",
+        "codes": "toroia_castle_east_wing_chest_room_right_cell_left"
+    },
+    {
+        "name": "toroia_castle_east_wing_chest_room_right_cell_right",
+        "type": "toggle",
+        "codes": "toroia_castle_east_wing_chest_room_right_cell_right"
+    },
+    {
+        "name": "toroia_castle_east_wing_chest_room_chest",
+        "type": "toggle",
+        "codes": "toroia_castle_east_wing_chest_room_chest"
+    },
+    {
+        "name": "toroia_castle_west_wing_chest_room_pot",
+        "type": "toggle",
+        "codes": "toroia_castle_west_wing_chest_room_pot"
+    },
+    {
+        "name": "toroia_castle_west_wing_chest_room_chest",
+        "type": "toggle",
+        "codes": "toroia_castle_west_wing_chest_room_chest"
+    },
+    {
+        "name": "toroia_castle_west_wing_chest_room_chest_2",
+        "type": "toggle",
+        "codes": "toroia_castle_west_wing_chest_room_chest_2"
+    },
+    {
+        "name": "toroia_castle_west_wing_chest_room_chest_3",
+        "type": "toggle",
+        "codes": "toroia_castle_west_wing_chest_room_chest_3"
+    },
+    {
+        "name": "toroia_castle_treasury_top_row_6",
+        "type": "toggle",
+        "codes": "toroia_castle_treasury_top_row_6"
+    },
+    {
+        "name": "toroia_castle_treasury_top_row_7",
+        "type": "toggle",
+        "codes": "toroia_castle_treasury_top_row_7"
+    },
+    {
+        "name": "toroia_castle_treasury_top_row_8",
+        "type": "toggle",
+        "codes": "toroia_castle_treasury_top_row_8"
+    },
+    {
+        "name": "toroia_castle_treasury_top_row_9",
+        "type": "toggle",
+        "codes": "toroia_castle_treasury_top_row_9"
+    },
+    {
+        "name": "toroia_castle_treasury_bottom_row_1",
+        "type": "toggle",
+        "codes": "toroia_castle_treasury_bottom_row_1"
+    },
+    {
+        "name": "toroia_castle_treasury_bottom_row_2",
+        "type": "toggle",
+        "codes": "toroia_castle_treasury_bottom_row_2"
+    },
+    {
+        "name": "toroia_castle_treasury_bottom_row_3",
+        "type": "toggle",
+        "codes": "toroia_castle_treasury_bottom_row_3"
+    },
+    {
+        "name": "toroia_castle_treasury_bottom_row_4",
+        "type": "toggle",
+        "codes": "toroia_castle_treasury_bottom_row_4"
+    },
+    {
+        "name": "toroia_castle_treasury_bottom_row_5",
+        "type": "toggle",
+        "codes": "toroia_castle_treasury_bottom_row_5"
+    },
+    {
+        "name": "toroia_castle_treasury_bottom_row_6",
+        "type": "toggle",
+        "codes": "toroia_castle_treasury_bottom_row_6"
+    },
+    {
+        "name": "toroia_castle_treasury_bottom_row_7",
+        "type": "toggle",
+        "codes": "toroia_castle_treasury_bottom_row_7"
+    },
+    {
+        "name": "toroia_castle_treasury_bottom_row_8",
+        "type": "toggle",
+        "codes": "toroia_castle_treasury_bottom_row_8"
+    },
+    {
+        "name": "toroia_castle_treasury_bottom_row_9",
+        "type": "toggle",
+        "codes": "toroia_castle_treasury_bottom_row_9"
+    },
+    {
+        "name": "eblan_castle_1f_chest",
+        "type": "toggle",
+        "codes": "eblan_castle_1f_chest"
+    },
+    {
+        "name": "eblan_castle_2f_west_room_top",
+        "type": "toggle",
+        "codes": "eblan_castle_2f_west_room_top"
+    },
+    {
+        "name": "eblan_castle_2f_west_room_bottom",
+        "type": "toggle",
+        "codes": "eblan_castle_2f_west_room_bottom"
+    },
+    {
+        "name": "eblan_castle_2f_east_room_top",
+        "type": "toggle",
+        "codes": "eblan_castle_2f_east_room_top"
+    },
+    {
+        "name": "eblan_castle_2f_east_room_bottom_left",
+        "type": "toggle",
+        "codes": "eblan_castle_2f_east_room_bottom_left"
+    },
+    {
+        "name": "eblan_castle_2f_east_room_bottom_right",
+        "type": "toggle",
+        "codes": "eblan_castle_2f_east_room_bottom_right"
+    },
+    {
+        "name": "eblan_castle_west_tower_1f_left",
+        "type": "toggle",
+        "codes": "eblan_castle_west_tower_1f_left"
+    },
+    {
+        "name": "eblan_castle_west_tower_1f_right",
+        "type": "toggle",
+        "codes": "eblan_castle_west_tower_1f_right"
+    },
+    {
+        "name": "eblan_castle_west_tower_2f_top_left_pot",
+        "type": "toggle",
+        "codes": "eblan_castle_west_tower_2f_top_left_pot"
+    },
+    {
+        "name": "eblan_castle_west_tower_2f_bottom_right_pot",
+        "type": "toggle",
+        "codes": "eblan_castle_west_tower_2f_bottom_right_pot"
+    },
+    {
+        "name": "eblan_castle_west_tower_2f_left_chest",
+        "type": "toggle",
+        "codes": "eblan_castle_west_tower_2f_left_chest"
+    },
+    {
+        "name": "eblan_castle_west_tower_2f_right_chest",
+        "type": "toggle",
+        "codes": "eblan_castle_west_tower_2f_right_chest"
+    },
+    {
+        "name": "eblan_castle_east_tower_1f_left",
+        "type": "toggle",
+        "codes": "eblan_castle_east_tower_1f_left"
+    },
+    {
+        "name": "eblan_castle_east_tower_1f_right",
+        "type": "toggle",
+        "codes": "eblan_castle_east_tower_1f_right"
+    },
+    {
+        "name": "eblan_castle_east_tower_2f_left_side_top_chest",
+        "type": "toggle",
+        "codes": "eblan_castle_east_tower_2f_left_side_top_chest"
+    },
+    {
+        "name": "eblan_castle_east_tower_2f_left_side_bottom_chest",
+        "type": "toggle",
+        "codes": "eblan_castle_east_tower_2f_left_side_bottom_chest"
+    },
+    {
+        "name": "eblan_castle_east_tower_2f_pot",
+        "type": "toggle",
+        "codes": "eblan_castle_east_tower_2f_pot"
+    },
+    {
+        "name": "eblan_castle_east_tower_2f_right_side_top_chest",
+        "type": "toggle",
+        "codes": "eblan_castle_east_tower_2f_right_side_top_chest"
+    },
+    {
+        "name": "eblan_castle_east_tower_2f_right_side_bottom_chest",
+        "type": "toggle",
+        "codes": "eblan_castle_east_tower_2f_right_side_bottom_chest"
+    },
+    {
+        "name": "eblan_castle_basement_left",
+        "type": "toggle",
+        "codes": "eblan_castle_basement_left"
+    },
+    {
+        "name": "eblan_castle_basement_middle",
+        "type": "toggle",
+        "codes": "eblan_castle_basement_middle"
+    },
+    {
+        "name": "eblan_castle_basement_right",
+        "type": "toggle",
+        "codes": "eblan_castle_basement_right"
+    },
+    {
+        "name": "mist_cave_top_left",
+        "type": "toggle",
+        "codes": "mist_cave_top_left"
+    },
+    {
+        "name": "mist_cave_top_right",
+        "type": "toggle",
+        "codes": "mist_cave_top_right"
+    },
+    {
+        "name": "mist_cave_center",
+        "type": "toggle",
+        "codes": "mist_cave_center"
+    },
+    {
+        "name": "mist_cave_bottom_right",
+        "type": "toggle",
+        "codes": "mist_cave_bottom_right"
+    },
+    {
+        "name": "watery_pass_entrance_south_rightmost",
+        "type": "toggle",
+        "codes": "watery_pass_entrance_south_rightmost"
+    },
+    {
+        "name": "watery_pass_entrance_south_center_right",
+        "type": "toggle",
+        "codes": "watery_pass_entrance_south_center_right"
+    },
+    {
+        "name": "watery_pass_entrance_south_bottom_left",
+        "type": "toggle",
+        "codes": "watery_pass_entrance_south_bottom_left"
+    },
+    {
+        "name": "watery_pass_entrance_south_center",
+        "type": "toggle",
+        "codes": "watery_pass_entrance_south_center"
+    },
+    {
+        "name": "watery_pass_entrance_south_top_right",
+        "type": "toggle",
+        "codes": "watery_pass_entrance_south_top_right"
+    },
+    {
+        "name": "watery_pass_camp_level_b2f_top_right",
+        "type": "toggle",
+        "codes": "watery_pass_camp_level_b2f_top_right"
+    },
+    {
+        "name": "watery_pass_camp_level_b2f_bottom_left",
+        "type": "toggle",
+        "codes": "watery_pass_camp_level_b2f_bottom_left"
+    },
+    {
+        "name": "watery_pass_camp_level_b2f_top_left",
+        "type": "toggle",
+        "codes": "watery_pass_camp_level_b2f_top_left"
+    },
+    {
+        "name": "watery_pass_b3f_right",
+        "type": "toggle",
+        "codes": "watery_pass_b3f_right"
+    },
+    {
+        "name": "watery_pass_b3f_left",
+        "type": "toggle",
+        "codes": "watery_pass_b3f_left"
+    },
+    {
+        "name": "watery_pass_passage_to_exit_b2f_left",
+        "type": "toggle",
+        "codes": "watery_pass_passage_to_exit_b2f_left"
+    },
+    {
+        "name": "watery_pass_passage_to_exit_b2f_right",
+        "type": "toggle",
+        "codes": "watery_pass_passage_to_exit_b2f_right"
+    },
+    {
+        "name": "watery_pass_exit_north_leftmost",
+        "type": "toggle",
+        "codes": "watery_pass_exit_north_leftmost"
+    },
+    {
+        "name": "watery_pass_exit_north_top_left",
+        "type": "toggle",
+        "codes": "watery_pass_exit_north_top_left"
+    },
+    {
+        "name": "watery_pass_exit_north_bridge_chest",
+        "type": "toggle",
+        "codes": "watery_pass_exit_north_bridge_chest"
+    },
+    {
+        "name": "watery_pass_exit_north_bottom_right",
+        "type": "toggle",
+        "codes": "watery_pass_exit_north_bottom_right"
+    },
+    {
+        "name": "waterfall_b2f_left",
+        "type": "toggle",
+        "codes": "waterfall_b2f_left"
+    },
+    {
+        "name": "waterfall_b2f_right",
+        "type": "toggle",
+        "codes": "waterfall_b2f_right"
+    },
+    {
+        "name": "waterfall_lake_right",
+        "type": "toggle",
+        "codes": "waterfall_lake_right"
+    },
+    {
+        "name": "waterfall_lake_bottom",
+        "type": "toggle",
+        "codes": "waterfall_lake_bottom"
+    },
+    {
+        "name": "antlion_cave_b1f_top_left",
+        "type": "toggle",
+        "codes": "antlion_cave_b1f_top_left"
+    },
+    {
+        "name": "antlion_cave_b1f_top_center_left",
+        "type": "toggle",
+        "codes": "antlion_cave_b1f_top_center_left"
+    },
+    {
+        "name": "antlion_cave_b1f_bottom_left",
+        "type": "toggle",
+        "codes": "antlion_cave_b1f_bottom_left"
+    },
+    {
+        "name": "antlion_cave_b1f_middle_left",
+        "type": "toggle",
+        "codes": "antlion_cave_b1f_middle_left"
+    },
+    {
+        "name": "antlion_cave_b1f_top_right",
+        "type": "toggle",
+        "codes": "antlion_cave_b1f_top_right"
+    },
+    {
+        "name": "antlion_cave_b1f_middle_right",
+        "type": "toggle",
+        "codes": "antlion_cave_b1f_middle_right"
+    },
+    {
+        "name": "antlion_cave_b2f_top_right",
+        "type": "toggle",
+        "codes": "antlion_cave_b2f_top_right"
+    },
+    {
+        "name": "antlion_cave_b2f_bottom_right",
+        "type": "toggle",
+        "codes": "antlion_cave_b2f_bottom_right"
+    },
+    {
+        "name": "antlion_cave_b2f_top_left",
+        "type": "toggle",
+        "codes": "antlion_cave_b2f_top_left"
+    },
+    {
+        "name": "antlion_cave_save_room_right",
+        "type": "toggle",
+        "codes": "antlion_cave_save_room_right"
+    },
+    {
+        "name": "antlion_cave_save_room_top",
+        "type": "toggle",
+        "codes": "antlion_cave_save_room_top"
+    },
+    {
+        "name": "antlion_cave_save_room_left",
+        "type": "toggle",
+        "codes": "antlion_cave_save_room_left"
+    },
+    {
+        "name": "antlion_cave_treasure_room_chest",
+        "type": "toggle",
+        "codes": "antlion_cave_treasure_room_chest"
+    },
+    {
+        "name": "mt_hobs_summit_chest",
+        "type": "toggle",
+        "codes": "mt_hobs_summit_chest"
+    },
+    {
+        "name": "mt_hobs_save_area_leftmost",
+        "type": "toggle",
+        "codes": "mt_hobs_save_area_leftmost"
+    },
+    {
+        "name": "mt_hobs_save_area_center_left",
+        "type": "toggle",
+        "codes": "mt_hobs_save_area_center_left"
+    },
+    {
+        "name": "mt_hobs_save_area_center_right",
+        "type": "toggle",
+        "codes": "mt_hobs_save_area_center_right"
+    },
+    {
+        "name": "mt_hobs_save_area_rightmost",
+        "type": "toggle",
+        "codes": "mt_hobs_save_area_rightmost"
+    },
+    {
+        "name": "watery_pass_behind_waterfall_left",
+        "type": "toggle",
+        "codes": "watery_pass_behind_waterfall_left"
+    },
+    {
+        "name": "watery_pass_behind_waterfall_middle",
+        "type": "toggle",
+        "codes": "watery_pass_behind_waterfall_middle"
+    },
+    {
+        "name": "watery_pass_behind_waterfall_right",
+        "type": "toggle",
+        "codes": "watery_pass_behind_waterfall_right"
+    },
+    {
+        "name": "mt_ordeals_1f_bottom",
+        "type": "toggle",
+        "codes": "mt_ordeals_1f_bottom"
+    },
+    {
+        "name": "mt_ordeals_1f_top",
+        "type": "toggle",
+        "codes": "mt_ordeals_1f_top"
+    },
+    {
+        "name": "mt_ordeals_3f_7th_station_left",
+        "type": "toggle",
+        "codes": "mt_ordeals_3f_7th_station_left"
+    },
+    {
+        "name": "mt_ordeals_3f_7th_station_center",
+        "type": "toggle",
+        "codes": "mt_ordeals_3f_7th_station_center"
+    },
+    {
+        "name": "cave_magnes_b1f_top_right",
+        "type": "toggle",
+        "codes": "cave_magnes_b1f_top_right"
+    },
+    {
+        "name": "cave_magnes_b1f_bottom_left",
+        "type": "toggle",
+        "codes": "cave_magnes_b1f_bottom_left"
+    },
+    {
+        "name": "cave_magnes_b2f_chest",
+        "type": "toggle",
+        "codes": "cave_magnes_b2f_chest"
+    },
+    {
+        "name": "cave_magnes_pit_room_left",
+        "type": "toggle",
+        "codes": "cave_magnes_pit_room_left"
+    },
+    {
+        "name": "cave_magnes_pit_room_right",
+        "type": "toggle",
+        "codes": "cave_magnes_pit_room_right"
+    },
+    {
+        "name": "cave_magnes_torch_room_left",
+        "type": "toggle",
+        "codes": "cave_magnes_torch_room_left"
+    },
+    {
+        "name": "cave_magnes_torch_room_center",
+        "type": "toggle",
+        "codes": "cave_magnes_torch_room_center"
+    },
+    {
+        "name": "cave_magnes_torch_room_right",
+        "type": "toggle",
+        "codes": "cave_magnes_torch_room_right"
+    },
+    {
+        "name": "cave_magnes_b3f_to_b4f_passage_chest",
+        "type": "toggle",
+        "codes": "cave_magnes_b3f_to_b4f_passage_chest"
+    },
+    {
+        "name": "cave_magnes_b4f_chest_left_of_crystal_room_entrance",
+        "type": "toggle",
+        "codes": "cave_magnes_b4f_chest_left_of_crystal_room_entrance"
+    },
+    {
+        "name": "tower_of_zot_1f_chest",
+        "type": "toggle",
+        "codes": "tower_of_zot_1f_chest"
+    },
+    {
+        "name": "tower_of_zot_2f_chest",
+        "type": "toggle",
+        "codes": "tower_of_zot_2f_chest"
+    },
+    {
+        "name": "tower_of_zot_5f_through_4f_center_left_door_top",
+        "type": "toggle",
+        "codes": "tower_of_zot_5f_through_4f_center_left_door_top"
+    },
+    {
+        "name": "tower_of_zot_5f_through_4f_center_door_chest",
+        "type": "toggle",
+        "codes": "tower_of_zot_5f_through_4f_center_door_chest"
+    },
+    {
+        "name": "tower_of_zot_5f_through_4f_center_left_door_bottom",
+        "type": "toggle",
+        "codes": "tower_of_zot_5f_through_4f_center_left_door_bottom"
+    },
+    {
+        "name": "tower_of_zot_5f_through_4f_center_right_door_chest",
+        "type": "toggle",
+        "codes": "tower_of_zot_5f_through_4f_center_right_door_chest"
+    },
+    {
+        "name": "tower_of_bab_il_upper_1f_top",
+        "type": "toggle",
+        "codes": "tower_of_bab_il_upper_1f_top"
+    },
+    {
+        "name": "tower_of_bab_il_upper_1f_right",
+        "type": "toggle",
+        "codes": "tower_of_bab_il_upper_1f_right"
+    },
+    {
+        "name": "tower_of_bab_il_upper_b2f_chest_long_bridge",
+        "type": "toggle",
+        "codes": "tower_of_bab_il_upper_b2f_chest_long_bridge"
+    },
+    {
+        "name": "tower_of_bab_il_upper_b3f_chest_ring_bridge",
+        "type": "toggle",
+        "codes": "tower_of_bab_il_upper_b3f_chest_ring_bridge"
+    },
+    {
+        "name": "tower_of_bab_il_upper_b4f_chest_u_bridge",
+        "type": "toggle",
+        "codes": "tower_of_bab_il_upper_b4f_chest_u_bridge"
+    },
+    {
+        "name": "tower_of_bab_il_upper_b5f_chest_left_of_crystal_room_entrance",
+        "type": "toggle",
+        "codes": "tower_of_bab_il_upper_b5f_chest_left_of_crystal_room_entrance"
+    },
+    {
+        "name": "giant_of_bab_il_chest_top_left",
+        "type": "toggle",
+        "codes": "giant_of_bab_il_chest_top_left"
+    },
+    {
+        "name": "giant_of_bab_il_chest_bottom_left",
+        "type": "toggle",
+        "codes": "giant_of_bab_il_chest_bottom_left"
+    },
+    {
+        "name": "giant_of_bab_il_chest_middle",
+        "type": "toggle",
+        "codes": "giant_of_bab_il_chest_middle"
+    },
+    {
+        "name": "giant_of_bab_il_chest_top_right",
+        "type": "toggle",
+        "codes": "giant_of_bab_il_chest_top_right"
+    },
+    {
+        "name": "giant_of_bab_il_chest_bottom_right",
+        "type": "toggle",
+        "codes": "giant_of_bab_il_chest_bottom_right"
+    },
+    {
+        "name": "giant_of_bab_il_stomach_center",
+        "type": "toggle",
+        "codes": "giant_of_bab_il_stomach_center"
+    },
+    {
+        "name": "giant_of_bab_il_stomach_top_right",
+        "type": "toggle",
+        "codes": "giant_of_bab_il_stomach_top_right"
+    },
+    {
+        "name": "giant_of_bab_il_passage_chest",
+        "type": "toggle",
+        "codes": "giant_of_bab_il_passage_chest"
+    },
+    {
+        "name": "cave_eblana_b1f_top_middle",
+        "type": "toggle",
+        "codes": "cave_eblana_b1f_top_middle"
+    },
+    {
+        "name": "cave_eblana_b1f_top_right",
+        "type": "toggle",
+        "codes": "cave_eblana_b1f_top_right"
+    },
+    {
+        "name": "cave_eblana_b1f_bottom_right",
+        "type": "toggle",
+        "codes": "cave_eblana_b1f_bottom_right"
+    },
+    {
+        "name": "cave_eblana_pass_to_bab_il_west_half_southwest_entrance",
+        "type": "toggle",
+        "codes": "cave_eblana_pass_to_bab_il_west_half_southwest_entrance"
+    },
+    {
+        "name": "cave_eblana_pass_to_bab_il_west_half_northwest_exit",
+        "type": "toggle",
+        "codes": "cave_eblana_pass_to_bab_il_west_half_northwest_exit"
+    },
+    {
+        "name": "cave_eblana_pass_to_bab_il_east_half_north_entrance_left",
+        "type": "toggle",
+        "codes": "cave_eblana_pass_to_bab_il_east_half_north_entrance_left"
+    },
+    {
+        "name": "cave_eblana_pass_to_bab_il_east_half_north_entrance_right_top",
+        "type": "toggle",
+        "codes": "cave_eblana_pass_to_bab_il_east_half_north_entrance_right_top"
+    },
+    {
+        "name": "cave_eblana_pass_to_bab_il_east_half_north_entrance_right_bottom",
+        "type": "toggle",
+        "codes": "cave_eblana_pass_to_bab_il_east_half_north_entrance_right_bottom"
+    },
+    {
+        "name": "cave_eblana_pass_to_bab_il_east_half_north_entrance_secret_path_top",
+        "type": "toggle",
+        "codes": "cave_eblana_pass_to_bab_il_east_half_north_entrance_secret_path_top"
+    },
+    {
+        "name": "cave_eblana_pass_to_bab_il_east_half_north_entrance_secret_path_bottom",
+        "type": "toggle",
+        "codes": "cave_eblana_pass_to_bab_il_east_half_north_entrance_secret_path_bottom"
+    },
+    {
+        "name": "cave_eblana_pass_to_bab_il_west_half_bottom_through_secret_path",
+        "type": "toggle",
+        "codes": "cave_eblana_pass_to_bab_il_west_half_bottom_through_secret_path"
+    },
+    {
+        "name": "cave_eblana_pass_to_bab_il_east_half_bottom",
+        "type": "toggle",
+        "codes": "cave_eblana_pass_to_bab_il_east_half_bottom"
+    },
+    {
+        "name": "cave_eblana_pass_to_bab_il_east_half_southeast_corner_left",
+        "type": "toggle",
+        "codes": "cave_eblana_pass_to_bab_il_east_half_southeast_corner_left"
+    },
+    {
+        "name": "cave_eblana_pass_to_bab_il_east_half_southeast_corner_middle",
+        "type": "toggle",
+        "codes": "cave_eblana_pass_to_bab_il_east_half_southeast_corner_middle"
+    },
+    {
+        "name": "cave_eblana_pass_to_bab_il_east_half_southeast_corner_right",
+        "type": "toggle",
+        "codes": "cave_eblana_pass_to_bab_il_east_half_southeast_corner_right"
+    },
+    {
+        "name": "cave_eblana_pass_to_bab_il_north_connection_top_right",
+        "type": "toggle",
+        "codes": "cave_eblana_pass_to_bab_il_north_connection_top_right"
+    },
+    {
+        "name": "cave_eblana_exit_top_left_through_secret_path",
+        "type": "toggle",
+        "codes": "cave_eblana_exit_top_left_through_secret_path"
+    },
+    {
+        "name": "cave_eblana_exit_middle_left",
+        "type": "toggle",
+        "codes": "cave_eblana_exit_middle_left"
+    },
+    {
+        "name": "cave_eblana_exit_bottom_left",
+        "type": "toggle",
+        "codes": "cave_eblana_exit_bottom_left"
+    },
+    {
+        "name": "cave_eblana_save_room_hidden_chest",
+        "type": "toggle",
+        "codes": "cave_eblana_save_room_hidden_chest"
+    },
+    {
+        "name": "cave_eblana_hospital_left_pot",
+        "type": "toggle",
+        "codes": "cave_eblana_hospital_left_pot"
+    },
+    {
+        "name": "cave_eblana_hospital_right_pot",
+        "type": "toggle",
+        "codes": "cave_eblana_hospital_right_pot"
+    },
+    {
+        "name": "fabul_chocobo_forest_grass",
+        "type": "toggle",
+        "codes": "fabul_chocobo_forest_grass"
+    },
+    {
+        "name": "mt_ordeals_chocobo_forest_grass",
+        "type": "toggle",
+        "codes": "mt_ordeals_chocobo_forest_grass"
+    },
+    {
+        "name": "baron_chocobo_forest_grass",
+        "type": "toggle",
+        "codes": "baron_chocobo_forest_grass"
+    },
+    {
+        "name": "toroia_south_chocobo_forest_grass",
+        "type": "toggle",
+        "codes": "toroia_south_chocobo_forest_grass"
+    },
+    {
+        "name": "island_chocobo_forest_grass",
+        "type": "toggle",
+        "codes": "island_chocobo_forest_grass"
+    },
+    {
+        "name": "kokkol_house_1f_top_pot",
+        "type": "toggle",
+        "codes": "kokkol_house_1f_top_pot"
+    },
+    {
+        "name": "kokkol_house_1f_left_pot",
+        "type": "toggle",
+        "codes": "kokkol_house_1f_left_pot"
+    },
+    {
+        "name": "kokkol_house_1f_hidden_chest",
+        "type": "toggle",
+        "codes": "kokkol_house_1f_hidden_chest"
+    },
+    {
+        "name": "kokkol_house_2f_shelf",
+        "type": "toggle",
+        "codes": "kokkol_house_2f_shelf"
+    },
+    {
+        "name": "tomra_treasury_leftmost_chest",
+        "type": "toggle",
+        "codes": "tomra_treasury_leftmost_chest"
+    },
+    {
+        "name": "tomra_treasury_left_pot",
+        "type": "toggle",
+        "codes": "tomra_treasury_left_pot"
+    },
+    {
+        "name": "tomra_treasury_bottom_left_chest",
+        "type": "toggle",
+        "codes": "tomra_treasury_bottom_left_chest"
+    },
+    {
+        "name": "tomra_treasury_right_pot",
+        "type": "toggle",
+        "codes": "tomra_treasury_right_pot"
+    },
+    {
+        "name": "tomra_treasury_right_top_chest",
+        "type": "toggle",
+        "codes": "tomra_treasury_right_top_chest"
+    },
+    {
+        "name": "tomra_treasury_right_bottom_chest",
+        "type": "toggle",
+        "codes": "tomra_treasury_right_bottom_chest"
+    },
+    {
+        "name": "dwarf_castle_b1f_fat_chocobo_left_pot",
+        "type": "toggle",
+        "codes": "dwarf_castle_b1f_fat_chocobo_left_pot"
+    },
+    {
+        "name": "dwarf_castle_b1f_fat_chocobo_top_pot",
+        "type": "toggle",
+        "codes": "dwarf_castle_b1f_fat_chocobo_top_pot"
+    },
+    {
+        "name": "dwarf_castle_b1f_fat_chocobo_right_pot",
+        "type": "toggle",
+        "codes": "dwarf_castle_b1f_fat_chocobo_right_pot"
+    },
+    {
+        "name": "dwarf_castle_b2f_tunnel_left_chest",
+        "type": "toggle",
+        "codes": "dwarf_castle_b2f_tunnel_left_chest"
+    },
+    {
+        "name": "dwarf_castle_b2f_tunnel_middle_chest",
+        "type": "toggle",
+        "codes": "dwarf_castle_b2f_tunnel_middle_chest"
+    },
+    {
+        "name": "dwarf_castle_b2f_tunnel_right_chest",
+        "type": "toggle",
+        "codes": "dwarf_castle_b2f_tunnel_right_chest"
+    },
+    {
+        "name": "dwarf_castle_east_tower_1f_chest",
+        "type": "toggle",
+        "codes": "dwarf_castle_east_tower_1f_chest"
+    },
+    {
+        "name": "dwarf_castle_inn_pot",
+        "type": "toggle",
+        "codes": "dwarf_castle_inn_pot"
+    },
+    {
+        "name": "tower_of_bab_il_lower_2f_east_room_chest",
+        "type": "toggle",
+        "codes": "tower_of_bab_il_lower_2f_east_room_chest"
+    },
+    {
+        "name": "tower_of_bab_il_lower_2f_south_room_chest",
+        "type": "toggle",
+        "codes": "tower_of_bab_il_lower_2f_south_room_chest"
+    },
+    {
+        "name": "tower_of_bab_il_lower_4f_east_left_room_chest",
+        "type": "toggle",
+        "codes": "tower_of_bab_il_lower_4f_east_left_room_chest"
+    },
+    {
+        "name": "tower_of_bab_il_lower_4f_northeast_room_chest",
+        "type": "toggle",
+        "codes": "tower_of_bab_il_lower_4f_northeast_room_chest"
+    },
+    {
+        "name": "dwarf_castle_east_tower_3f_top",
+        "type": "toggle",
+        "codes": "dwarf_castle_east_tower_3f_top"
+    },
+    {
+        "name": "dwarf_castle_east_tower_3f_left",
+        "type": "toggle",
+        "codes": "dwarf_castle_east_tower_3f_left"
+    },
+    {
+        "name": "dwarf_castle_east_tower_3f_right",
+        "type": "toggle",
+        "codes": "dwarf_castle_east_tower_3f_right"
+    },
+    {
+        "name": "dwarf_castle_east_tower_3f_bottom",
+        "type": "toggle",
+        "codes": "dwarf_castle_east_tower_3f_bottom"
+    },
+    {
+        "name": "dwarf_castle_west_tower_3f_top",
+        "type": "toggle",
+        "codes": "dwarf_castle_west_tower_3f_top"
+    },
+    {
+        "name": "dwarf_castle_west_tower_3f_left",
+        "type": "toggle",
+        "codes": "dwarf_castle_west_tower_3f_left"
+    },
+    {
+        "name": "dwarf_castle_west_tower_3f_right",
+        "type": "toggle",
+        "codes": "dwarf_castle_west_tower_3f_right"
+    },
+    {
+        "name": "dwarf_castle_west_tower_3f_bottom",
+        "type": "toggle",
+        "codes": "dwarf_castle_west_tower_3f_bottom"
+    },
+    {
+        "name": "dwarf_castle_west_tower_2f_pot",
+        "type": "toggle",
+        "codes": "dwarf_castle_west_tower_2f_pot"
+    },
+    {
+        "name": "dwarf_castle_east_tower_2f_pot",
+        "type": "toggle",
+        "codes": "dwarf_castle_east_tower_2f_pot"
+    },
+    {
+        "name": "tower_of_bab_il_upper_trapdoor_landing_chest",
+        "type": "toggle",
+        "codes": "tower_of_bab_il_upper_trapdoor_landing_chest"
+    },
+    {
+        "name": "tower_of_bab_il_upper_falcon_level_chest",
+        "type": "toggle",
+        "codes": "tower_of_bab_il_upper_falcon_level_chest"
+    },
+    {
+        "name": "tower_of_bab_il_lower_1f_left_top",
+        "type": "toggle",
+        "codes": "tower_of_bab_il_lower_1f_left_top"
+    },
+    {
+        "name": "tower_of_bab_il_lower_1f_left_bottom",
+        "type": "toggle",
+        "codes": "tower_of_bab_il_lower_1f_left_bottom"
+    },
+    {
+        "name": "tower_of_bab_il_lower_1f_right",
+        "type": "toggle",
+        "codes": "tower_of_bab_il_lower_1f_right"
+    },
+    {
+        "name": "tower_of_bab_il_lower_2f_chest",
+        "type": "toggle",
+        "codes": "tower_of_bab_il_lower_2f_chest"
+    },
+    {
+        "name": "tower_of_bab_il_lower_3f_top_left",
+        "type": "toggle",
+        "codes": "tower_of_bab_il_lower_3f_top_left"
+    },
+    {
+        "name": "tower_of_bab_il_lower_3f_right",
+        "type": "toggle",
+        "codes": "tower_of_bab_il_lower_3f_right"
+    },
+    {
+        "name": "tower_of_bab_il_lower_3f_bottom",
+        "type": "toggle",
+        "codes": "tower_of_bab_il_lower_3f_bottom"
+    },
+    {
+        "name": "tower_of_bab_il_lower_4f_through_3f_southeast_door_left",
+        "type": "toggle",
+        "codes": "tower_of_bab_il_lower_4f_through_3f_southeast_door_left"
+    },
+    {
+        "name": "tower_of_bab_il_lower_4f_through_3f_southeast_door_right",
+        "type": "toggle",
+        "codes": "tower_of_bab_il_lower_4f_through_3f_southeast_door_right"
+    },
+    {
+        "name": "tower_of_bab_il_lower_5f_left",
+        "type": "toggle",
+        "codes": "tower_of_bab_il_lower_5f_left"
+    },
+    {
+        "name": "tower_of_bab_il_lower_5f_right",
+        "type": "toggle",
+        "codes": "tower_of_bab_il_lower_5f_right"
+    },
+    {
+        "name": "tower_of_bab_il_lower_7f_chest",
+        "type": "toggle",
+        "codes": "tower_of_bab_il_lower_7f_chest"
+    },
+    {
+        "name": "land_of_monsters_b1f_top_left_through_secret_path",
+        "type": "toggle",
+        "codes": "land_of_monsters_b1f_top_left_through_secret_path"
+    },
+    {
+        "name": "land_of_monsters_b1f_top_right",
+        "type": "toggle",
+        "codes": "land_of_monsters_b1f_top_right"
+    },
+    {
+        "name": "land_of_monsters_b1f_bottom_right",
+        "type": "toggle",
+        "codes": "land_of_monsters_b1f_bottom_right"
+    },
+    {
+        "name": "land_of_monsters_b2f_top_left",
+        "type": "toggle",
+        "codes": "land_of_monsters_b2f_top_left"
+    },
+    {
+        "name": "land_of_monsters_b2f_bottom_right",
+        "type": "toggle",
+        "codes": "land_of_monsters_b2f_bottom_right"
+    },
+    {
+        "name": "land_of_monsters_b3f_top",
+        "type": "toggle",
+        "codes": "land_of_monsters_b3f_top"
+    },
+    {
+        "name": "land_of_monsters_b3f_southwest_room_through_secret_path_left",
+        "type": "toggle",
+        "codes": "land_of_monsters_b3f_southwest_room_through_secret_path_left"
+    },
+    {
+        "name": "land_of_monsters_b3f_southwest_room_through_secret_path_middle",
+        "type": "toggle",
+        "codes": "land_of_monsters_b3f_southwest_room_through_secret_path_middle"
+    },
+    {
+        "name": "land_of_monsters_b3f_southwest_room_through_secret_path_right",
+        "type": "toggle",
+        "codes": "land_of_monsters_b3f_southwest_room_through_secret_path_right"
+    },
+    {
+        "name": "land_of_monsters_b3f_bottom_middle",
+        "type": "toggle",
+        "codes": "land_of_monsters_b3f_bottom_middle"
+    },
+    {
+        "name": "land_of_monsters_b3f_bottom_right",
+        "type": "toggle",
+        "codes": "land_of_monsters_b3f_bottom_right"
+    },
+    {
+        "name": "town_of_monsters_b4f_first_area_top_left",
+        "type": "toggle",
+        "codes": "town_of_monsters_b4f_first_area_top_left"
+    },
+    {
+        "name": "town_of_monsters_b4f_first_area_middle_left",
+        "type": "toggle",
+        "codes": "town_of_monsters_b4f_first_area_middle_left"
+    },
+    {
+        "name": "town_of_monsters_b4f_first_area_rat_tail",
+        "type": "toggle",
+        "codes": "town_of_monsters_b4f_first_area_rat_tail"
+    },
+    {
+        "name": "town_of_monsters_b4f_first_area_right",
+        "type": "toggle",
+        "codes": "town_of_monsters_b4f_first_area_right"
+    },
+    {
+        "name": "town_of_monsters_b4f_first_area_bottom",
+        "type": "toggle",
+        "codes": "town_of_monsters_b4f_first_area_bottom"
+    },
+    {
+        "name": "town_of_monsters_treasure_platform_top_left",
+        "type": "toggle",
+        "codes": "town_of_monsters_treasure_platform_top_left"
+    },
+    {
+        "name": "town_of_monsters_treasure_platform_top_right",
+        "type": "toggle",
+        "codes": "town_of_monsters_treasure_platform_top_right"
+    },
+    {
+        "name": "town_of_monsters_treasure_platform_bottom_left",
+        "type": "toggle",
+        "codes": "town_of_monsters_treasure_platform_bottom_left"
+    },
+    {
+        "name": "town_of_monsters_treasure_platform_bottom_right",
+        "type": "toggle",
+        "codes": "town_of_monsters_treasure_platform_bottom_right"
+    },
+    {
+        "name": "town_of_monsters_save_room_left",
+        "type": "toggle",
+        "codes": "town_of_monsters_save_room_left"
+    },
+    {
+        "name": "town_of_monsters_save_room_right",
+        "type": "toggle",
+        "codes": "town_of_monsters_save_room_right"
+    },
+    {
+        "name": "sylvan_cave_b1f_northwest_area_top_row_left",
+        "type": "toggle",
+        "codes": "sylvan_cave_b1f_northwest_area_top_row_left"
+    },
+    {
+        "name": "sylvan_cave_b1f_northwest_area_top_row_middle",
+        "type": "toggle",
+        "codes": "sylvan_cave_b1f_northwest_area_top_row_middle"
+    },
+    {
+        "name": "sylvan_cave_b1f_northwest_area_top_row_right",
+        "type": "toggle",
+        "codes": "sylvan_cave_b1f_northwest_area_top_row_right"
+    },
+    {
+        "name": "sylvan_cave_b1f_northwest_area_right_side_top",
+        "type": "toggle",
+        "codes": "sylvan_cave_b1f_northwest_area_right_side_top"
+    },
+    {
+        "name": "sylvan_cave_b1f_northwest_area_right_side_bottom",
+        "type": "toggle",
+        "codes": "sylvan_cave_b1f_northwest_area_right_side_bottom"
+    },
+    {
+        "name": "sylvan_cave_b1f_save_area_west_end_left",
+        "type": "toggle",
+        "codes": "sylvan_cave_b1f_save_area_west_end_left"
+    },
+    {
+        "name": "sylvan_cave_b1f_save_area_west_end_right",
+        "type": "toggle",
+        "codes": "sylvan_cave_b1f_save_area_west_end_right"
+    },
+    {
+        "name": "sylvan_cave_b1f_entry_area_east_side_top",
+        "type": "toggle",
+        "codes": "sylvan_cave_b1f_entry_area_east_side_top"
+    },
+    {
+        "name": "sylvan_cave_b1f_entry_area_east_side_bottom",
+        "type": "toggle",
+        "codes": "sylvan_cave_b1f_entry_area_east_side_bottom"
+    },
+    {
+        "name": "sylvan_cave_b1f_save_area_through_northeast_secret_path",
+        "type": "toggle",
+        "codes": "sylvan_cave_b1f_save_area_through_northeast_secret_path"
+    },
+    {
+        "name": "sylvan_cave_b2f_east_half_pit_chamber_bottom_right",
+        "type": "toggle",
+        "codes": "sylvan_cave_b2f_east_half_pit_chamber_bottom_right"
+    },
+    {
+        "name": "sylvan_cave_b2f_east_half_pit_chamber_bottom_left",
+        "type": "toggle",
+        "codes": "sylvan_cave_b2f_east_half_pit_chamber_bottom_left"
+    },
+    {
+        "name": "sylvan_cave_b2f_east_half_pit_chamber_right",
+        "type": "toggle",
+        "codes": "sylvan_cave_b2f_east_half_pit_chamber_right"
+    },
+    {
+        "name": "sylvan_cave_b2f_east_half_pit_chamber_middle",
+        "type": "toggle",
+        "codes": "sylvan_cave_b2f_east_half_pit_chamber_middle"
+    },
+    {
+        "name": "sylvan_cave_b2f_east_half_pit_chamber_top_left",
+        "type": "toggle",
+        "codes": "sylvan_cave_b2f_east_half_pit_chamber_top_left"
+    },
+    {
+        "name": "sylvan_cave_b2f_east_half_square_chamber_top_left",
+        "type": "toggle",
+        "codes": "sylvan_cave_b2f_east_half_square_chamber_top_left"
+    },
+    {
+        "name": "sylvan_cave_b2f_east_half_square_chamber_top_right",
+        "type": "toggle",
+        "codes": "sylvan_cave_b2f_east_half_square_chamber_top_right"
+    },
+    {
+        "name": "sylvan_cave_b2f_east_half_square_chamber_bottom_left",
+        "type": "toggle",
+        "codes": "sylvan_cave_b2f_east_half_square_chamber_bottom_left"
+    },
+    {
+        "name": "sylvan_cave_b2f_east_half_square_chamber_bottom_right",
+        "type": "toggle",
+        "codes": "sylvan_cave_b2f_east_half_square_chamber_bottom_right"
+    },
+    {
+        "name": "sylvan_cave_b2f_west_half_north_room_through_secret_path",
+        "type": "toggle",
+        "codes": "sylvan_cave_b2f_west_half_north_room_through_secret_path"
+    },
+    {
+        "name": "sylvan_cave_b3f_northeast_area_top_left",
+        "type": "toggle",
+        "codes": "sylvan_cave_b3f_northeast_area_top_left"
+    },
+    {
+        "name": "sylvan_cave_b3f_northeast_area_top_right",
+        "type": "toggle",
+        "codes": "sylvan_cave_b3f_northeast_area_top_right"
+    },
+    {
+        "name": "sylvan_cave_b3f_northeast_area_bottom_right",
+        "type": "toggle",
+        "codes": "sylvan_cave_b3f_northeast_area_bottom_right"
+    },
+    {
+        "name": "sylvan_cave_b3f_path_to_house_left_of_entrance",
+        "type": "toggle",
+        "codes": "sylvan_cave_b3f_path_to_house_left_of_entrance"
+    },
+    {
+        "name": "sylvan_cave_poison_treasury_top_left",
+        "type": "toggle",
+        "codes": "sylvan_cave_poison_treasury_top_left"
+    },
+    {
+        "name": "sylvan_cave_poison_treasury_top_middle",
+        "type": "toggle",
+        "codes": "sylvan_cave_poison_treasury_top_middle"
+    },
+    {
+        "name": "sylvan_cave_poison_treasury_top_right",
+        "type": "toggle",
+        "codes": "sylvan_cave_poison_treasury_top_right"
+    },
+    {
+        "name": "sylvan_cave_poison_treasury_bottom_left",
+        "type": "toggle",
+        "codes": "sylvan_cave_poison_treasury_bottom_left"
+    },
+    {
+        "name": "sylvan_cave_poison_treasury_bottom_middle",
+        "type": "toggle",
+        "codes": "sylvan_cave_poison_treasury_bottom_middle"
+    },
+    {
+        "name": "sylvan_cave_poison_treasury_bottom_right",
+        "type": "toggle",
+        "codes": "sylvan_cave_poison_treasury_bottom_right"
+    },
+    {
+        "name": "sylvan_cave_house_top",
+        "type": "toggle",
+        "codes": "sylvan_cave_house_top"
+    },
+    {
+        "name": "sylvan_cave_house_bottom",
+        "type": "toggle",
+        "codes": "sylvan_cave_house_bottom"
+    },
+    {
+        "name": "sealed_cave_b1f_chest",
+        "type": "toggle",
+        "codes": "sealed_cave_b1f_chest"
+    },
+    {
+        "name": "sealed_cave_b1f_southeast_room_left",
+        "type": "toggle",
+        "codes": "sealed_cave_b1f_southeast_room_left"
+    },
+    {
+        "name": "sealed_cave_b1f_southeast_room_right",
+        "type": "toggle",
+        "codes": "sealed_cave_b1f_southeast_room_right"
+    },
+    {
+        "name": "sealed_cave_b1f_to_b2f_passage_left",
+        "type": "toggle",
+        "codes": "sealed_cave_b1f_to_b2f_passage_left"
+    },
+    {
+        "name": "sealed_cave_b1f_to_b2f_passage_right",
+        "type": "toggle",
+        "codes": "sealed_cave_b1f_to_b2f_passage_right"
+    },
+    {
+        "name": "sealed_cave_b2f_center_right",
+        "type": "toggle",
+        "codes": "sealed_cave_b2f_center_right"
+    },
+    {
+        "name": "sealed_cave_b2f_bottom_right",
+        "type": "toggle",
+        "codes": "sealed_cave_b2f_bottom_right"
+    },
+    {
+        "name": "sealed_cave_b2f_north_side_leftmost_door_left",
+        "type": "toggle",
+        "codes": "sealed_cave_b2f_north_side_leftmost_door_left"
+    },
+    {
+        "name": "sealed_cave_b2f_north_side_leftmost_door_right",
+        "type": "toggle",
+        "codes": "sealed_cave_b2f_north_side_leftmost_door_right"
+    },
+    {
+        "name": "sealed_cave_b2f_north_side_third_door_from_right_left_top",
+        "type": "toggle",
+        "codes": "sealed_cave_b2f_north_side_third_door_from_right_left_top"
+    },
+    {
+        "name": "sealed_cave_b2f_north_side_third_door_from_right_left_bottom",
+        "type": "toggle",
+        "codes": "sealed_cave_b2f_north_side_third_door_from_right_left_bottom"
+    },
+    {
+        "name": "sealed_cave_b2f_north_side_third_door_from_right_right",
+        "type": "toggle",
+        "codes": "sealed_cave_b2f_north_side_third_door_from_right_right"
+    },
+    {
+        "name": "sealed_cave_b2f_north_side_second_door_from_right_chest",
+        "type": "toggle",
+        "codes": "sealed_cave_b2f_north_side_second_door_from_right_chest"
+    },
+    {
+        "name": "sealed_cave_b2f_to_b3f_passage_chest",
+        "type": "toggle",
+        "codes": "sealed_cave_b2f_to_b3f_passage_chest"
+    },
+    {
+        "name": "sealed_cave_b3f_chest",
+        "type": "toggle",
+        "codes": "sealed_cave_b3f_chest"
+    },
+    {
+        "name": "sealed_cave_b3f_to_b4f_passage_right",
+        "type": "toggle",
+        "codes": "sealed_cave_b3f_to_b4f_passage_right"
+    },
+    {
+        "name": "sealed_cave_b3f_to_b4f_passage_bottom",
+        "type": "toggle",
+        "codes": "sealed_cave_b3f_to_b4f_passage_bottom"
+    },
+    {
+        "name": "sealed_cave_box_room_top_right",
+        "type": "toggle",
+        "codes": "sealed_cave_box_room_top_right"
+    },
+    {
+        "name": "sealed_cave_box_room_bottom_left",
+        "type": "toggle",
+        "codes": "sealed_cave_box_room_bottom_left"
+    },
+    {
+        "name": "cave_bahamut_b1f_right_through_secret_path",
+        "type": "toggle",
+        "codes": "cave_bahamut_b1f_right_through_secret_path"
+    },
+    {
+        "name": "cave_bahamut_b1f_bottom_left",
+        "type": "toggle",
+        "codes": "cave_bahamut_b1f_bottom_left"
+    },
+    {
+        "name": "cave_bahamut_b2f_left",
+        "type": "toggle",
+        "codes": "cave_bahamut_b2f_left"
+    },
+    {
+        "name": "cave_bahamut_b2f_right",
+        "type": "toggle",
+        "codes": "cave_bahamut_b2f_right"
+    },
+    {
+        "name": "lunar_path_bottom_right",
+        "type": "toggle",
+        "codes": "lunar_path_bottom_right"
+    },
+    {
+        "name": "lunar_path_northeast_chamber_top",
+        "type": "toggle",
+        "codes": "lunar_path_northeast_chamber_top"
+    },
+    {
+        "name": "lunar_path_northeast_chamber_right",
+        "type": "toggle",
+        "codes": "lunar_path_northeast_chamber_right"
+    },
+    {
+        "name": "lunar_subterrane_b1_through_secret_path",
+        "type": "toggle",
+        "codes": "lunar_subterrane_b1_through_secret_path"
+    },
+    {
+        "name": "lunar_subterrane_b2_main_route_top_left",
+        "type": "toggle",
+        "codes": "lunar_subterrane_b2_main_route_top_left"
+    },
+    {
+        "name": "lunar_subterrane_b2_route_to_altar_chest",
+        "type": "toggle",
+        "codes": "lunar_subterrane_b2_route_to_altar_chest"
+    },
+    {
+        "name": "lunar_subterrane_b2_main_route_secret_path_chest",
+        "type": "toggle",
+        "codes": "lunar_subterrane_b2_main_route_secret_path_chest"
+    },
+    {
+        "name": "lunar_subterrane_b3_secret_path_first_chamber",
+        "type": "toggle",
+        "codes": "lunar_subterrane_b3_secret_path_first_chamber"
+    },
+    {
+        "name": "lunar_subterrane_b3_secret_path_second_chamber_top",
+        "type": "toggle",
+        "codes": "lunar_subterrane_b3_secret_path_second_chamber_top"
+    },
+    {
+        "name": "lunar_subterrane_b3_secret_path_second_chamber_left",
+        "type": "toggle",
+        "codes": "lunar_subterrane_b3_secret_path_second_chamber_left"
+    },
+    {
+        "name": "lunar_subterrane_b4_top_right",
+        "type": "toggle",
+        "codes": "lunar_subterrane_b4_top_right"
+    },
+    {
+        "name": "lunar_subterrane_b4_bottom_left",
+        "type": "toggle",
+        "codes": "lunar_subterrane_b4_bottom_left"
+    },
+    {
+        "name": "lunar_subterrane_b5_main_route_top_left",
+        "type": "toggle",
+        "codes": "lunar_subterrane_b5_main_route_top_left"
+    },
+    {
+        "name": "lunar_subterrane_b5_on_bridge_to_hidden_altar",
+        "type": "toggle",
+        "codes": "lunar_subterrane_b5_on_bridge_to_hidden_altar"
+    },
+    {
+        "name": "lunar_subterrane_b5_through_first_interior_passage_south_exit_chest",
+        "type": "toggle",
+        "codes": "lunar_subterrane_b5_through_first_interior_passage_south_exit_chest"
+    },
+    {
+        "name": "lunar_subterrane_b5_main_route_right",
+        "type": "toggle",
+        "codes": "lunar_subterrane_b5_main_route_right"
+    },
+    {
+        "name": "lunar_subterrane_b5_main_route_bottom_left",
+        "type": "toggle",
+        "codes": "lunar_subterrane_b5_main_route_bottom_left"
+    },
+    {
+        "name": "lunar_subterrane_b6_left_of_entrance",
+        "type": "toggle",
+        "codes": "lunar_subterrane_b6_left_of_entrance"
+    },
+    {
+        "name": "lunar_subterrane_b6_right_of_entrance",
+        "type": "toggle",
+        "codes": "lunar_subterrane_b6_right_of_entrance"
+    },
+    {
+        "name": "lunar_subterrane_b6_by_hidden_bridge",
+        "type": "toggle",
+        "codes": "lunar_subterrane_b6_by_hidden_bridge"
+    },
+    {
+        "name": "lunar_subterrane_b6_en_route_to_altar",
+        "type": "toggle",
+        "codes": "lunar_subterrane_b6_en_route_to_altar"
+    },
+    {
+        "name": "lunar_subterrane_core_b1_chest",
+        "type": "toggle",
+        "codes": "lunar_subterrane_core_b1_chest"
+    },
+    {
+        "name": "lunar_subterrane_core_b2_top_right",
+        "type": "toggle",
+        "codes": "lunar_subterrane_core_b2_top_right"
+    },
+    {
+        "name": "lunar_subterrane_core_b2_bottom",
+        "type": "toggle",
+        "codes": "lunar_subterrane_core_b2_bottom"
+    },
+    {
+        "name": "lunar_subterrane_core_b3_left",
+        "type": "toggle",
+        "codes": "lunar_subterrane_core_b3_left"
+    },
+    {
+        "name": "lunar_subterrane_core_b3_right",
+        "type": "toggle",
+        "codes": "lunar_subterrane_core_b3_right"
+    },
+    {
+        "name": "lunar_subterrane_b4_west_room_chest",
+        "type": "toggle",
+        "codes": "lunar_subterrane_b4_west_room_chest"
+    },
+    {
+        "name": "lunar_subterrane_b4_interior_passage_top_right",
+        "type": "toggle",
+        "codes": "lunar_subterrane_b4_interior_passage_top_right"
+    },
+    {
+        "name": "lunar_subterrane_b4_interior_passage_bottom_left",
+        "type": "toggle",
+        "codes": "lunar_subterrane_b4_interior_passage_bottom_left"
+    },
+    {
+        "name": "lunar_subterrane_b5_first_interior_passage_chest",
+        "type": "toggle",
+        "codes": "lunar_subterrane_b5_first_interior_passage_chest"
+    },
+    {
+        "name": "lunar_subterrane_b5_second_interior_passage_chest",
+        "type": "toggle",
+        "codes": "lunar_subterrane_b5_second_interior_passage_chest"
+    },
+    {
+        "name": "lunar_subterrane_b5_pinkpuff_room_chest",
+        "type": "toggle",
+        "codes": "lunar_subterrane_b5_pinkpuff_room_chest"
+    },
+    {
+        "name": "lunar_subterrane_b5_to_b6_passage_chest",
+        "type": "toggle",
+        "codes": "lunar_subterrane_b5_to_b6_passage_chest"
+    },
+    {
+        "name": "lunar_subterrane_b7_right_room_ribbon_left",
+        "type": "toggle",
+        "codes": "lunar_subterrane_b7_right_room_ribbon_left"
+    },
+    {
+        "name": "lunar_subterrane_b7_right_room_ribbon_right",
+        "type": "toggle",
+        "codes": "lunar_subterrane_b7_right_room_ribbon_right"
+    },
+    {
+        "name": "baron_castle_1f_starting_item",
+        "type": "toggle",
+        "codes": "baron_castle_1f_starting_item"
+    },
+    {
+        "name": "antlion_cave_b3f_antlion_nest_item",
+        "type": "toggle",
+        "codes": "antlion_cave_b3f_antlion_nest_item"
+    },
+    {
+        "name": "fabul_east_tower_3f_kings_bedroom_defend_fabul_reward_item",
+        "type": "toggle",
+        "codes": "fabul_east_tower_3f_kings_bedroom_defend_fabul_reward_item"
+    },
+    {
+        "name": "mt_ordeals_mirror_room_item",
+        "type": "toggle",
+        "codes": "mt_ordeals_mirror_room_item"
+    },
+    {
+        "name": "baron_town_inn_item",
+        "type": "toggle",
+        "codes": "baron_town_inn_item"
+    },
+    {
+        "name": "baron_castle_throne_room_item",
+        "type": "toggle",
+        "codes": "baron_castle_throne_room_item"
+    },
+    {
+        "name": "toroia_castle_hospital_edward_toroia_item",
+        "type": "toggle",
+        "codes": "toroia_castle_hospital_edward_toroia_item"
+    },
+    {
+        "name": "cave_magnes_crystal_room_item",
+        "type": "toggle",
+        "codes": "cave_magnes_crystal_room_item"
+    },
+    {
+        "name": "tower_of_zot_6f_item",
+        "type": "toggle",
+        "codes": "tower_of_zot_6f_item"
+    },
+    {
+        "name": "tower_of_bab_il_lower_8f_item_tower_key_slot",
+        "type": "toggle",
+        "codes": "tower_of_bab_il_lower_8f_item_tower_key_slot"
+    },
+    {
+        "name": "tower_of_bab_il_lower_5f_item_super_cannon_destruction",
+        "type": "toggle",
+        "codes": "tower_of_bab_il_lower_5f_item_super_cannon_destruction"
+    },
+    {
+        "name": "dwarf_castle_throne_room_luca_item",
+        "type": "toggle",
+        "codes": "dwarf_castle_throne_room_luca_item"
+    },
+    {
+        "name": "sealed_cave_crystal_room_item",
+        "type": "toggle",
+        "codes": "sealed_cave_crystal_room_item"
+    },
+    {
+        "name": "kokkol_house_2f_kokkol_forge_item",
+        "type": "toggle",
+        "codes": "kokkol_house_2f_kokkol_forge_item"
+    },
+    {
+        "name": "fabul_west_tower_3f_yang_room_found_yang_item",
+        "type": "toggle",
+        "codes": "fabul_west_tower_3f_yang_room_found_yang_item"
+    },
+    {
+        "name": "fabul_west_tower_3f_yang_room_pan_trade_item",
+        "type": "toggle",
+        "codes": "fabul_west_tower_3f_yang_room_pan_trade_item"
+    },
+    {
+        "name": "adamant_cave_rat_tail_trade_item",
+        "type": "toggle",
+        "codes": "adamant_cave_rat_tail_trade_item"
+    },
+    {
+        "name": "adamant_cave_pink_tail_trade_item",
+        "type": "toggle",
+        "codes": "adamant_cave_pink_tail_trade_item"
+    },
+    {
+        "name": "mist_exterior_rydias_mom_item",
+        "type": "toggle",
+        "codes": "mist_exterior_rydias_mom_item"
+    },
+    {
+        "name": "sylvan_cave_b3f_sylph_item",
+        "type": "toggle",
+        "codes": "sylvan_cave_b3f_sylph_item"
+    },
+    {
+        "name": "town_of_monsters_throne_room_asura_item",
+        "type": "toggle",
+        "codes": "town_of_monsters_throne_room_asura_item"
+    },
+    {
+        "name": "town_of_monsters_throne_room_levia_item",
+        "type": "toggle",
+        "codes": "town_of_monsters_throne_room_levia_item"
+    },
+    {
+        "name": "baron_castle_basement_odin_item",
+        "type": "toggle",
+        "codes": "baron_castle_basement_odin_item"
+    },
+    {
+        "name": "cave_bahamut_b3f_baham_item",
+        "type": "toggle",
+        "codes": "cave_bahamut_b3f_baham_item"
+    },
+    {
+        "name": "lunar_subterrane_b2_route_to_altar_altar_1_murasame_slot",
+        "type": "toggle",
+        "codes": "lunar_subterrane_b2_route_to_altar_altar_1_murasame_slot"
+    },
+    {
+        "name": "lunar_subterrane_b5_hidden_altar_altar_2_crystal_slot",
+        "type": "toggle",
+        "codes": "lunar_subterrane_b5_hidden_altar_altar_2_crystal_slot"
+    },
+    {
+        "name": "lunar_subterrane_b7_middle_room_altar_3_white_spear_slot",
+        "type": "toggle",
+        "codes": "lunar_subterrane_b7_middle_room_altar_3_white_spear_slot"
+    },
+    {
+        "name": "lunar_subterrane_b8_altar_4_masamune_slot",
+        "type": "toggle",
+        "codes": "lunar_subterrane_b8_altar_4_masamune_slot"
+    },
+    {
+        "name": "starting_character_1",
+        "type": "toggle",
+        "codes": "starting_character_1"
+    },
+    {
+        "name": "starting_character_2",
+        "type": "toggle",
+        "codes": "starting_character_2"
+    },
+    {
+        "name": "mist_character",
+        "type": "toggle",
+        "codes": "mist_character"
+    },
+    {
+        "name": "watery_pass_character",
+        "type": "toggle",
+        "codes": "watery_pass_character"
+    },
+    {
+        "name": "damcyan_character",
+        "type": "toggle",
+        "codes": "damcyan_character"
+    },
+    {
+        "name": "kaipo_character",
+        "type": "toggle",
+        "codes": "kaipo_character"
+    },
+    {
+        "name": "mt_hobs_character",
+        "type": "toggle",
+        "codes": "mt_hobs_character"
+    },
+    {
+        "name": "mysidia_character_1",
+        "type": "toggle",
+        "codes": "mysidia_character_1"
+    },
+    {
+        "name": "mysidia_character_2",
+        "type": "toggle",
+        "codes": "mysidia_character_2"
+    },
+    {
+        "name": "mt_ordeals_character",
+        "type": "toggle",
+        "codes": "mt_ordeals_character"
+    },
+    {
+        "name": "baron_inn_character",
+        "type": "toggle",
+        "codes": "baron_inn_character"
+    },
+    {
+        "name": "baron_castle_character",
+        "type": "toggle",
+        "codes": "baron_castle_character"
+    },
+    {
+        "name": "tower_of_zot_character_1",
+        "type": "toggle",
+        "codes": "tower_of_zot_character_1"
+    },
+    {
+        "name": "tower_of_zot_character_2",
+        "type": "toggle",
+        "codes": "tower_of_zot_character_2"
+    },
+    {
+        "name": "dwarf_castle_character",
+        "type": "toggle",
+        "codes": "dwarf_castle_character"
+    },
+    {
+        "name": "cave_eblana_character",
+        "type": "toggle",
+        "codes": "cave_eblana_character"
+    },
+    {
+        "name": "lunar_palace_character",
+        "type": "toggle",
+        "codes": "lunar_palace_character"
+    },
+    {
+        "name": "giant_of_bab_il_character",
+        "type": "toggle",
+        "codes": "giant_of_bab_il_character"
+    }
+]
+    
