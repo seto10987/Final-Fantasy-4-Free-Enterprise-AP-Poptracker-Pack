@@ -1,6 +1,12 @@
 {
 	"versions": [
 		{
+			"package_version": "0.2.0",
+			"download_url": "https://github.com/seto10987/Final-Fantasy-4-Free-Enterprise-AP-Poptracker-Pack/archive/refs/tags/v.0.2.0.zip",
+			"sha256": "43529a3b4ae5c3de14680e1fae0535dfdd26e224401382cd45bcd120472f30c6",
+			"changelog": ["initial release"]
+		},
+		{
 			"package_version": "0.1.0",
 			"download_url": "https://github.com/seto10987/Final-Fantasy-4-Free-Enterprise-AP-Poptracker-Pack/archive/refs/tags/v.0.1.0.zip",
 			"sha256": "206b1d44fc4f5d38565613515f5dc1525d4e9b3d530511aa8823f79edbc9578f",
