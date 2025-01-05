@@ -1324,6 +1324,10 @@
                         "visibility_rules": ["tower_of_zot_5f_through_4f_center_right_door_chest"]
                     },
                     {
+                        "name": "Tower of Zot -- Monster in a Box (Hint)",
+                        "visibility_rules": ["tower_of_zot_monster_in_a_box"]
+                    },
+                    {
                         "name": "Tower of Zot -- 6F -- item (Hint)",
                         "chest_unopened_img": "images/icons/key_magma_unopened.png",
                         "chest_opened_img": "images/icons/key_magma_opened.png",
@@ -1466,6 +1470,18 @@
                     {
                         "name": "Eblan Castle -- Basement -- right (Hint)",
                         "visibility_rules": ["eblan_castle_basement_right"]
+                    },
+                    {
+                        "name": "Eblan Castle -- Monster in a Box 1 (Hint)",
+                        "visibility_rules": ["eblan_castle_monster_in_a_box_1"]
+                    },
+                    {
+                        "name": "Eblan Castle -- Monster in a Box 2 (Hint)",
+                        "visibility_rules": ["eblan_castle_monster_in_a_box_2"]
+                    },
+                    {
+                        "name": "Eblan Castle -- Monster in a Box 3 (Hint)",
+                        "visibility_rules": ["eblan_castle_monster_in_a_box_3"]
                     }
                 ],
                 "map_locations": [
@@ -1574,6 +1590,10 @@
                         "visibility_rules": ["cave_eblana_save_room_hidden_chest"]
                     },
                     {
+                        "name": "Cave Eblana -- Monster in a Box (Hint)",
+                        "visibility_rules": ["cave_eblana_monster_in_a_box"]
+                    },
+                    {
                         "name": "Cave Eblana Character (Hint)",
                         "visibility_rules": ["cave_eblana_character"],
                         "chest_unopened_img": "images/characters/edge.png",
@@ -1616,6 +1636,10 @@
                     {
                         "name": "Tower of Bab-il (upper) -- B5F -- chest (left of crystal room entrance) (Hint)",
                         "visibility_rules": ["tower_of_babil_upper_b5f_chest_left_of_crystal_room_entrance"]
+                    },
+                    {
+                        "name": "Tower of Bab-il (upper) -- Monster in a Box (Hint)",
+                        "visibility_rules": ["tower_of_bab_il_upper_monster_in_a_box"]
                     },
                     {
                         "name": "Tower of Bab-il (lower) -- Trapdoor landing -- chest (Hint)",
@@ -1670,6 +1694,10 @@
                     {
                         "name": "Giant of Bab-il -- Passage -- chest (Hint)",
                         "visibility_rules": ["giant_of_babil_passage_chest"]
+                    },
+                    {
+                        "name": "Giant of Bab-il -- Monster in a Box (Hint)",
+                        "visibility_rules": ["giant_of_bab_il_monster_in_a_box"]
                     },
                     {
                         "name": "Giant of Bab-il Character (Hint)",

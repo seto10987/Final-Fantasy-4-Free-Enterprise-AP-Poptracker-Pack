@@ -16,6 +16,9 @@
                     },
                     {
                         "name": "Lunar Path --  -- northeast chamber, right"
+                    },
+                    {
+                        "name": "Lunar Path -- Monster in a Box"
                     }
                 ],
                 "map_locations": [
@@ -206,6 +209,33 @@
                     },
                     {
                         "name": "Lunar Subterrane -- Core B3 -- right"
+                    },
+                    {
+                        "name": "Lunar Core -- Monster in a Box 1"
+                    },
+                    {
+                        "name": "Lunar Core -- Monster in a Box 2"
+                    },
+                    {
+                        "name": "Lunar Core -- Monster in a Box 3"
+                    },
+                    {
+                        "name": "Lunar Core -- Monster in a Box 4"
+                    },
+                    {
+                        "name": "Lunar Core -- Monster in a Box 5"
+                    },
+                    {
+                        "name": "Lunar Core -- Monster in a Box 6"
+                    },
+                    {
+                        "name": "Lunar Core -- Monster in a Box 7"
+                    },
+                    {
+                        "name": "Lunar Core -- Monster in a Box 8"
+                    },
+                    {
+                        "name": "Lunar Core -- Monster in a Box 9"
                     }
                 ],
                 "map_locations": [

@@ -19,6 +19,10 @@
                     {
                         "name": "Lunar Path --  -- northeast chamber, right (Hint)",
                         "visibility_rules": ["lunar_path_northeast_chamber_right"]
+                    },
+                    {
+                        "name": "Lunar Path -- Monster in a Box (Hint)",
+                        "visibility_rules": ["lunar_path_monster_in_a_box"]
                     }
                 ],
                 "map_locations": [
@@ -250,6 +254,42 @@
                     {
                         "name": "Lunar Subterrane -- Core B3 -- right (Hint)",
                         "visibility_rules": ["lunar_subterrane_core_b3_right"]
+                    },
+                    {
+                        "name": "Lunar Core -- Monster in a Box 1 (Hint)",
+                        "visibility_rules": ["lunar_core_monster_in_a_box_1"]
+                    },
+                    {
+                        "name": "Lunar Core -- Monster in a Box 2 (Hint)",
+                        "visibility_rules": ["lunar_core_monster_in_a_box_2"]
+                    },
+                    {
+                        "name": "Lunar Core -- Monster in a Box 3 (Hint)",
+                        "visibility_rules": ["lunar_core_monster_in_a_box_3"]
+                    },
+                    {
+                        "name": "Lunar Core -- Monster in a Box 4 (Hint)",
+                        "visibility_rules": ["lunar_core_monster_in_a_box_4"]
+                    },
+                    {
+                        "name": "Lunar Core -- Monster in a Box 5 (Hint)",
+                        "visibility_rules": ["lunar_core_monster_in_a_box_5"]
+                    },
+                    {
+                        "name": "Lunar Core -- Monster in a Box 6 (Hint)",
+                        "visibility_rules": ["lunar_core_monster_in_a_box_6"]
+                    },
+                    {
+                        "name": "Lunar Core -- Monster in a Box 7 (Hint)",
+                        "visibility_rules": ["lunar_core_monster_in_a_box_7"]
+                    },
+                    {
+                        "name": "Lunar Core -- Monster in a Box 8 (Hint)",
+                        "visibility_rules": ["lunar_core_monster_in_a_box_8"]
+                    },
+                    {
+                        "name": "Lunar Core -- Monster in a Box 9 (Hint)",
+                        "visibility_rules": ["lunar_core_monster_in_a_box_9"]
                     }
                 ],
                 "map_locations": [

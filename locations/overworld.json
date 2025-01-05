@@ -1179,6 +1179,9 @@
                         "name": "Tower of Zot -- 5F (through 4F center-right door) -- chest"
                     },
                     {
+                        "name": "Tower of Zot -- Monster in a Box"
+                    },
+                    {
                         "name": "Tower of Zot -- 6F -- item",
                         "access_rules": ["earthcrystal"],
                         "chest_unopened_img": "images/icons/key_magma_unopened.png",
@@ -1300,6 +1303,15 @@
                     },
                     {
                         "name": "Eblan Castle -- Basement -- right"
+                    },
+                    {
+                        "name": "Eblan Castle -- Monster in a Box 1"
+                    },
+                    {
+                        "name": "Eblan Castle -- Monster in a Box 2"
+                    },
+                    {
+                        "name": "Eblan Castle -- Monster in a Box 3"
                     }
                 ],
                 "map_locations": [
@@ -1387,6 +1399,9 @@
                         "name": "Cave Eblana -- Save Room -- hidden chest"
                     },
                     {
+                        "name": "Cave Eblana -- Monster in a Box"
+                    },
+                    {
                         "name": "Cave Eblana Character",
                         "visibility_rules": ["noearnedcharactersoff"],
                         "chest_unopened_img": "images/characters/edge.png",
@@ -1424,6 +1439,9 @@
                     },
                     {
                         "name": "Tower of Bab-il (upper) -- B5F -- chest (left of crystal room entrance)"
+                    },
+                    {
+                        "name": "Tower of Bab-il (upper) -- Monster in a Box"
                     },
                     {
                         "name": "Tower of Bab-il (lower) -- Trapdoor landing -- chest"
@@ -1469,6 +1487,9 @@
                     },
                     {
                         "name": "Giant of Bab-il -- Passage -- chest"
+                    },
+                    {
+                        "name": "Giant of Bab-il -- Monster in a Box"
                     },
                     {
                         "name": "Giant of Bab-il Character",

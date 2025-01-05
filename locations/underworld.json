@@ -136,6 +136,18 @@
                         "name": "Tower of Bab-il (lower) -- 7F -- chest"
                     },
                     {
+                        "name": "Tower of Bab-il (lower) -- Monster in a Box 1"
+                    },
+                    {
+                        "name": "Tower of Bab-il (lower) -- Monster in a Box 2"
+                    },
+                    {
+                        "name": "Tower of Bab-il (lower) -- Monster in a Box 3"
+                    },
+                    {
+                        "name": "Tower of Bab-il (lower) -- Monster in a Box 4"
+                    },
+                    {
                         "name": "Tower of Bab-il (lower) -- 8F -- item (Tower Key slot)",
                         "chest_unopened_img": "images/icons/key_tower_unopened.png",
                         "chest_opened_img": "images/icons/key_tower_opened.png"
@@ -408,6 +420,27 @@
                         "name": "Sylvan Cave -- House -- bottom"
                     },
                     {
+                        "name": "Sylvan Cave -- Monster in a Box 1"
+                    },
+                    {
+                        "name": "Sylvan Cave -- Monster in a Box 2"
+                    },
+                    {
+                        "name": "Sylvan Cave -- Monster in a Box 3"
+                    },
+                    {
+                        "name": "Sylvan Cave -- Monster in a Box 4"
+                    },
+                    {
+                        "name": "Sylvan Cave -- Monster in a Box 5"
+                    },                    
+                    {
+                        "name": "Sylvan Cave -- Monster in a Box 6"
+                    },
+                    {
+                        "name": "Sylvan Cave -- Monster in a Box 7"
+                    },
+                    {
                         "name": "Sylvan Cave -- B3F -- Sylph item",
                         "chest_unopened_img": "images/icons/key_pan_unopened.png",
                         "chest_opened_img": "images/icons/key_pan_opened.png",
@@ -459,6 +492,9 @@
                     },
                     {
                         "name": "Land of Monsters -- B3F -- bottom right"
+                    },
+                    {
+                        "name": "Land of Monsters -- Monster in a Box"
                     }
                 ],
                 "map_locations": [

@@ -167,6 +167,22 @@
                         "visibility_rules": ["tower_of_babil_lower_7f_chest"]
                     },
                     {
+                        "name": "Tower of Bab-il (lower) -- Monster in a Box 1 (Hint)",
+                        "visibility_rules": ["tower_of_bab_il_lower_monster_in_a_box_1"]
+                    },
+                    {
+                        "name": "Tower of Bab-il (lower) -- Monster in a Box 2 (Hint)",
+                        "visibility_rules": ["tower_of_bab_il_lower_monster_in_a_box_2"]
+                    },
+                    {
+                        "name": "Tower of Bab-il (lower) -- Monster in a Box 3 (Hint)",
+                        "visibility_rules": ["tower_of_bab_il_lower_monster_in_a_box_3"]
+                    },
+                    {
+                        "name": "Tower of Bab-il (lower) -- Monster in a Box 4 (Hint)",
+                        "visibility_rules": ["tower_of_bab_il_lower_monster_in_a_box_4"]
+                    },
+                    {
                         "name": "Tower of Bab-il (lower) -- 8F -- item (Tower Key slot) (Hint)",
                         "chest_unopened_img": "images/icons/key_tower_unopened.png",
                         "chest_opened_img": "images/icons/key_tower_opened.png",
@@ -501,6 +517,34 @@
                         "visibility_rules": ["sylvan_cave_house_bottom"]
                     },
                     {
+                        "name": "Sylvan Cave -- Monster in a Box 1 (Hint)",
+                        "visibility_rules": ["sylvan_cave_monster_in_a_box_1"]
+                    },
+                    {
+                        "name": "Sylvan Cave -- Monster in a Box 2 (Hint)",
+                        "visibility_rules": ["sylvan_cave_monster_in_a_box_2"]
+                    },
+                    {
+                        "name": "Sylvan Cave -- Monster in a Box 4 (Hint)",
+                        "visibility_rules": ["sylvan_cave_monster_in_a_box_4"]
+                    },
+                    {
+                        "name": "Sylvan Cave -- Monster in a Box 5 (Hint)",
+                        "visibility_rules": ["sylvan_cave_monster_in_a_box_5"]
+                    },
+                    {
+                        "name": "Sylvan Cave -- Monster in a Box 3 (Hint)",
+                        "visibility_rules": ["sylvan_cave_monster_in_a_box_3"]
+                    },
+                    {
+                        "name": "Sylvan Cave -- Monster in a Box 6 (Hint)",
+                        "visibility_rules": ["sylvan_cave_monster_in_a_box_6"]
+                    },
+                    {
+                        "name": "Sylvan Cave -- Monster in a Box 7 (Hint)",
+                        "visibility_rules": ["sylvan_cave_monster_in_a_box_7"]
+                    },
+                    {
                         "name": "Sylvan Cave -- B3F -- Sylph item (Hint)",
                         "chest_unopened_img": "images/icons/key_pan_unopened.png",
                         "chest_opened_img": "images/icons/key_pan_opened.png",
@@ -563,6 +607,10 @@
                     {
                         "name": "Land of Monsters -- B3F -- bottom right (Hint)",
                         "visibility_rules": ["land_of_monsters_b3f_bottom_right"]
+                    },
+                    {
+                        "name": "Land of Monsters -- Monster in a Box (Hint)",
+                        "visibility_rules": ["land_of_monsters_monster_in_a_box"]
                     }
                 ],
                 "map_locations": [
